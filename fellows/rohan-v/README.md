@@ -20,7 +20,7 @@ Lyrical Literacy (November), then an editing pipeline (by mid-December).
 - [Renewal request](./RENEWAL.md) (sent 2026-09-28, approved) · [renewal index](./renewal-requests/README.md)
 - [Weekly hours](./weekly-hours/README.md): one file per week · [summary table](./HOURS.md)
 - [Research and project plan](./research-plan.md), with status
-- Latest week: [2026-10-02](#week-of-2026-10-02), submitted late (Monday 5 Oct)
+- Latest week: [2026-10-09](#week-of-2026-10-09)
 
 ## How this folder is built
 
@@ -31,6 +31,17 @@ Lyrical Literacy (November), then an editing pipeline (by mid-December).
 Rebuild with [brutalist.art](https://github.com/nikbearbrown/brutalist.art). Renders (narration, beat clips and the 4K masters) go to Google Drive, one dated folder per week, and each work folder's README links its own. Anything used to *build* a video (captures, pantry stills, sfx, evidence data) is committed beside it, per the [fellows README](../README.md).
 
 Every master is 4K: `./art final <reel>` (3840×2160) and `./art final <reel>/vertical --height 3840` (2160×3840).
+
+## Week of 2026-10-09
+
+Two STEM explainers this week (no progress video), both 16:9 (3840×2160) and native 9:16
+(2160×3840), each built on a program I wrote and measured, with listening clips. Masters in Drive,
+[`2026-10-09/`](https://drive.google.com/drive/folders/1JXFqKVB5WenIxrkxeeEGG_0JOfO8Z0_b) (`landscape/`, `vertical/`), named per
+[FELLOWS-SUBMISSION](https://github.com/nikbearbrown/brutalist.art/blob/main/docs/FELLOWS-SUBMISSION.md).
+Hours: [20](./weekly-hours/2026-10-05-weekly-hours.md).
+
+- [How Shazam Finds a Song](./2026-10-09-how-shazam-finds-a-song/): spectrogram peaks, hashes and offset voting, on a fingerprinter I built and tested in cafe noise (`SongFingerprinting_RohanV.mp4`)
+- [How AI Music Generators Turn Text Into Audio](./2026-10-09-how-ai-music-turns-text-into-audio/): audio tokens, a codec and a next-token model I built and measured; how the prompt steers (`AIMusicTokens_RohanV.mp4`)
 
 ## Week of 2026-10-02
 
