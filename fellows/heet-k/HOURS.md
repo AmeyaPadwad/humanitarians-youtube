@@ -10,13 +10,14 @@ weekly reports generated via Addams (Frictional Learning Journal).
 | 16 | 14–20 Sep | Final outro in 16:9, 9:16, 4K (11) · fixed not-visible video, uploaded, linked in codebase (6) · self-review (2) | 19.0 | 3.0 | **22.0** |
 | 17 | 21–27 Sep | Channel reorganization — unlist/remove (10) · channel structure and content plan, Phase 1 (8) · self-review (1) | 19.0 | 2.0 | **21.0** |
 | 18 | 28 Sep – 4 Oct | Intro & outro created/updated via the Brutalist skill (11) · continued deciding channel video types (8) · self-review (1) | 20.0 | 2.0 | **22.0** |
-| **Total** | | | **93.0** | **13.0** | **106.0** |
+| 19 | 5–11 Oct | Intro & outro modified to final, professor-confirmed (12) · a few new YouTube video suggestions (7) · self-review (1) | 20.0 | 2.0 | **22.0** |
+| **Total** | | | **113.0** | **15.0** | **128.0** |
 
 Each week meets the 20-hour requirement at the stated split.
 
-Professor confirmations (intros Week 14, intro+outro and the explainer Week 15,
-final outro Week 16) are logged as results in [README.md](README.md), not as
-separate hours buckets.
+Professor confirmations (intros Week 14; intro+outro and the explainer Week 15;
+final outro Week 16; the Brutalist-skill intro/outro Week 19) are logged as
+results in [README.md](README.md), not as separate hours buckets.
 
 If actual hours differ from these figures they should replace them here — the
 numbers must be the volunteer's own reconstruction.

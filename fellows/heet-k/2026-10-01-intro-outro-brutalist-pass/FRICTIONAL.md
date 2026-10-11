@@ -52,3 +52,60 @@ confirmed Week 15 versions, because I never put them side by side. Until that
 comparison exists, "a further pass" is an assertion about the output rather than
 a statement about it. And I do not have the skill commit, so a reader cannot open
 the one thing this week was supposed to produce.
+
+---
+
+## 2026-10-11 — sent it after all, and it came back confirmed
+
+> Written 2026-10-10, within the week it describes, from the Week 19 report.
+> Appended rather than editing the entry above: that entry's "held" status was
+> true when written, and it stays as written.
+
+- **Evidence:** still NOT PROVIDED — no renders, no skill commit. See [README.md](README.md#evidence-gap--stated-plainly)
+- **Confirmation:** professor-confirmed final. No countersignature included.
+- **Hours:** Week 19 total 22.0 — 12.0 on this thread — [HOURS.md](../HOURS.md)
+- **This week's other thread:** [YouTube video suggestions](../2026-10-08-youtube-video-suggestions/)
+
+**What I was working on.** Taking the version I held last week, modifying it into
+a final, and actually submitting it.
+
+**What I tried, and what I expected.** Last week I held this deliberately,
+reasoning that sending a regenerated version invites re-litigating a decision
+that was already closed. I expected that if I did submit, the likely outcomes
+were a round of revisions or a "the old one was fine."
+
+**Where it resisted, and what I did next.**
+
+- **Holding it was the right call for one week and the wrong call for two.**
+  The reason I gave myself for not sending — that I could not show the
+  regenerated output matched the confirmed set — was a real reason. But it was
+  also a reason that would never resolve on its own, because I was not doing the
+  comparison. At some point "not ready to send" becomes "not sending," and the
+  only way to find out which one I was in was to submit.
+- **It came back confirmed.** Twelve hours of modification went in first, so
+  this was not the held version waved through; it was a different, finished
+  thing. Still, the outcome I most feared — reopening a closed decision — did
+  not happen.
+- **I did not do the side-by-side.** Last week's entry said I would not know
+  whether the regenerated intro and outro matched the Week 15 confirmed set
+  until I put them next to each other. I still have not. The professor's
+  confirmation settles whether the new version is good; it does not answer the
+  question I actually asked myself, which was whether the skill reproduces what
+  the hand-built version did.
+
+**What Claude contributed, and what I accepted, changed or rejected.**
+
+*TODO — Heet: what changed between the held version and the submitted final?
+That delta is the most interesting part of this entry and I cannot reconstruct it.*
+
+**What I understand now, and what I still do not.**
+
+I understand that "held pending a check I am not performing" is just a slower
+way of not shipping, and that submitting is often the cheapest way to find out
+whether a worry was real. The worry here was not.
+
+I still do not know whether the skill-generated stings match the hand-built
+ones — a confirmation of the output is not an answer about the tool. And the
+evidence position has not improved at all: this folder now describes a
+professor-confirmed deliverable with no render, no commit, and no named skill.
+A confirmed result nobody can open is the weakest kind of strong claim.
