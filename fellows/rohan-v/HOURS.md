@@ -15,7 +15,8 @@ reports I wrote at the time). From 28 Sep each week also has its own file in
 | 14–18 Sep | What Bit Depth Does and Why Your Track Sounds Thin On A Phone; HyperFrames install and test edit | 20 |
 | 21–25 Sep | Agentic editing research; onboarding guide started; Image Diffusion and Testing AI Video Editors | 21 |
 | 28 Sep – 2 Oct | Renewal report and request; Lyrical Literacy Fellows Handbook v1.0 | 20 |
-| **Total** | | **174** |
+| 5–9 Oct | Last week's two videos; How Shazam Finds a Song and How AI Music Generators Turn Text Into Audio | 20 |
+| **Total** | | **194** |
 
 Hours include video research and production, reviewing Brutalist videos, Lyrical
 Literacy meetings and coordination, and tool testing. Evidence for each week (videos,
