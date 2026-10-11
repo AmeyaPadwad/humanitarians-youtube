@@ -33,7 +33,7 @@ the series (AI voice, disclosed on screen).
 
 ## Reproduce
 
-**Brutalist version/commit and date checked:** `8935f5a`, checked 2026-10-10: origin/main `b21f625`
+**Brutalist version/commit and date checked:** `79eff6b`, checked 2026-10-10: origin/main `b21f625`
 merged locally that day, plus local commits adding this week's scenes and fixes (not pushed
 upstream; the scene files are copied into [`scenes/`](./scenes/) here).
 
@@ -61,9 +61,9 @@ record is required for this reel type; none is claimed.
 
 ## Watch and review
 
-Landscape — [`landscape/AIMusicTokens_RohanV.mp4`](https://drive.google.com/drive/folders/1ULEWIaIqfd9emKcYgctQ_hrt0zAVh44L) — 3840×2160 — 3:29 (209.29 s) — SHA-256 `3e3745fd5b60209dd2c175ae30fac535fb81758e01cf71f88c638980423dc648`
+Landscape — [`landscape/AIMusicTokens_RohanV.mp4`](https://drive.google.com/drive/folders/1ULEWIaIqfd9emKcYgctQ_hrt0zAVh44L) — 3840×2160 — 3:29 (209.29 s) — SHA-256 `54ea386750c33e296393c2e29a19bc342217a5bedb1435f601e0952a3e06414d`
 
-Vertical — [`vertical/AIMusicTokens_RohanV.mp4`](https://drive.google.com/drive/folders/1xUcoXftnjYhqYjwUtuMK2eiTsrQI62q0) — 2160×3840 — 3:29 (209.29 s) — SHA-256 `5baa94f6ae27b816c8eb7b4ec36cecf25d36f8b50c133e177153c4691bccaff3`
+Vertical — [`vertical/AIMusicTokens_RohanV.mp4`](https://drive.google.com/drive/folders/1xUcoXftnjYhqYjwUtuMK2eiTsrQI62q0) — 2160×3840 — 3:29 (209.29 s) — SHA-256 `79a982f61e5d300feb42e8a5223cb879e6776233f27bf78023d4c15bbff35a67`
 
 Week folder on Drive: [`2026-10-09/`](https://drive.google.com/drive/folders/1JXFqKVB5WenIxrkxeeEGG_0JOfO8Z0_b)
 

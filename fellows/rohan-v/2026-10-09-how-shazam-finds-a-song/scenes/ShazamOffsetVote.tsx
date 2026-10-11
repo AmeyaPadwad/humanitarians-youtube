@@ -120,8 +120,8 @@ export const ShazamOffsetVote: React.FC<ShazamOffsetVoteProps> = ({ eyebrow, tit
       <AbsoluteFill style={{ background: CLAUDE.PAGE, overflow: 'hidden' }}>
         <BeatHead eyebrow="" title={title} inOp={headIn} titleSize={T.title} padX={PAD_X} height={height} width={width} portrait />
         {plot}
-        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.53 }}>{eqs}</div>
-        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.675 }}>{hist}</div>
+        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.555 }}>{eqs}</div>
+        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.69 }}>{hist}</div>
         <PhoneBaseline padX={PAD_X} width={width} height={height} inOp={headIn} />
         <SparkLine text={sparkLine} inOp={sparkIn} padX={PAD_X} width={width} height={height} portrait top={height * 0.8} fontSize={T.spark} />
       </AbsoluteFill>
@@ -133,7 +133,7 @@ export const ShazamOffsetVote: React.FC<ShazamOffsetVoteProps> = ({ eyebrow, tit
       {plot}
       <div style={{ position: 'absolute', left: PAD_X + CW * 0.57, top: PY }}>{eqs}</div>
       <div style={{ position: 'absolute', left: PAD_X + CW * 0.57, top: PY + PH - HH - 30 * U }}>{hist}</div>
-      <div style={{ position: 'absolute', left: PX + PW * 0.52, top: PY + PH * 0.6, opacity: op(sScat) }}>
+      <div style={{ position: 'absolute', left: PAD_X + CW * 0.57, top: PY + PH + 14 * U, opacity: op(sScat) }}>
         <Chip text={`${pts.length - nOn} CHANCE MATCHES, SCATTERED`} size={22 * U} />
       </div>
       <SparkLine text={sparkLine} inOp={sparkIn} padX={PAD_X} width={width} height={height} />

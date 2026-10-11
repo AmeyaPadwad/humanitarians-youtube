@@ -33,7 +33,7 @@ the series (AI voice, disclosed on screen).
 
 ## Reproduce
 
-**Brutalist version/commit and date checked:** `8935f5a`, checked 2026-10-10: origin/main `b21f625`
+**Brutalist version/commit and date checked:** `79eff6b`, checked 2026-10-10: origin/main `b21f625`
 merged locally that day, plus local commits adding this week's scenes and fixes (not pushed
 upstream; the scene files are copied into [`scenes/`](./scenes/) here).
 
@@ -61,9 +61,9 @@ record is required for this reel type; none is claimed.
 
 ## Watch and review
 
-Landscape — [`landscape/SongFingerprinting_RohanV.mp4`](https://drive.google.com/drive/folders/1ULEWIaIqfd9emKcYgctQ_hrt0zAVh44L) — 3840×2160 — 3:23 (202.58 s) — SHA-256 `ec6e584bf59194988ba625bb555d33be15b69d46db21ea698d2e12f0502c4c43`
+Landscape — [`landscape/SongFingerprinting_RohanV.mp4`](https://drive.google.com/drive/folders/1ULEWIaIqfd9emKcYgctQ_hrt0zAVh44L) — 3840×2160 — 3:23 (202.58 s) — SHA-256 `5b24240fbbae7f1be861c22bf052bc20ca44fb4029e21af6bc411277f5c1c4ee`
 
-Vertical — [`vertical/SongFingerprinting_RohanV.mp4`](https://drive.google.com/drive/folders/1xUcoXftnjYhqYjwUtuMK2eiTsrQI62q0) — 2160×3840 — 3:23 (202.58 s) — SHA-256 `adb47734038f804fca6ec0f335bc40c1c2669e6df0ff1a5405fb150d8fa61dcc`
+Vertical — [`vertical/SongFingerprinting_RohanV.mp4`](https://drive.google.com/drive/folders/1xUcoXftnjYhqYjwUtuMK2eiTsrQI62q0) — 2160×3840 — 3:23 (202.58 s) — SHA-256 `c21324ac1adb5afb6c0d0048cdd62c39bc5f313bbb810bd063b4cc54cb85cb06`
 
 Week folder on Drive: [`2026-10-09/`](https://drive.google.com/drive/folders/1JXFqKVB5WenIxrkxeeEGG_0JOfO8Z0_b)
 

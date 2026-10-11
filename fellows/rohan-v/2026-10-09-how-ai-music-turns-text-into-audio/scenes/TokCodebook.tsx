@@ -71,7 +71,7 @@ export const TokCodebook: React.FC<TokCodebookProps> = ({ eyebrow, title, sparkL
   );
 
   // codebook grid
-  const GW = portrait ? CW * 0.48 : CW * 0.3;
+  const GW = portrait ? CW * 0.36 : CW * 0.24;
   const cell = GW / 32;
   const GX = portrait ? PAD_X : PAD_X + CW * 0.43, GY = portrait ? height * 0.475 : height * 0.33;
   const chosen = tok0;
@@ -90,16 +90,16 @@ export const TokCodebook: React.FC<TokCodebookProps> = ({ eyebrow, title, sparkL
         {op(sClose) > 0.4 ? <rect x={(chosen % 32) * cell - cell * 1.2} y={Math.floor(chosen / 32) * cell - cell * 1.2} width={cell * 3.4} height={cell * 3.4}
           fill="none" stroke={SPARK_TEXT} strokeWidth={4} rx={6} /> : null}
       </svg>
-      <Label text={portrait ? 'LEARNED FROM MUSIC' : 'EACH ONE A TYPICAL SOUND SHAPE, LEARNED FROM MUSIC'} size={lbl * 0.95} opacity={op(sLearn)} style={{ marginTop: 10 }} />
+      {portrait ? null : <Label text="EACH ONE A TYPICAL SOUND SHAPE, LEARNED FROM MUSIC" size={lbl * 0.95} opacity={op(sLearn)} style={{ marginTop: 10 }} />}
     </div>
   );
 
   // example entries
   const ex: number[][] = TOK.codebook_examples;
-  const EW = portrait ? (CW * 0.48 - 20) / 2 : CW * 0.11, EH = EW * 0.55;
-  const EX = portrait ? PAD_X + CW * 0.52 : PAD_X + CW * 0.77, EY = GY + lbl * 1.6;
+  const EW = portrait ? (CW * 0.55 - 20) / 2 : CW * 0.11, EH = EW * 0.55;
+  const EX = portrait ? PAD_X + CW * 0.45 : PAD_X + CW * 0.77, EY = GY + lbl * 1.6;
   const examples = (
-    <div style={{ position: 'absolute', left: EX, top: EY, display: 'grid', gridTemplateColumns: `repeat(2, ${EW}px)`, gap: portrait ? 20 : 16 * U, opacity: op(sLearn) }}>
+    <div style={{ position: 'absolute', left: EX, top: EY, display: 'grid', gridTemplateColumns: `repeat(2, ${EW}px)`, gap: portrait ? 20 : 16 * U, opacity: 0.5 * op(sBook) + 0.5 * op(sLearn) }}>
       {ex.map((v, i) => (
         <svg key={i} width={EW} height={EH} style={{ overflow: 'visible' }}>
           <rect x={0} y={0} width={EW} height={EH} fill={CLAUDE.CARD} stroke={CLAUDE.BORDER} strokeWidth={1.5} />
@@ -110,8 +110,8 @@ export const TokCodebook: React.FC<TokCodebookProps> = ({ eyebrow, title, sparkL
   );
 
   const tokenRow = (size: number) => (
-    <div style={{ display: 'flex', alignItems: 'center', gap: size * 0.5, flexWrap: 'wrap', opacity: op(sTok) }}>
-      <Label text="TOKEN" size={lbl} color={SPARK_TEXT} />
+    <div style={{ display: 'flex', alignItems: 'center', gap: size * 0.5, flexWrap: 'wrap', opacity: portrait ? op(sTok) : 0.5 + 0.5 * op(sTok) }}>
+      <Label text={portrait ? 'TOKEN' : 'TOKEN (0 TO 1,023)'} size={lbl} color={SPARK_TEXT} />
       {row.slice(0, portrait ? 4 : 8).map((t, i) => <TokenBox key={i} n={t} size={size} accent={i === 0} opacity={i === 0 ? 1 : clamp(op(sRange) * 8 - i, 0, 1)} />)}
       <span style={{ opacity: op(sRange), fontFamily: HAI_TYPE.mono, fontSize: size, color: CLAUDE.INK_SOFT }}>…</span>
     </div>
@@ -123,7 +123,7 @@ export const TokCodebook: React.FC<TokCodebookProps> = ({ eyebrow, title, sparkL
       <AbsoluteFill style={{ background: CLAUDE.PAGE, overflow: 'hidden' }}>
         <BeatHead eyebrow="" title={title} inOp={headIn} titleSize={T.title} padX={PAD_X} height={height} width={width} portrait />
         {framePanel}{grid}{examples}
-        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.71 }}>{tokenRow(T.label * 0.75)}</div>
+        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.745 }}>{tokenRow(T.label * 0.7)}</div>
         <div style={{ position: 'absolute', left: PAD_X, top: height * 0.755 - 6, opacity: 0 }}>{rangeNote}</div>
         <PhoneBaseline padX={PAD_X} width={width} height={height} inOp={headIn * op(sCodec)} />
         <SparkLine text={sparkLine} inOp={sparkIn} padX={PAD_X} width={width} height={height} portrait top={height * 0.8} fontSize={T.spark} />
@@ -134,8 +134,7 @@ export const TokCodebook: React.FC<TokCodebookProps> = ({ eyebrow, title, sparkL
     <AbsoluteFill style={{ background: CLAUDE.PAGE, overflow: 'hidden' }}>
       <BeatHead eyebrow={eyebrow} title={title} inOp={headIn} padX={PAD_X} height={height} width={width} />
       {framePanel}{grid}{examples}
-      <div style={{ position: 'absolute', left: PAD_X, top: height * 0.76 }}>{tokenRow(28 * U)}</div>
-      <div style={{ position: 'absolute', right: PAD_X, top: height * 0.775 }}>{rangeNote}</div>
+      <div style={{ position: 'absolute', left: PAD_X, top: height * 0.79 }}>{tokenRow(28 * U)}</div>
       <SparkLine text={sparkLine} inOp={sparkIn} padX={PAD_X} width={width} height={height} />
     </AbsoluteFill>
   );

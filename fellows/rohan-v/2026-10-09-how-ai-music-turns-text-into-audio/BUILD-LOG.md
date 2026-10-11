@@ -72,21 +72,30 @@ to the overall accuracy (from 4.0 s: 2 of 10), and FACTCHECK says the window was
 - **Phone maths.** The four-term sum and a short "≈" can't reach the 9:16 floor at any width that fits,
   so the phone shows F ≈ A + B + C and the exact 1,411.2 ÷ 3.75 = 376.32.
 
+## 8 — The end of a beat, checked too late
+
+After Rohan found an end-of-beat collision in the Shazam 9:16, every beat of both videos was checked at
+97% of its length. Here, B02: in 16:9 the range note overlapped the codebook grid and the token row its
+bottom (the note moved into the token label, the grid made smaller, the token row and example entries
+shown faintly from the start so the mid-beat frame isn't underfilled); in 9:16 the token row sat on the
+grid's caption (caption dropped on the phone, the narration says it) and the spark line wrapped (now
+"Find the closest shape."). Re-rendered in 4K and both finals rebuilt.
+
 ## Render
 
 Masters (`./art final`, receipts `*.verified.json` beside each file; SHA-256 re-checked on copy):
 
 | Cut | File | Size | Length | SHA-256 |
 |---|---|---|---|---|
-| 16:9 | `landscape/AIMusicTokens_RohanV.mp4` | 3840×2160 | 209.29 s | `3e3745fd5b60209dd2c175ae30fac535fb81758e01cf71f88c638980423dc648` |
-| 9:16 | `vertical/AIMusicTokens_RohanV.mp4` | 2160×3840 | 209.29 s | `5baa94f6ae27b816c8eb7b4ec36cecf25d36f8b50c133e177153c4691bccaff3` |
+| 16:9 | `landscape/AIMusicTokens_RohanV.mp4` | 3840×2160 | 209.29 s | `54ea386750c33e296393c2e29a19bc342217a5bedb1435f601e0952a3e06414d` |
+| 9:16 | `vertical/AIMusicTokens_RohanV.mp4` | 2160×3840 | 209.29 s | `79a982f61e5d300feb42e8a5223cb879e6776233f27bf78023d4c15bbff35a67` |
 
 Gates on the accepted finals: GATE F pass; GATE T pass ([TYPECHECK.md](./TYPECHECK.md),
 [vertical/TYPECHECK.md](./vertical/TYPECHECK.md)); Gate V clean, 0 BLOCKER / 0 MAJOR
 (18 landscape and 18 portrait frames sampled). Looked at by eye: [qc-sheet-16x9.png](./qc-sheet-16x9.png),
 [qc-sheet-9x16.png](./qc-sheet-9x16.png).
 
-Landscape: the first final passed, then was rebuilt after the contact-sheet fixes in §7. Portrait: refused three times by GATE T §8.6b on B06 (the third was a run that still had the old B06), accepted, then rebuilt once more after the B05 fixes (§7). All on 2026-10-10.
+Landscape: the first final passed, then was rebuilt after the contact-sheet fixes in §7. Portrait: refused three times by GATE T §8.6b on B06 (the third was a run that still had the old B06), accepted, then rebuilt once more after the B05 fixes (§7), all on 2026-10-10. Both cuts were rebuilt again on 2026-10-11 after the end-of-beat fixes (§8); those are the finals in the table.
 
 Uploaded to Google Drive `2026-10-09/landscape/` and `2026-10-09/vertical/`; md5 of each Drive copy
-matches the local master.
+matches the local master (re-uploaded and re-checked 2026-10-11).

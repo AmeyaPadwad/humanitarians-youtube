@@ -8,7 +8,7 @@ p = Path(__file__).resolve().parent / "vertical" / "beat_sheet.json"
 b = json.loads(p.read_text(encoding="utf-8"))
 SHORT = {
     "B01": {"title": "Audio Is Numbers", "sparkLine": "Sixteen million: too much to predict."},
-    "B02": {"title": "Frame to Token", "sparkLine": "Find the closest shape. Keep its number."},
+    "B02": {"title": "Frame to Token", "sparkLine": "Find the closest shape."},
     "B03": {"title": "Codebooks Stack", "sparkLine": "Add the pieces. Get closer."},
     "B04": {"title": "I Built a Codec", "sparkLine": "The treble goes first."},
     "B05": {"title": "The Next Token", "sparkLine": "Learn what follows."},

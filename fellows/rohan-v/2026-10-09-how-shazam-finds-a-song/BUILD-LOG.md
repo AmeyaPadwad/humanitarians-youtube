@@ -72,21 +72,31 @@ noise labels wrapped onto two lines; in B06 the MATCH / NO MATCH chips wrapped u
 the rows grew into the stamp and footnote. All three phone layouts were tightened (shorter labels,
 no-wrap rows, taller cards), checked on 4K stills, re-rendered, and the portrait final rebuilt.
 
+## 9 — The end of a beat, checked too late
+
+Rohan spotted it in the delivered 9:16: at the end of B02 the "57 per second" stat landed on the card's
+header and the card ran into the spark line. The probes sampled each beat at 50% and 85%, before the last
+reveals. B02's phone card was rebuilt (every row on its own line, the rate as the last row, the panel
+shorter so the card clears the baseline), and every beat of both videos in both cuts was then checked at
+97%. That found two more here: the "79 chance matches" chip sat on the 16:9 scatter (moved under the
+histogram), and the 9:16 x-axis caption touched the equation (equations moved down). Re-rendered in 4K
+and all finals rebuilt.
+
 ## Render
 
 Masters (`./art final`, receipts `*.verified.json` beside each file; SHA-256 re-checked on copy):
 
 | Cut | File | Size | Length | SHA-256 |
 |---|---|---|---|---|
-| 16:9 | `landscape/SongFingerprinting_RohanV.mp4` | 3840×2160 | 202.58 s | `ec6e584bf59194988ba625bb555d33be15b69d46db21ea698d2e12f0502c4c43` |
-| 9:16 | `vertical/SongFingerprinting_RohanV.mp4` | 2160×3840 | 202.58 s | `adb47734038f804fca6ec0f335bc40c1c2669e6df0ff1a5405fb150d8fa61dcc` |
+| 16:9 | `landscape/SongFingerprinting_RohanV.mp4` | 3840×2160 | 202.58 s | `5b24240fbbae7f1be861c22bf052bc20ca44fb4029e21af6bc411277f5c1c4ee` |
+| 9:16 | `vertical/SongFingerprinting_RohanV.mp4` | 2160×3840 | 202.58 s | `c21324ac1adb5afb6c0d0048cdd62c39bc5f313bbb810bd063b4cc54cb85cb06` |
 
 Gates on the accepted finals: GATE F pass; GATE T pass ([TYPECHECK.md](./TYPECHECK.md),
 [vertical/TYPECHECK.md](./vertical/TYPECHECK.md)); Gate V clean, 0 BLOCKER / 0 MAJOR
 (18 landscape and 18 portrait frames sampled). Looked at by eye: [qc-sheet-16x9.png](./qc-sheet-16x9.png),
 [qc-sheet-9x16.png](./qc-sheet-9x16.png).
 
-Landscape: accepted on the first final. Portrait: the first final passed every gate but its contact sheet showed three layout defects (§8); rebuilt and accepted on the second. All on 2026-10-10.
+Landscape: accepted on the first final (2026-10-10). Portrait: the first final passed every gate but its contact sheet showed three layout defects (§8); rebuilt and accepted on the second (2026-10-10). Both cuts were rebuilt again on 2026-10-11 after the end-of-beat fixes (§9); those are the finals in the table.
 
 Uploaded to Google Drive `2026-10-09/landscape/` and `2026-10-09/vertical/`; md5 of each Drive copy
-matches the local master.
+matches the local master (re-uploaded and re-checked 2026-10-11).

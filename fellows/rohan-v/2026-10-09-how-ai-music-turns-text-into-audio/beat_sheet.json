@@ -30,7 +30,7 @@
       "Lyrical Literacy"
     ],
     "build": {
-      "at": "2026-10-10T22:53:57",
+      "at": "2026-10-11T00:50:47",
       "cut": "master",
       "filled": 9,
       "of": 9,
@@ -83,7 +83,7 @@
         "status": "VIDEO",
         "src": "media\\B00.mp4",
         "filled_by": "media",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -120,7 +120,7 @@
         "status": "VIDEO",
         "src": "media\\B01.mp4",
         "filled_by": "media",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -150,7 +150,7 @@
           },
           "rendered": {
             "out": "media/B02.mp4",
-            "at": "2026-10-11T01:21:17.402865+00:00"
+            "at": "2026-10-11T04:30:47.273094+00:00"
           }
         }
       },
@@ -162,7 +162,7 @@
         "status": "VIDEO",
         "src": "media\\B02.mp4",
         "filled_by": "remotion:TokCodebook",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -204,7 +204,7 @@
         "status": "VIDEO",
         "src": "media\\B03.mp4",
         "filled_by": "remotion:TokResidual",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -303,7 +303,7 @@
         "status": "VIDEO",
         "src": "media\\B04.mp4",
         "filled_by": "remotion:TokCodecQuality",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -344,7 +344,7 @@
         "status": "VIDEO",
         "src": "media\\B05.mp4",
         "filled_by": "remotion:TokNextGuess",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -417,7 +417,7 @@
         "status": "VIDEO",
         "src": "media\\B06.mp4",
         "filled_by": "remotion:TokTextSteer",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -462,7 +462,7 @@
         "status": "VIDEO",
         "src": "media\\B07.mp4",
         "filled_by": "remotion:HaiApplyCard",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     },
     {
@@ -499,7 +499,7 @@
         "status": "VIDEO",
         "src": "media\\B08.mp4",
         "filled_by": "remotion:HaiTitleOutro",
-        "at": "2026-10-10T22:53:57"
+        "at": "2026-10-11T00:50:47"
       }
     }
   ]

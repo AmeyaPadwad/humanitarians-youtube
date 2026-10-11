@@ -49,7 +49,7 @@ export const ShazamHashPairs: React.FC<ShazamHashPairsProps> = ({ eyebrow, title
 
   const LAB = portrait ? 175 : 92 * U;
   const SW = portrait ? CW - LAB : CW * 0.6 - LAB;
-  const SH = portrait ? height * 0.25 : height * 0.5;
+  const SH = portrait ? height * 0.225 : height * 0.5;
   const SX = PAD_X + LAB;
   const SY = portrait ? height * 0.255 : height * 0.27;
   const lbl = portrait ? T.label * 0.68 : 22 * U;
@@ -120,13 +120,26 @@ export const ShazamHashPairs: React.FC<ShazamHashPairsProps> = ({ eyebrow, title
   );
 
   if (portrait) {
+    /* Phone: one compact card, every row its own line (the first phone cut stacked the rate stat on
+       the card header and ran the hash into the spark line at the end of the beat). */
+    const s = T.label * 0.74;
+    const line = (k: string, v: React.ReactNode, o: number, last = false) => (
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', padding: `${s * 0.2}px 0`, opacity: o,
+        borderBottom: last ? 'none' : `1px solid ${CLAUDE.BORDER}` }}>
+        <span style={{ fontFamily: HAI_TYPE.sans, fontSize: s * 0.8, fontWeight: 700, color: CLAUDE.INK_SOFT }}>{k}</span>
+        <span style={{ fontFamily: HAI_TYPE.mono, fontSize: s, fontWeight: 700, color: SPARK_TEXT }}>{v}</span>
+      </div>
+    );
     return (
       <AbsoluteFill style={{ background: CLAUDE.PAGE, overflow: 'hidden' }}>
         <BeatHead eyebrow="" title={title} inOp={headIn} titleSize={T.title} padX={PAD_X} height={height} width={width} portrait />
         {panel}
-        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.56 }}>{card(CW, T.label * 0.85)}</div>
-        <div style={{ position: 'absolute', right: PAD_X, top: height * 0.56 + T.label * 0.6, opacity: op(sRate) }}>
-          <Stat value={`${SHZ.library.hashes_per_s}`} label="PER SECOND" size={T.title * 0.8} opacity={op(sRate)} accent />
+        <div style={{ position: 'absolute', left: PAD_X, top: height * 0.52, width: CW, boxSizing: 'border-box', background: CLAUDE.CARD,
+          border: `1.5px solid ${CLAUDE.BORDER}`, borderTop: `6px solid ${CLAUDE.INK}`, borderRadius: 16, padding: `${s * 0.5}px ${s * 0.7}px`, opacity: op(sThree) }}>
+          <div style={{ fontFamily: HAI_TYPE.sans, fontSize: s * 0.8, fontWeight: 800, letterSpacing: 1.2, color: CLAUDE.INK, marginBottom: s * 0.2 }}>THREE NUMBERS</div>
+          {rows.map((r) => line(r.k, r.v, op(sHere) * 0.6 + 0.4))}
+          {line(op(sHash) > 0.5 ? 'ONE HASH' : 'PACKED INTO ONE CODE', <span style={{ color: CLAUDE.INK }}>{fmt(H.packed)}</span>, op(sPacked))}
+          {line('MY VERSION, PER SECOND', `${SHZ.library.hashes_per_s} HASHES`, op(sRate), true)}
         </div>
         <PhoneBaseline padX={PAD_X} width={width} height={height} inOp={headIn} />
         <SparkLine text={sparkLine} inOp={sparkIn} padX={PAD_X} width={width} height={height} portrait top={height * 0.8} fontSize={T.spark} />
