@@ -4,13 +4,13 @@
 **Project:** Fellows YouTube pipeline, content review and video essays  
 **Group:** Brutalist team  
 **GitHub:** [@SanjanaGRao](https://github.com/SanjanaGRao)  
-**Last updated:** 2026-09-29
+**Last updated:** 2026-10-11
 
 ## Quick Review
 
 - [Weekly hours and evidence index](weekly-hours/README.md).
 - [Renewal requests](renewal-requests/README.md).
-- **Supervision:** Professor Nik Bear Brown and Professor Nina, Humanitarians AI.
+- **Supervisor(s):** Professor Nik Bear Brown and Professor Nina, Humanitarians AI.
 
 ## Folder Guide and Evidence
 
@@ -25,12 +25,6 @@
 | [09-26-2026-ai-project-management-tools/](09-26-2026-ai-project-management-tools/README.md) | Explainer, AI-native tools for project management workflows |
 | [10-03-2026-the-review-gate/](https://github.com/nikbearbrown/humanitarians-youtube/blob/sanjana-rao/fellows/sanjana-r/10-03-2026%20the-review-gate/README.md) | PM progress report |
 | [10-03-2026-ai-status-reports/](https://github.com/nikbearbrown/humanitarians-youtube/blob/sanjana-rao/fellows/sanjana-r/10-03-2026%20ai-status-reports/README.md) | Explainer, trusting AI-written project status reports — the sign-off (verify sourced, current, and complete before you send) |
+| [10-10-2026-pm-progress-update/](https://github.com/nikbearbrown/humanitarians-youtube/tree/sanjana-rao/fellows/sanjana-r/10-10-2026%20pm-progress-update) | PM progress report |
+| [10-10-2026-ai-risk-management/](https://github.com/nikbearbrown/humanitarians-youtube/tree/sanjana-rao/fellows/sanjana-r/10-10-2026%20ai-risk-management) | Explainer, using AI for risk management in Project Management |
 
-## Frictional log
-
-Every work subfolder here carries its own `FRICTIONAL.md` — a dated record of the process
-behind that specific piece of work, kept beside the evidence it describes: what was tried
-and expected, where it resisted and what was done next, what Claude or another person
-contributed and what was accepted, changed or rejected, and what is now understood or
-still open. Append as you go; never rewrite an earlier entry. It is not graded and not a
-performance review. See <https://www.humanitarians.ai/fellows> for what an entry contains.
