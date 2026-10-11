@@ -8,7 +8,7 @@
 - **Channel:** [youtube.com/@MedhavyAI](https://www.youtube.com/@MedhavyAI)
 - **Kokoro voice:** `am_onyx` ("Onyx") — declared in every `claude-sri` beat sheet as `voice_kokoro`.
   See [voice note](#voice) below.
-- **Reporting period covered here:** 17 Aug – 4 Oct 2026
+- **Reporting period covered here:** 17 Aug – 11 Oct 2026
 
 ## What this folder is
 
@@ -33,7 +33,8 @@ live in Drive and are linked per week below, per the repo's
 | [31 Aug – 6 Sep](./2026-09-04-medhavy-brand-outro/) | Intros finalized; more outros created | **Intros professor-confirmed final.** Outros sent for review — not yet approved. | [drive](https://drive.google.com/drive/folders/15BtMVhwD9_A7J0Pt2pc2DHLcuF9RWxl7) | [log](./2026-09-04-medhavy-brand-outro/FRICTIONAL.md) |
 | [7–13 Sep](./2026-09-11-intro-outro-final/) | Intro & outro both finalized | **Both professor-confirmed done**, set for use on the channel. Branding arc closed. | [drive](https://drive.google.com/drive/folders/1yKVBYPyQgFm5b8YU5RWBivLH2E-KP4Hy) | [log](./2026-09-11-intro-outro-final/FRICTIONAL.md) |
 | [14–20 Sep](./2026-09-17-outro-formats-and-video-fix/) | Final outro in delivery formats; production-video fix | Outro delivered 16:9 + 9:16 + 4K, professor-confirmed. A not-visible video fixed, uploaded, and its link wired into the Medhavy codebase. | [drive](https://drive.google.com/drive/folders/1yKVBYPyQgFm5b8YU5RWBivLH2E-KP4Hy) | [log](./2026-09-17-outro-formats-and-video-fix/FRICTIONAL.md) |
-| [28 Sep – 4 Oct](./2026-10-01-intro-outro-brutalist-pass/) | Further intro/outro pass, built through the Brutalist skill + its `CLAUDE.md` | **Self-reviewed, held — not sent, not confirmed.** Does not supersede the Week 15 confirmed set. | NOT PROVIDED — no renders, no skill commit | [log](./2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md) |
+| [28 Sep – 4 Oct](./2026-10-01-intro-outro-brutalist-pass/) | Further intro/outro pass, built through the Brutalist skill + its `CLAUDE.md` | **Self-reviewed, held — not sent, not confirmed.** Does not supersede the Week 15 confirmed set. | [Addams journal](./2026-10-01-intro-outro-brutalist-pass/addams-week-18.html) · renders and skill commit NOT PROVIDED | [log](./2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md) |
+| [5–11 Oct](./2026-10-01-intro-outro-brutalist-pass/) | Modified the held version to final and submitted it | **Professor-confirmed final.** Closes the intro/outro branding. Logged as an appended entry in the same folder. | renders and skill commit NOT PROVIDED | [log](./2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md) |
 
 ## `sri-explainer` — chapter-to-video skill
 
@@ -48,8 +49,9 @@ live in Drive and are linked per week below, per the repo's
 
 | Week | Work | Result | Evidence | Log |
 |---|---|---|---|---|
-| [21–27 Sep](./2026-09-24-channel-reorganization/) | Channel cleanup and content plan | Unnecessary videos unlisted/removed — completed. Structure and content plan at **Phase 1**, self-directed, not externally reviewed. | NOT PROVIDED — no capture or artifact of the channel state | [log](./2026-09-24-channel-reorganization/FRICTIONAL.md) |
-| [28 Sep – 4 Oct](./2026-09-24-channel-reorganization/) | Content-type planning continued | Still **Phase 1, in progress** after a second week. Self-directed, not finalized, not reviewed. Logged as an appended entry in the same folder, not a new one. | NOT PROVIDED — still nothing written down | [log](./2026-09-24-channel-reorganization/FRICTIONAL.md) |
+| [21–27 Sep](./2026-09-24-channel-reorganization/) | Channel cleanup and content plan | Unnecessary videos unlisted/removed — completed. Structure and content plan at **Phase 1**, self-directed, not externally reviewed. | [Addams journal](./2026-09-24-channel-reorganization/addams-week-17.html) · no capture of the channel state | [log](./2026-09-24-channel-reorganization/FRICTIONAL.md) |
+| [28 Sep – 4 Oct](./2026-09-24-channel-reorganization/) | Content-type planning continued | Still **Phase 1, in progress** after a second week. Self-directed, not finalized, not reviewed. Logged as an appended entry in the same folder, not a new one. | [Addams journal](./2026-10-01-intro-outro-brutalist-pass/addams-week-18.html) · the plan itself still unwritten | [log](./2026-09-24-channel-reorganization/FRICTIONAL.md) |
+| [5–11 Oct](./2026-10-08-youtube-video-suggestions/) | A few new YouTube video suggestions | First concrete content proposals — the thread moves from deciding types to naming videos. **Self-directed, not reviewed, not produced.** | NOT PROVIDED — the suggestions are not committed | [log](./2026-10-08-youtube-video-suggestions/FRICTIONAL.md) |
 
 ## Voice
 

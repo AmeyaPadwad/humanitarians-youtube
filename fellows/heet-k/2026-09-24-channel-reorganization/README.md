@@ -4,8 +4,10 @@
 - **Project:** Medhavy · **Role:** AI Software Engineer · **PM:** Jash S.
 - **Channel:** [youtube.com/@MedhavyAI](https://www.youtube.com/@MedhavyAI)
 - **Frictional log:** [FRICTIONAL.md](FRICTIONAL.md)
+- **Addams journal:** [addams-week-17.html](addams-week-17.html) — the week's reflective entry, "Deciding What the Channel Is For"
 - **Evidence:** **NOT PROVIDED** — no capture, before/after list, or written plan
   is committed here. See below.
+- **Where this thread went next:** [YouTube video suggestions](../2026-10-08-youtube-video-suggestions/) (Week 19) — the first concrete proposals
 
 ## What was done
 

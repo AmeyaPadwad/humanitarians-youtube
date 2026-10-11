@@ -1,10 +1,12 @@
-# Intro and outro — further pass, built through the Brutalist skill
+# Intro and outro — the Brutalist-skill pass, held then confirmed
 
-- **Week:** 28 Sep – 4 Oct 2026 (Week 18)
+- **Weeks:** 28 Sep – 4 Oct (Week 18) → 5–11 Oct 2026 (Week 19)
 - **Project:** Medhavy · **Role:** AI Software Engineer · **PM:** Jash S.
-- **Status:** **self-reviewed, held — not sent, not reviewed, not confirmed.**
+- **Status:** **professor-confirmed final (11 Oct).** Held and unsent through
+  Week 18; modified to final, submitted, and confirmed in Week 19.
 - **Evidence:** **NOT PROVIDED** — see below.
-- **Frictional log:** [FRICTIONAL.md](FRICTIONAL.md)
+- **Frictional log:** [FRICTIONAL.md](FRICTIONAL.md) — two dated entries, held → confirmed
+- **Addams journal:** [addams-week-18.html](addams-week-18.html) — the Week 18 reflective entry, "Running the Branding Through a Tool I Built"
 
 ## What was done
 
@@ -45,9 +47,22 @@ Nothing from this week is committed or locatable:
 Then append a dated entry to [FRICTIONAL.md](FRICTIONAL.md) rather than editing
 the existing one.*
 
+## Week 19 — modified to final, submitted, confirmed
+
+The held version was modified into its final form, submitted to the professor,
+and **confirmed**. That closes the intro/outro branding at the project's
+strongest bar. Logged as the second dated entry in
+[FRICTIONAL.md](FRICTIONAL.md) rather than a new folder — it is the same piece
+of work reaching its confirmed state, not a separate one.
+
+The confirmation covers the intro/outro only. It does not extend to the
+[video suggestions](../2026-10-08-youtube-video-suggestions/) made the same week.
+
 ## Hours
 
-**Week 18 total: 22.0 hrs** — [HOURS.md](../HOURS.md). Split: 11.0 on this
-thread, 8.0 on [continued channel planning](../2026-09-24-channel-reorganization/)
-(logged there as an appended entry rather than a new folder), 1.0 self-review,
-2.0 full-team meeting.
+| Week | Week total | On this thread | Elsewhere that week |
+|---|---:|---:|---|
+| 18 (28 Sep – 4 Oct) | 22.0 | 11.0 | 8.0 [channel planning](../2026-09-24-channel-reorganization/) · 1.0 self-review · 2.0 meeting |
+| 19 (5–11 Oct) | 22.0 | 12.0 | 7.0 [video suggestions](../2026-10-08-youtube-video-suggestions/) · 1.0 self-review · 2.0 meeting |
+
+See [HOURS.md](../HOURS.md).
