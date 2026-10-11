@@ -99,6 +99,8 @@ the standing choice, and `af_bella` is the one carried as history.
 | 2026-09-27 | [`2026-09-27-read-the-receipt-backwards-mycroft`](./2026-09-27-read-the-receipt-backwards-mycroft/) | Mastercard Agent Pay — read the receipt backwards, and name the step that earned each line |
 | 2026-10-04 | [`2026-10-04-why-a-coin-flip-beats-this-learning-algorithm-stem-video`](./2026-10-04-why-a-coin-flip-beats-this-learning-algorithm-stem-video/) | Why a coin flip beats this learning algorithm — Sutton & Barto's short corridor, a coin biased 2 − √2, and the blindfold test for when randomness is the best move |
 | 2026-10-04 | [`2026-10-04-same-logic-two-languages-mycroft`](./2026-10-04-same-logic-two-languages-mycroft/) | Same Logic, Two Languages — rewriting a finance detector from JavaScript to Python, and putting a test exactly where two versions could disagree |
+| 2026-10-11 | [`2026-10-11-how-a-room-changes-music-stem-video`](./2026-10-11-how-a-room-changes-music-stem-video/) | How a room changes music — one cellist, seven concert halls, and a slowdown at both ends |
+| 2026-10-11 | [`2026-10-11-four-mornings-mycroft`](./2026-10-11-four-mornings-mycroft/) | Four Mornings — one portfolio dashboard, four quiet hand-offs behind it, and the morning my own test passed when it shouldn't have |
 
 ## Two lanes
 
