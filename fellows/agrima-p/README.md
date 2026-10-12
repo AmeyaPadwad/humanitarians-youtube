@@ -115,6 +115,34 @@ an explicit, documented re-voice decision is made.
   Humanitarians AI guest lecture at a college with Yatra (done), and
   delivering that lecture on Tuesday (next). 16:9 (1:51) + 9:16 (1:55,
   full-parity reformat, no beats dropped) cuts.
+- `2026-10-11-ai-done-right/` — AI Done Right: What Nonprofits Built Around AI
+  Can Teach Us About Trust, People, and Purpose. User asked for a "Deep
+  Explainer" at exactly 4:00 with no footage — the toolkit's actual
+  deep-explainer skill targets 5-10 min and requires archival stills, so built
+  instead on the ai-explainer chassis (disclosed substitution). Simple,
+  observational, neutral tone per explicit request: the encouraging findings
+  from the Fast Forward report (92% say services got more efficient; 88% / 84%
+  worry about wrong information / misused data; 76% / 51% / 85% involve the
+  people they serve and are open about using AI; 90% plan to grow but about
+  24% have the resources) are all carried as self-reported by nonprofits that
+  already use AI, with the report's Google.org support and Bridgespan's note
+  that skipping AI can be right in their own beat. Generated visuals only (a
+  courtroom-with-paperwork graphic for Adalat AI, a WhatsApp-style chat, stat
+  cards, people around a table). 16:9 (4:00) + 9:16 (2:45, four middle beats
+  dropped to fit the Shorts cap: the 98% survey, the courts/WhatsApp examples,
+  the research setup, and the money gap).
+- `2026-10-12-weekly-recap-mcphs/` — This Week: What Shipped. A CLI-explainer
+  weekly recap — a separate week's log from the earlier weekly-recap builds —
+  built around a real weekly_recap_v1.py, revised into weekly_recap_v2.py to
+  tag each item by category and print a shipped-count — both scripts real, both
+  actually run. Content: publishing "AI Done Right" on Substack, producing two
+  Brutalist videos (four files in 16:9 + 9:16), and giving the Humanitarians AI
+  guest lecture at MCPHS with Yatra Rawat (about 60% of the runtime summarizes
+  the presentation: the organization and mission, how it works, the Madison
+  Project, three case studies, why now, how to get involved). The presentation
+  PDF could not be rendered, so every visual is generated; slides excluded by
+  instruction are not used. 16:9 (2:52) + 9:16 (2:57, full-parity reformat, no
+  beats dropped) cuts.
 
 ## Frictional log
 
