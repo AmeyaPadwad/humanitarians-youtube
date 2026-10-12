@@ -29,6 +29,8 @@ for the full report series.
 | 2026-09-22 | [Hallucination: Why Sounding Sure Isn't the Same as Being Right](2026-09-22-hallucination-why-sounding-sure-isnt-being-right/) | Weekly STEM | General AI/STEM topic explainer |
 | 2026-09-29 | [The Keyword That Cried Wolf](2026-09-29-the-keyword-that-cried-wolf/) | Weekly work | Project 29 — Financial Regulatory Intelligence System (`mycroft`) |
 | 2026-09-29 | [Tokenization: Why AI Can't Count the Letters in Its Own Words](2026-09-29-tokenization-why-ai-cant-count-its-own-letters/) | Weekly STEM | General AI/STEM topic explainer |
+| 2026-10-06 | [The Classifier That Learned When Not to Guess](2026-10-06-the-classifier-that-learned-when-not-to-guess/) | Weekly work | Project 29 — Financial Regulatory Intelligence System (`mycroft`) |
+| 2026-10-06 | [Lost in the Middle: Why More Context Doesn't Guarantee a Better Answer](2026-10-06-lost-in-the-middle-why-more-context-isnt-better/) | Weekly STEM | General AI/STEM topic explainer |
 
 The first three were rebuilt 2026-08-26/28 for program-wide submission requirements: 4K (3840x2160), a title card + executive-summary opening beat, a 9:16 vertical companion (real Manim portrait relayout, not a crop), and self-assessment against each project's `PROOF.md`. Final deliverables are named per the fellowship convention (`Mycroft_SaiPranaviJeedigunta_<date>_<aspect>.mp4` for the weekly-work video, `<TopicName>_SaiPranaviJeedigunta_<date>_<aspect>.mp4` for the weekly-STEM videos) and live inside each project folder alongside the paperwork; code/paperwork for each is pushed to `github.com/nikbearbrown/humanitarians-youtube` on its own branch (see each project's `README.md` for the exact branch/commit).
 
@@ -118,6 +120,29 @@ fully generic (no real model/vendor named or benchmarked):
   alongside the model's miscounted tally. Falsifiability case: the same word spelled out
   letter-by-letter first, now counted correctly. Named `Tokenization_SaiPranaviJeedigunta.mp4`.
   GATE V: 0 BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
+
+A real continuation of the B2 source-classification work (2026-10-06), plus a matching
+weekly-STEM report, same new submission spec:
+
+- **Weekly work (8th in the Layer 1 series), "The Classifier That Learned When Not to Guess":**
+  re-ran the live source classifier against the real local DB and confirmed keyword-rule fixes
+  from prior weeks had already resolved 13 of the original 21 "Unknown Source" items — leaving a
+  genuine residual of 8 generic headlines no keyword list can safely catch. Added an Ollama
+  (`llama3.2:3b`) fallback classification step that only acts on unresolved items and fails open on
+  any error. Live-verified: 0 already-classified items touched, 1 of 8 correctly resolved, 7
+  honestly left as Unknown Source rather than guessed — framed explicitly as the correct outcome,
+  not a shortfall. Named `ClassifierFallbackClassification_SaiPranaviJeedigunta.mp4`. GATE V: 0
+  BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`. The mycroft fix behind this
+  video is pushed to `github.com/SaiPranaviJeedigunta/mycroft`, branch
+  `feature/regulatory-intelligence-hardening` (commit `948fba5`), documented in the 2026-10-06
+  addendum to `B2-VERIFICATION.md`.
+- **Weekly STEM, "Lost in the Middle: Why More Context Doesn't Guarantee a Better Answer":** a
+  framework-first explainer on the well-documented long-context effect where models are reliably
+  better at using information near the start/end of a long input than information buried in the
+  middle. Worked example: the same fact, same document, same question, planted in the middle
+  (missed) versus the start or end (found). Kept fully qualitative — no specific real model
+  benchmarked, no fabricated statistics. Named `LostInTheMiddle_SaiPranaviJeedigunta.mp4`. GATE V: 0
+  BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
 
 ## Fellow folder rename
 
