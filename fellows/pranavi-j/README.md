@@ -31,6 +31,8 @@ for the full report series.
 | 2026-09-29 | [Tokenization: Why AI Can't Count the Letters in Its Own Words](2026-09-29-tokenization-why-ai-cant-count-its-own-letters/) | Weekly STEM | General AI/STEM topic explainer |
 | 2026-10-06 | [The Classifier That Learned When Not to Guess](2026-10-06-the-classifier-that-learned-when-not-to-guess/) | Weekly work | Project 29 — Financial Regulatory Intelligence System (`mycroft`) |
 | 2026-10-06 | [Lost in the Middle: Why More Context Doesn't Guarantee a Better Answer](2026-10-06-lost-in-the-middle-why-more-context-isnt-better/) | Weekly STEM | General AI/STEM topic explainer |
+| 2026-10-15 | [The Alert That Waited for a Second Item](2026-10-15-the-alert-that-waited-for-a-second-item/) | Weekly work | Project 29 — Financial Regulatory Intelligence System (`mycroft`) |
+| 2026-10-15 | [Chain-of-Thought: Why the Reasoning Isn't Always the Reason](2026-10-15-chain-of-thought-why-the-reasoning-isnt-always-the-reason/) | Weekly STEM | General AI/STEM topic explainer |
 
 The first three were rebuilt 2026-08-26/28 for program-wide submission requirements: 4K (3840x2160), a title card + executive-summary opening beat, a 9:16 vertical companion (real Manim portrait relayout, not a crop), and self-assessment against each project's `PROOF.md`. Final deliverables are named per the fellowship convention (`Mycroft_SaiPranaviJeedigunta_<date>_<aspect>.mp4` for the weekly-work video, `<TopicName>_SaiPranaviJeedigunta_<date>_<aspect>.mp4` for the weekly-STEM videos) and live inside each project folder alongside the paperwork; code/paperwork for each is pushed to `github.com/nikbearbrown/humanitarians-youtube` on its own branch (see each project's `README.md` for the exact branch/commit).
 
@@ -142,6 +144,32 @@ weekly-STEM report, same new submission spec:
   middle. Worked example: the same fact, same document, same question, planted in the middle
   (missed) versus the start or end (found). Kept fully qualitative — no specific real model
   benchmarked, no fabricated statistics. Named `LostInTheMiddle_SaiPranaviJeedigunta.mp4`. GATE V: 0
+  BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
+
+A new real bug found and fixed this week (2026-10-15), plus a matching weekly-STEM report, same
+new submission spec:
+
+- **Weekly work (9th in the Layer 1 series), "The Alert That Waited for a Second Item":** found
+  (via code review, not a live incident) that the real alert-email node's `hasData` guard required
+  `newItems.length > 1` — strictly more than one qualifying item — so a single new
+  high-priority/critical filing, the exact case the alert path exists for, silently produced no
+  email at all. Traced the failed branch to a dead end in the downstream `If` node. Fixed to
+  `> 0` — verified live via a Node.js harness running the real extracted node code against 0/1/2
+  item batches before and after the fix, then re-verified against the real patched file on disk.
+  Honestly flagged that this wasn't caught by an observed live miss, only by re-reading the code,
+  and surfaced a separate, still-open `Regulatory_QA`/`source_feed` compatibility gap found along
+  the way. Named `AlertSecondItemGate_SaiPranaviJeedigunta.mp4`. GATE V: 0 BLOCKER/0 MAJOR on both
+  masters — see its `README.md`/`BUILD-LOG.md`. The mycroft fix behind this video is pushed to
+  `github.com/SaiPranaviJeedigunta/mycroft`, branch `feature/regulatory-intelligence-hardening`
+  (commit `f9eed1e`), documented in `B6-VERIFICATION.md`.
+- **Weekly STEM, "Chain-of-Thought: Why the Reasoning Isn't Always the Reason":** a
+  framework-first explainer teaching a reusable 3-test check (Swap a Step / Hide a Hint / Strip It
+  Out) for telling whether a model's stated reasoning actually produced its answer, or is a
+  plausible-sounding story attached after the fact. Worked example: a hint embedded in a prompt
+  that sways the answer while the stated reasoning never mentions it. Falsifiability case: a
+  multi-step arithmetic chain where perturbing one intermediate step reliably changes the final
+  answer, showing the reasoning genuinely doing causal work. Kept fully generic — no real model
+  named or benchmarked. Named `ChainOfThoughtFaithfulness_SaiPranaviJeedigunta.mp4`. GATE V: 0
   BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
 
 ## Fellow folder rename
