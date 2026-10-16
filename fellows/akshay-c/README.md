@@ -13,6 +13,13 @@ Each Brutalist video has its own work folder containing the supporting project f
 including beat sheets, prompts, fact-checking notes, scene definitions, shot lists,
 and portrait-specific configuration where applicable.
 
+## Week of 2026-14-12
+
+- Reviewed 14 videos from the Claude_bear folder and published them to the Humanitarians AI
+  Extending Claude playlist.
+- Created [How Message Queues Prevent Systems from Crashing](./2026-10-14_how_message_queues_prevent_systems-_from_crashing/)
+  as a Brutalist technical explainer.
+
 ## Week of 2026-10-07
 
 - Reviewed and uploaded 10 videos from the Claude_bear folder to the Humanitarians AI YouTube channel.
