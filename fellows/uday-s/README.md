@@ -80,6 +80,14 @@ measured clock — see that episode's `BUILD-LOG.md`, "REVISION 2".
   topic explainer on small models, coding agents and RL: one model posts four
   different scores on the same benchmark, and which one gets quoted decides
   whether it looks state of the art. 11 beats · ~3:31.
+- [2026-10-15 — Two Hundred Percent](./2026-10-15-mycroft-weekly-two-hundred-percent/) —
+  weekly work report on `mycroft` @ `d85106b`, **episode 8**: building the
+  `snickerdoodle` command the recipes always documented, then asking what its
+  first percentages actually mean. 12 beats · ~3:29.
+- [2026-10-15 — Three Things Called Recycling](./2026-10-15-energy-recycling-photonics/) —
+  topic explainer on energy-recycling photonics. The phrase names three different
+  things; the video separates them rather than pretending there is one result.
+  11 beats · ~3:39.
 
 The two 2026-08-27 folders carry a `short/` subfolder: a derivative 1080×1920 cut
 for YouTube Shorts, reusing the parent's audio with only the funnel outro
@@ -97,7 +105,7 @@ closes on "gate 2 cannot clear"; ep 2 resolves two rows of that list; ep 3's
 falsifiability beat lands back on ep 1's frozen corpus; ep 4 closes the ledger
 at six of six steps and finds the same ep-1 defect one level up (a gate with
 nothing to fail). Watch them in order:
-`9ef4e7f` → `bdc1bc1` → `253ee74` → `aa0c0fe` → `4157a8e` → `8c13b87` → `fbd30b6`.
+`9ef4e7f` → `bdc1bc1` → `253ee74` → `aa0c0fe` → `4157a8e` → `8c13b87` → `fbd30b6` → `d85106b`.
 
 **Dual-use note:** *The Gap You Can Actually Close* is a security topic handled
 defensively. It explains what the term names, reports published statistics, and

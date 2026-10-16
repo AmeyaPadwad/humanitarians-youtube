@@ -19,6 +19,8 @@ These cover the six steps of `market-sentiment-analysis-part-1` in
 | 2026-10-02 | [Closing the DEFINE and APPROVE TODOs](./2026-10-02-closing-the-two-todos.md) | `8c13b87`, on the feature branch |
 | 2026-10-09 | [Unhiding the step scripts from conformance](./2026-10-09-conformance-skip-list.md) | `fbd30b6`, on `fix/conformance-skip-list` |
 | 2026-10-09 | [`.gitattributes` and manifest drift](./2026-10-09-gitattributes-and-manifest-drift.md) | same branch |
+| 2026-10-15 | [Building the `snickerdoodle` CLI](./2026-10-15-snickerdoodle-cli.md) | `d85106b`, on `feat/snickerdoodle-cli` |
+| 2026-10-15 | [The `check` verb](./2026-10-15-check-verb.md) | same branch |
 
 ## Where the video work's logs are
 
