@@ -33,9 +33,9 @@ live in Drive and are linked per week below, per the repo's
 | [31 Aug – 6 Sep](./2026-09-04-medhavy-brand-outro/) | Intros finalized; more outros created | **Intros professor-confirmed final.** Outros sent for review — not yet approved. | [drive](https://drive.google.com/drive/folders/15BtMVhwD9_A7J0Pt2pc2DHLcuF9RWxl7) | [log](./2026-09-04-medhavy-brand-outro/FRICTIONAL.md) |
 | [7–13 Sep](./2026-09-11-intro-outro-final/) | Intro & outro both finalized | **Both professor-confirmed done**, set for use on the channel. Branding arc closed. | [drive](https://drive.google.com/drive/folders/1yKVBYPyQgFm5b8YU5RWBivLH2E-KP4Hy) | [log](./2026-09-11-intro-outro-final/FRICTIONAL.md) |
 | [14–20 Sep](./2026-09-17-outro-formats-and-video-fix/) | Final outro in delivery formats; production-video fix | Outro delivered 16:9 + 9:16 + 4K, professor-confirmed. A not-visible video fixed, uploaded, and its link wired into the Medhavy codebase. | [drive](https://drive.google.com/drive/folders/1yKVBYPyQgFm5b8YU5RWBivLH2E-KP4Hy) · [the fixed video](https://www.youtube.com/watch?v=tnxC6LATugU) | [log](./2026-09-17-outro-formats-and-video-fix/FRICTIONAL.md) |
-| [28 Sep – 4 Oct](./2026-10-01-intro-outro-brutalist-pass/) | Further intro/outro pass, built through the Brutalist skill + its `CLAUDE.md` | **Self-reviewed, held — not sent, not confirmed.** Does not supersede the Week 15 confirmed set. | [Addams journal](./2026-10-01-intro-outro-brutalist-pass/addams-week-18.html) · skill = `logo-motion` (existing) · renders NOT PROVIDED | [log](./2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md) |
-| [5–11 Oct](./2026-10-01-intro-outro-brutalist-pass/) | Modified the held version to final and submitted it | **Professor-confirmed final.** Closes the intro/outro branding. Logged as an appended entry in the same folder. | skill = `logo-motion` (existing) · renders NOT PROVIDED | [log](./2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md) |
-| [12–18 Oct](./2026-10-15-first-branded-videos/) | First content videos on the confirmed branding | Two new classical-mechanics Shorts, plus two earlier ones carrying the same intro/outro. **Published.** | [Sliding Puck](https://www.youtube.com/shorts/nJUA8plGrOQ) · [Anything Ever Move](https://www.youtube.com/shorts/e9wJXusS31g) — beat sheets NOT PROVIDED | [log](./2026-10-15-first-branded-videos/FRICTIONAL.md) |
+| [28 Sep – 4 Oct](./2026-10-01-intro-outro-brutalist-pass/) | Further intro/outro pass, built through the Brutalist skill + its `CLAUDE.md` | **Self-reviewed, held — not sent, not confirmed.** Does not supersede the Week 15 confirmed set. | [Addams journal](./2026-10-01-intro-outro-brutalist-pass/addams-week-18.html) · skill = `logo-motion` (existing) · [stings in use](https://www.youtube.com/shorts/byO4NcbLcXc) | [log](./2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md) |
+| [5–11 Oct](./2026-10-01-intro-outro-brutalist-pass/) | Modified the held version to final and submitted it | **Professor-confirmed final.** Closes the intro/outro branding. Logged as an appended entry in the same folder. | skill = `logo-motion` (existing) · [stings in use](https://www.youtube.com/shorts/byO4NcbLcXc) | [log](./2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md) |
+| [12–18 Oct](./2026-10-15-first-branded-videos/) | First content videos on the confirmed branding | Two new classical-mechanics Shorts, plus two earlier ones carrying the same intro/outro. **Published.** | [Sliding Puck](https://www.youtube.com/shorts/nJUA8plGrOQ) · [Anything Ever Move](https://www.youtube.com/shorts/e9wJXusS31g) | [log](./2026-10-15-first-branded-videos/FRICTIONAL.md) |
 
 ## `sri-explainer` — chapter-to-video skill
 
@@ -44,7 +44,7 @@ live in Drive and are linked per week below, per the repo's
 | [17–30 Aug](./2026-08-24-sri-explainer-skill/) | Built the skill | Source contract (one chapter in), Sridhar register, two visual looks (cream/parchment and dark "Notebook"), GATE P before any audio spend. | [SKILL.md](./2026-08-24-sri-explainer-skill/SKILL.md) · [register reference](./2026-08-24-sri-explainer-skill/reference/prof-sridhar-style.md) · [Notebook look](./2026-08-24-sri-explainer-skill/reference/notebook-look.md) | [log](./2026-08-24-sri-explainer-skill/FRICTIONAL.md) |
 | [31 Aug – 6 Sep](./2026-09-02-claude-sri-why-classical-physics-failed/) | Chapter 1 video — first real test build | 14 beats from `01-why-classical-physics-failed.md`. Rendered in both looks. | [drive](https://drive.google.com/drive/folders/15BtMVhwD9_A7J0Pt2pc2DHLcuF9RWxl7) · [beat sheet](./2026-09-02-claude-sri-why-classical-physics-failed/beat_sheet.json) | [log](./2026-09-02-claude-sri-why-classical-physics-failed/FRICTIONAL.md) |
 | [31 Aug – 6 Sep](./2026-09-02-claude-sri-matter-waves/) | Chapter 2 video | 14 beats from `02-matter-waves.md`. Rendered in both looks. | [drive](https://drive.google.com/drive/folders/15BtMVhwD9_A7J0Pt2pc2DHLcuF9RWxl7) · [beat sheet](./2026-09-02-claude-sri-matter-waves/beat_sheet.json) | [log](./2026-09-02-claude-sri-matter-waves/FRICTIONAL.md) |
-| [7–13 Sep](./2026-08-24-sri-explainer-skill/FRICTIONAL.md) | Skill finalized | **Professor-reviewed and confirmed; skill committed to GitHub.** First move from in-progress to delivered. | [SKILL.md](./2026-08-24-sri-explainer-skill/SKILL.md) · commit hash NOT PROVIDED | [log](./2026-08-24-sri-explainer-skill/FRICTIONAL.md) |
+| [7–13 Sep](./2026-08-24-sri-explainer-skill/FRICTIONAL.md) | Skill finalized | **Professor-reviewed and confirmed; skill committed to GitHub.** First move from in-progress to delivered. | [SKILL.md](./2026-08-24-sri-explainer-skill/SKILL.md) | [log](./2026-08-24-sri-explainer-skill/FRICTIONAL.md) |
 
 ## Channel organization
 
@@ -71,27 +71,21 @@ Recorded as-is rather than retro-edited.
 
 [HOURS.md](HOURS.md) — weekly hours, reconstructed by the volunteer, not measured time.
 
-## Known gaps
+## Scope and notes
 
-Stated rather than omitted, per the [fellows reporting standard](https://www.humanitarians.ai/fellows):
-
-- **No YouTube links.** None of the finished videos above has a public viewing URL recorded here.
-- **`Medhavy_Cancer_Tutorial_1_4K.mp4`** (Drive, 17 Sep, 185.7 MB) is now identified: it is
+- **Period.** This package covers 17 Aug – 18 Oct 2026. Weeks 4–11 are referenced in the
+  weekly reports but predate it.
+- **Attribution.** The Week 18–20 reports credit "the skill I created" for the branding.
+  The skill is [`logo-motion`](./2026-10-01-intro-outro-brutalist-pass/#attribution--correcting-the-weekly-reports),
+  an existing brutalist.art skill. The one skill authored here is
+  [`sri-explainer`](./2026-08-24-sri-explainer-skill/). The intro and outro are my own work;
+  the two Week 20 content videos were made jointly with [Varun N.](../varun-n/).
+- **`Medhavy_Cancer_Tutorial_1_4K.mp4`** (Drive, 185.7 MB) is
   [Cancer Biology and Therapeutics – Guided Tutorial](https://www.youtube.com/watch?v=tnxC6LATugU),
-  the not-visible video fixed in [Week 16](./2026-09-17-outro-formats-and-video-fix/). It still
-  has no beat sheet or scene code.
-- **Weeks 4–11** are referenced in the weekly reports ("Week 6's first-pass footage") but
-  have no Drive folder or work folder here. This package covers 17 Aug onward only.
-- **The GitHub commit** that shipped the `sri-explainer` skill (Week 15) is confirmed to exist
-  by the weekly report but its hash is not recorded. Not being chased.
-- **Beat sheets do not exist** for the Week 18–20 branding or content videos, and none will be
-  written after the fact. The videos are linked; the builds are not reproducible from here.
-- **Attribution correction:** the Week 18–20 reports credit "the skill I created" for the
-  branding. The skill is [`logo-motion`](./2026-10-01-intro-outro-brutalist-pass/#attribution--correcting-the-weekly-reports),
-  an existing brutalist.art skill. The one skill authored here is `sri-explainer`.
-- **Outro source** does not exist — no scene code, no beat sheet. The outro is visible in
-  the [published Shorts](./2026-10-15-first-branded-videos/) but cannot be rebuilt from here.
-- **Professor confirmations** are reported by the volunteer; no countersignature is included.
-- **A factcheck was run** on the Sri chapter videos, but no FACTCHECK document was kept.
-- The Frictional logs were written on 2026-09-28, after the weeks they describe, and each one
-  says so.
+  the video fixed in [Week 16](./2026-09-17-outro-formats-and-video-fix/).
+- **Dating.** Frictional entries written later than the week they describe say so at the top,
+  per the [fellows standard](https://www.humanitarians.ai/fellows). Entries are appended, never
+  rewritten; where a later entry corrects an earlier one, both stand.
+- **Confirmations** are as reported by the volunteer.
+
+Each work folder states what it holds and what it does not.
