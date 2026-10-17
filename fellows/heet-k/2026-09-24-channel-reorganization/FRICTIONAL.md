@@ -38,8 +38,10 @@ stalled, because I could not settle the structure in the abstract.
 
 **What Claude contributed, and what I accepted, changed or rejected.**
 
-*TODO — Heet: if this week was largely manual channel work, say so here. If
-Claude helped draft the content plan, name what you kept and what you dropped.*
+Not recorded at the time, and I will not reconstruct it. On the branding thread
+the pattern was Claude proposing and me revising (see
+[the Brutalist pass](../2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md)),
+but I cannot honestly claim the same split applied here without having logged it.
 
 **What I understand now, and what I still do not.**
 
@@ -93,8 +95,10 @@ to close it. It did not close either.
 
 **What Claude contributed, and what I accepted, changed or rejected.**
 
-*TODO — Heet: same as the previous entry — say whether this was manual channel
-work or assisted drafting, and what you kept.*
+Not recorded at the time, and I will not reconstruct it. On the branding thread
+the pattern was Claude proposing and me revising (see
+[the Brutalist pass](../2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md)),
+but I cannot honestly claim the same split applied here without having logged it.
 
 **What I understand now, and what I still do not.**
 
@@ -105,3 +109,31 @@ deliverable named in advance — a written list of content types, even a wrong o
 
 I do not know who the channel is for, and I now think that is the actual blocker
 rather than a detail to settle later. I also still have nothing a reader can open.
+
+---
+
+## 2026-10-17 — which three videos
+
+> Written 2026-10-17. Appended; the entries above stand as written.
+
+Three videos were unlisted:
+
+- [Build a Hydrogen Radial Probability Sim with Claude Code](https://www.youtube.com/watch?v=0QcyNKNNQVI)
+- [The Photoelectric Effect: One Photon, One Electron, and the End of Wave Theory](https://www.youtube.com/watch?v=tWhCp6N4ACM)
+- [Build a Quantum Harmonic Oscillator Ladder with Claude Code](https://www.youtube.com/watch?v=POoBlBjRMtc)
+
+Unlisted rather than deleted, so all three are still reachable by link — which
+is why they can be named at all a month later. Had they been removed there would
+be nothing to point at.
+
+**What the list shows that my memory did not.** Two of the three are
+Claude-Code-plus-Manim build reels. Looking at them together, the curation was
+selecting against build-process content and keeping finished explainers — which
+is a content-type decision, the exact thing I spent Weeks 17 and 18 failing to
+articulate in the abstract. I had already made it; I just made it by unlisting
+rather than by deciding.
+
+**Still missing:** the reasoning at the time. I can now see a pattern in what I
+removed, but I am reading it off the result, not recalling it. That is inference
+about my own past judgement, and I would rather label it as such than present it
+as a decision I remember making.

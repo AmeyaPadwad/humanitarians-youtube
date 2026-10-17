@@ -40,9 +40,10 @@ I could propose anything concrete. I had it backwards.
 
 **What Claude contributed, and what I accepted, changed or rejected.**
 
-*TODO — Heet: were the suggestions drafted with assistance or written cold? And
-what did you reject — the ideas you considered and dropped are more informative
-than the ones you kept.*
+Not recorded at the time, and I will not reconstruct it. On the branding thread
+the pattern was Claude proposing and me revising (see
+[the Brutalist pass](../2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md)),
+but I cannot honestly claim the same split applied here without having logged it.
 
 **What I understand now, and what I still do not.**
 
@@ -57,3 +58,23 @@ three weeks: on this thread I consistently finish the thinking and skip the
 recording. The branding thread does not have this problem, and the difference is
 that branding produces a file by default while planning only produces a file if
 I decide to make one.
+
+---
+
+## 2026-10-17 — the suggestions were never a list
+
+> Written 2026-10-17. Appended; the entry above stands as written.
+
+Confirmed: no written list of suggestions exists. They were proposed in
+conversation and then acted on. Two of them are now published —
+[What Really Stops A Sliding Puck?](https://www.youtube.com/shorts/nJUA8plGrOQ)
+and [How Does Anything Ever Move?](https://www.youtube.com/shorts/e9wJXusS31g).
+
+The entry above said I had produced a deliverable and failed to record it. That
+was half right: the deliverable was real, but it was never in a recordable form
+to begin with — it went straight from spoken to built. Those are different
+failures and the second one is less bad.
+
+Still true, and still the loss: the suggestions I considered and dropped are
+gone. Two shipped; I cannot say how many were weighed or why the others were
+not. That is the part a reader would actually learn from.

@@ -38,8 +38,15 @@ come out matching, and the win to be convenience.
 
 **What Claude contributed, and what I accepted, changed or rejected.**
 
-*TODO — Heet: name the skill you used, and say what you kept versus overrode in
-its defaults when fitting the Medhavy marks to it.*
+Claude proposed the intro and outro designs. I did not take them as given — I
+sent back changes and iterated, and what shipped is the result of those rounds
+rather than a first suggestion accepted. The shape of the collaboration was
+consistent throughout: Claude generated candidates, I directed the revisions,
+and the professor's confirmation is what closed it.
+
+What that means for credit: the design ideas started on Claude's side, the
+direction and the judgement calls were mine, and neither half produced the final
+on its own.
 
 **What I understand now, and what I still do not.**
 
@@ -95,8 +102,15 @@ were a round of revisions or a "the old one was fine."
 
 **What Claude contributed, and what I accepted, changed or rejected.**
 
-*TODO — Heet: what changed between the held version and the submitted final?
-That delta is the most interesting part of this entry and I cannot reconstruct it.*
+Claude proposed the intro and outro designs. I did not take them as given — I
+sent back changes and iterated, and what shipped is the result of those rounds
+rather than a first suggestion accepted. The shape of the collaboration was
+consistent throughout: Claude generated candidates, I directed the revisions,
+and the professor's confirmation is what closed it.
+
+What that means for credit: the design ideas started on Claude's side, the
+direction and the judgement calls were mine, and neither half produced the final
+on its own.
 
 **What I understand now, and what I still do not.**
 
@@ -109,3 +123,33 @@ ones — a confirmation of the output is not an answer about the tool. And the
 evidence position has not improved at all: this folder now describes a
 professor-confirmed deliverable with no render, no commit, and no named skill.
 A confirmed result nobody can open is the weakest kind of strong claim.
+
+---
+
+## 2026-10-17 — the skill is `logo-motion`, and it is not mine
+
+> Written 2026-10-17. Appended; the entries above stand as written.
+
+- **Skill:** [`logo-motion`](https://github.com/nikbearbrown/brutalist.art/tree/main/skills/make/logo-motion) — existing brutalist.art skill
+
+**The correction.** My Week 18, 19 and 20 reports all describe the branding as
+produced by "the skill I created plus its CLAUDE.md." Confirmed today: the skill
+is `logo-motion`, and I did not create it. I used an existing skill.
+
+I can see how the phrasing happened — I did author `sri-explainer`, and in my
+head "the skill" collapsed the two. But the reports repeated it three weeks
+running, and across those weeks the claim got load-bearing: the Week 18 Addams
+journal has a whole section arguing that owning the means of production makes
+the honest accounting more layered. That argument was built on something that
+is not true.
+
+**What is actually mine here.** The Medhavy props fed into `logo-motion` — the
+mark selection, the palette, the wordmark tracking, the tagline and URL timing —
+and the iterations that took the output from held to professor-confirmed. That
+is real work. It is use of a tool, not authorship of one.
+
+**What I understand now.** The entry above this one said "a confirmed result
+nobody can open is the weakest kind of strong claim." There is a second version
+of that: a confirmed result attributed to the wrong author. The first is a gap;
+the second is an error, and it is worse, because a gap advertises itself and an
+error does not.
