@@ -3,9 +3,10 @@
 - **Week:** 5–11 Oct 2026 (Week 19)
 - **Project:** Medhavy · **Role:** AI Software Engineer · **PM:** Jash S.
 - **Channel:** [youtube.com/@MedhavyAI](https://www.youtube.com/@MedhavyAI)
-- **Status:** **self-directed proposals — not reviewed, not confirmed, not produced.**
-- **Evidence:** **NOT PROVIDED** — the suggestions themselves are not committed here.
+- **Status:** proposals, never written down — two of them became videos the following week.
+- **Evidence:** the [two videos](../2026-10-15-first-branded-videos/) the suggestions turned into.
 - **Frictional log:** [FRICTIONAL.md](FRICTIONAL.md)
+- **Where this thread went next:** [video plan made with a teammate](../2026-10-15-collaborative-video-plan/) (Week 20)
 
 ## What this is
 
@@ -32,22 +33,18 @@ that "deciding what types of video to add" is not.
 - **Not an approved content plan.** A set of ideas is not a channel strategy.
 - **Not produced videos.**
 
-## Evidence gap — stated plainly
+## The suggestions were never written down
 
-**The suggestions are not in this folder.** No list, no file, nothing a reader
-can open. This is the third consecutive week of channel-direction work with no
-committed artifact, and it is the most frustrating instance of the three,
-because this time a deliverable actually exists — it just was not written down
-anywhere durable.
+**Confirmed by Heet 2026-10-17: no list exists and none is coming.** The
+suggestions were spoken and then acted on rather than recorded. What they became
+is visible: two of them are the content Shorts made the following week —
+[What Really Stops A Sliding Puck?](https://www.youtube.com/shorts/nJUA8plGrOQ)
+and [How Does Anything Ever Move?](https://www.youtube.com/shorts/e9wJXusS31g).
 
-Both prior Frictional entries named this exact gap. The
-[Week 18 entry](../2026-09-24-channel-reorganization/FRICTIONAL.md) said the next
-session needed "a deliverable named in advance — a written list of content types,
-even a wrong one." The deliverable was made. The writing-down still did not happen.
-
-*TODO — Heet: paste the suggestions into a `SUGGESTIONS.md` in this folder. A
-bulleted list of titles with one line of rationale each is enough. Then append a
-dated entry to [FRICTIONAL.md](FRICTIONAL.md) rather than editing the existing one.*
+That closes the question of what this week produced, in the only way still
+available: by its output rather than its artifact. The ideas that were
+*considered and dropped* are lost, and those are the ones that would have shown
+the reasoning.
 
 ## Hours
 

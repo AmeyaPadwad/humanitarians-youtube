@@ -35,10 +35,15 @@ favourite. I expected another round trip.
 
 **What Claude contributed, and what I accepted, changed or rejected.**
 
-*TODO — Heet: this week's entry is reconstructed from a one-paragraph summary.
-If there were specific revisions between the sent set and the confirmed set, or
-specific feedback from the professor on which outro was chosen, append a new dated
-entry below.*
+Claude proposed the intro and outro designs. I did not take them as given — I
+sent back changes and iterated, and what shipped is the result of those rounds
+rather than a first suggestion accepted. The shape of the collaboration was
+consistent throughout: Claude generated candidates, I directed the revisions,
+and the professor's confirmation is what closed it.
+
+What that means for credit: the design ideas started on Claude's side, the
+direction and the judgement calls were mine, and neither half produced the final
+on its own.
 
 **What I understand now, and what I still do not.**
 

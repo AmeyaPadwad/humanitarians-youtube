@@ -122,9 +122,10 @@ instead and let the confirmation, not the self-check, be what made it final.
 
 **What Claude contributed, and what I accepted, changed or rejected.**
 
-*TODO — Heet: this entry is the thinnest of the three because I am reconstructing
-it from a summary rather than from notes. If there were specific review comments,
-or specific things you changed before committing, append a new dated entry.*
+Not recorded at the time, and I will not reconstruct it. On the branding thread
+the pattern was Claude proposing and me revising (see
+[the Brutalist pass](../2026-10-01-intro-outro-brutalist-pass/FRICTIONAL.md)),
+but I cannot honestly claim the same split applied here without having logged it.
 
 **What I understand now, and what I still do not.** I understand the difference
 between self-verified and confirmed, and that only one of them closes a thread.

@@ -61,3 +61,21 @@ time the link goes into the log as I make it, not from memory a week later.
 
 *TODO — Heet: add the YouTube URL and the codebase commit for the fixed video as
 a new dated entry below. Do not edit this one.*
+
+---
+
+## 2026-10-17 — naming the video
+
+> Written 2026-10-17, four weeks after the entry above. Appended; that entry
+> stands as written.
+
+- **The video:** [Cancer Biology and Therapeutics – Guided Tutorial](https://www.youtube.com/watch?v=tnxC6LATugU)
+
+**What I can now point at.** The not-visible video is identified. It is also the
+`Medhavy_Cancer_Tutorial_1_4K.mp4` that had been sitting in Drive at 185.7 MB
+with no beat sheet, no source and no link — listed as an unexplained artifact in
+the fellow README since this folder was created. One link resolves both.
+
+**What is still open.** The codebase commit where the link was added. The fix,
+the upload and the integration were all mine; only the commit reference is
+missing, which means the last step is the one a reader still cannot verify.

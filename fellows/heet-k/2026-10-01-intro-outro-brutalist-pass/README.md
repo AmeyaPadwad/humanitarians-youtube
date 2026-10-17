@@ -4,7 +4,8 @@
 - **Project:** Medhavy · **Role:** AI Software Engineer · **PM:** Jash S.
 - **Status:** **professor-confirmed final (11 Oct).** Held and unsent through
   Week 18; modified to final, submitted, and confirmed in Week 19.
-- **Evidence:** **NOT PROVIDED** — see below.
+- **Skill used:** [`logo-motion`](https://github.com/nikbearbrown/brutalist.art/tree/main/skills/make/logo-motion) — an **existing** brutalist.art skill, not one I wrote. See the attribution note below.
+- **Evidence:** the stings are visible in the [published Shorts](../2026-10-15-first-branded-videos/); no Drive folder and no committed props.
 - **Frictional log:** [FRICTIONAL.md](FRICTIONAL.md) — two dated entries, held → confirmed
 - **Addams journal:** [addams-week-18.html](addams-week-18.html) — the Week 18 reflective entry, "Running the Branding Through a Tool I Built"
 
@@ -27,25 +28,30 @@ final; nothing here supersedes it.
 
 ## Evidence gap — stated plainly
 
-Nothing from this week is committed or locatable:
+- **The skill is `logo-motion`** — confirmed 2026-10-17. One parametric Remotion
+  `LogoMotion` composition where the mark, wordmark, tagline, palette and length
+  are all props.
+- **No Drive folder** — confirmed 2026-10-17 that none exists for these weeks.
+  The renders live on YouTube: the stings can be seen in
+  [Did She Lose Five-Sixths Of Her Mass?](https://www.youtube.com/shorts/byO4NcbLcXc)
+  and the other [branded videos](../2026-10-15-first-branded-videos/).
+- **No pinned skill version.** The `brutalist.art` checkout has no commits after
+  2026-09-02, so the exact state of `logo-motion` used here is not recorded.
 
-- **No renders.** No Drive folder was supplied for Week 18, and
-  `medhavy-brand/` has no files modified in the 28 Sep – 4 Oct window.
-- **No skill source.** The weekly report names "the skill I created along with
-  its `CLAUDE.md`" without naming the skill. The `brutalist.art` checkout has no
-  commits after 2026-09-02 and no files modified during this week, so the pass
-  cannot be traced to a specific skill version from here.
-- **The candidate** is `brutalist.art/skills/make/logo-motion/` — the Brutalist
-  skill whose stated purpose is exactly "brand intro / intro animation / outro
-  sting", one parametric Remotion `LogoMotion` composition driven by props.
-  `skills/make/logo/` (the brand-sting appender) is the other candidate. **Which
-  one this was, and whether it is the skill Heet authored, is unconfirmed** —
-  the only skill authorship documented in this folder is
-  [`sri-explainer`](../2026-08-24-sri-explainer-skill/).
+## Attribution — correcting the weekly reports
 
-*TODO — Heet: name the skill, link its commit, and add the Week 18 Drive folder.
-Then append a dated entry to [FRICTIONAL.md](FRICTIONAL.md) rather than editing
-the existing one.*
+The Week 18, 19 and 20 reports describe the branding as produced by "the skill
+I created plus its CLAUDE.md." **That is not accurate, and the record here
+corrects it.** `logo-motion` is a pre-existing brutalist.art skill; I used it, I
+did not write it. My contribution was the Medhavy props, marks and palette fed
+into it, plus the iterations that got the output confirmed.
+
+The one skill in this folder I did author is
+[`sri-explainer`](../2026-08-24-sri-explainer-skill/). Conflating the two would
+claim a capability that is not mine.
+
+No Drive folder exists for these weeks; the published Shorts are the record of
+the output.
 
 ## Week 19 — modified to final, submitted, confirmed
 
