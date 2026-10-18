@@ -36,4 +36,19 @@ contributed and what was accepted, changed or rejected, and what is now understo
 still open. Append as you go; never rewrite an earlier entry. It is not graded and not a
 performance review. See <https://www.humanitarians.ai/fellows> for what an entry contains.
 
+**Hours:**
+
+| Week / dates | Hours |
+|---|---|
+| Week 1 (Aug 3-9) | 22 |
+| Week 2 (Aug 10-16) | 22 |
+| Week 3 (Aug 17-23) | 23 |
+| Week 4 (Aug 24-30) | 22 |
+| Week 5 (Aug 31-Sep 6) | 23 |
+| Week 6 (Sep 7-13) | 22 |
+| Week 7 (Sep 14-20) | 23 |
+| Week 8 (Sep 21-27) | 22 |
+| Week 9 (Sep 28-Oct 4) | 23 |
+| Week 10 (Oct 5-11) | 22 |
+
 
