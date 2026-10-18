@@ -37,6 +37,3 @@ still open. Append as you go; never rewrite an earlier entry. It is not graded a
 performance review. See <https://www.humanitarians.ai/fellows> for what an entry contains.
 
 
-> Folder-naming note: `fellows/README.md` specifies one **dated** weekly-report
-> folder per video (`YYYY-MM-DD-slug`). The three `banking-domain-*` folders
-> predate that convention and are undated; new reels follow it.
