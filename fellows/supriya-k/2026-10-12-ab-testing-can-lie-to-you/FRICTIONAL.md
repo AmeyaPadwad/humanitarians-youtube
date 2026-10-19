@@ -23,7 +23,7 @@ italic text losing its word spacing at 4K, and an outro that underfilled
 at the same scale setting the previous reel used, requiring a
 per-video adjustment instead of a fixed value.
 
-**What Claude contributed:** Ran all four real Python simulations itself
+**What Claude contributed:** Ran all three simulation scripts and the shared stats helper itself
 and traced every on-screen number to either the simulation output or the
 papers directly; caught the redistribution restriction on the source
 PDFs before committing anything; caught the "SQL"-default leak and the

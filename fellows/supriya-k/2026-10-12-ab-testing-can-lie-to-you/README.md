@@ -23,4 +23,4 @@ ratio mismatch from a bot filter) and Johari, Pekelis & Walsh 2015
 (peeking / early stopping), both verified against the authors' own PDFs.
 
 ## Built with
-brutalist.art (cli-explainer skill, Claude-hai persona, Kokoro af_bella)
+brutalist.art (cli-explainer skill, no persona (voice: Kokoro af_bella, the hai channel's voice))
