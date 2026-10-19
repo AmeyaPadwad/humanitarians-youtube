@@ -6,7 +6,7 @@
 
 ## What's in this folder
 
-10 dated work folders, one per weekly report or video (weeks 1-10):
+11 dated work folders, one per weekly report or video (weeks 1-11):
 
 - `2026-08-03-data-analyst-book/`
 - `data-analyst-interview-prep-week2-3-4/2026-08-10-data-analyst-interview-prep-end-to-end-part1/`
@@ -18,6 +18,7 @@
 - `2026-09-21-sql-query-optimization-for-analytics/`
 - `2026-09-28-claude-code-explained/`
 - `2026-10-05-correlation-is-not-causation/`
+- `2026-10-12-ab-testing-can-lie-to-you/`
 
 Earlier versions, kept as uploaded:
 
@@ -51,4 +52,5 @@ performance review. See <https://www.humanitarians.ai/fellows> for what an entry
 | Week 8 (Sep 21-27) | 22 | [Drive folder](https://drive.google.com/drive/folders/1PjxUNRD6t3aTQXRjMxpxD7BQRoTzku9U) — `2026-09-21-sql-query-optimization-for-analytics.mp4` / `-vertical.mp4` |
 | Week 9 (Sep 28-Oct 4) | 23 | [Drive folder](https://drive.google.com/drive/folders/15FmplEvO7l-as-C_hcc_JmMXCa--XNON) — `2026-09-28-claude-code-explained.mp4` / `-vertical.mp4` |
 | Week 10 (Oct 5-11) | 22 | [Drive folder](https://drive.google.com/drive/folders/12Z09Y0qHNXFdsu9cp8kOGwyR72zqxadS) — `2026-10-05-correlation-is-not-causation.mp4` / `-vertical.mp4` |
+| Week 11 (Oct 12-18) | 23 | [Drive folder](https://drive.google.com/drive/folders/1hc5iSRgrSYF35AxXHg4GGKxZyQFdrHN7) — `2026-10-12-ab-testing-can-lie-to-you.mp4` / `-vertical.mp4` |
 
