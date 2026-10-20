@@ -11,9 +11,9 @@ The four new revision folders use this preparation date. Week labels follow the 
 - [Why Data Validation Matters Before Analysis](2026-10-18-why-data-validation-matters-before-analysis/README.md) — see its status and QC record for actual completion.
 - [Week 6 Progress — Learning Brutalist Final Render and Review Workflow](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/README.md) — see its status and QC record for actual completion.
 
-## Week 6 team contribution
+## Week 6 Progress — team contribution
 
-[YouTube review support](2026-10-18-week-6-youtube-review-support/README.md) records Deepa's supplied account of reviewing Uday Sonawane's two Mycroft submissions, preparing metadata, uploading to the Humanitarians AI YouTube channel for review, and informing Sanjana. No final publication or team approval is inferred.
+As part of Week 6 Progress, [YouTube review support](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/youtube-review-support/README.md) records Deepa's supplied account of reviewing Uday Sonawane's two Mycroft submissions, preparing metadata, uploading to the Humanitarians AI YouTube channel for review, and informing Sanjana. No final publication or team approval is inferred.
 
 ## Reporting boundaries
 

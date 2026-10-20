@@ -4,6 +4,8 @@
 
 **Record prepared:** 2026-10-18. This is the documentation date; exact activity dates and hours were not supplied. Week 6 is the user's reporting label, not an inferred calendar interval.
 
+This record is part of [Week 6 Progress](../README.md), not a separate video submission. Review support carries no additional hours beyond the reported Week 6 allocation.
+
 ## Reported work
 
 Following my October renewal, Nina asked me to remain with Sanjana Rao's group until another project or position becomes available. Sanjana subsequently explained that there was no active development work in the Brutalist/YouTube team and assigned me to help review YouTube video submissions.
@@ -19,4 +21,4 @@ The reviewed videos were good to go from my side. I prepared/polished the YouTub
 
 This record is based on Deepa's account supplied in the current task, not a new channel action performed by the assistant. Individual YouTube URLs, upload dates, exact final descriptions/hashtags, and independent upload receipts were not supplied. No URLs or metadata text have been invented. “Good to go from my side” records my review outcome only; it is not final team approval, publication approval, or evidence that either video was publicly published.
 
-[Process and provenance](FRICTIONAL.md) · [Weeks 5–6 reporting index](../2026-10-18_weeks5-6_update.md)
+[Process and provenance](FRICTIONAL.md) · [Weeks 5–6 reporting index](../../2026-10-18_weeks5-6_update.md)

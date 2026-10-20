@@ -12,6 +12,10 @@ Nine scenes are authored in native landscape and independently reflowed portrait
 
 Branding remains Humanitarians AI / @HumanitariansAI, with Liam narrating for Deepa, Kokoro am_onyx at speed 1.0, and the established HAI palette and fonts. The earlier technical-only film, source, narration, approval and QC records are preserved in ignored `_qc/content-correction/previous-version/`. Historical Frictional/build entries remain intact.
 
+## YouTube review support within Week 6 Progress
+
+The [review-support account](youtube-review-support/README.md) and its [Frictional record](youtube-review-support/FRICTIONAL.md) document the Uday Mycroft reviews as part of this Week 6 Progress project. They are supporting documentation, not a fifth video project or an additional hours allocation. The submission consists of four main video projects, each with landscape and portrait outputs.
+
 ## Render access
 
 The landscape and portrait masters are prepared locally. [Shared Google Drive folder](https://drive.google.com/drive/folders/1opTBwRSQ6-XVvomiUUw6-TD0tIwhxMH5) is accessible and lists the Week 5–6 landscape and portrait filenames. Cloud-file hashes have not been verified against the local masters. See [delivery filenames, durations and hashes](DELIVERY.md). Final human cut approval remains outstanding.
