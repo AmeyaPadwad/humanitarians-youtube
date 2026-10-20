@@ -69,3 +69,28 @@ During 1 Oct — 31 Oct 2026, I plan to continue with Brutalist Videos on Sanjan
 
 - Sanjana stated that the remaining videos are under project-team review, as recorded in the [September 29 update](2026-09-29_update.md). The record does not identify individual outstanding team decisions; I do not infer them from my own cut approvals.
 - Individual project-to-YouTube review-link mappings remain undocumented. Project-specific Drive mappings also remain undocumented and need to be established before adding those evidence links.
+
+## Weeks 5–6 continuation — subsequent submission update
+
+This addendum preserves the original September renewal request, agreement dates, plan, hours and evidence above. It reports subsequent Week 5–6 work; it does not reclassify that work into the August–September agreement period. Week labels follow the assignment, and the 2026-10-18 folder dates are preparation dates, not inferred calendar week boundaries.
+
+I continued two STEM explainers about data leakage and validating data before analysis, plus two progress videos about the Brutalist discovery, production and review workflow. I prepared landscape and separately reflowed portrait Beat Sheets, narration, visual scenes, source/evidence notes, and production/QC records. All eight local 4K masters passed technical QC. The corrected Week 6 Progress pair is 176.166667 seconds per format and includes my Humanitarians AI work with Sanjana Rao's YouTube team.
+
+I reviewed only Uday Sonawane's two Mycroft submissions: “Energy Recycling in Photonics — Three Things Called Recycling” and “The Denominator Problem: When Percentages Mislead.” I prepared titles, descriptions and relevant metadata, uploaded those submissions to the Humanitarians AI YouTube channel for review, and informed Sanjana. This is my reported work account, not a claim of final team approval or public publication. This review support is part of Week 6 Progress, not a separate submission or additional hours. See the [Week 6 review-support record](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/youtube-review-support/README.md).
+
+### Subsequent video evidence
+
+[Shared Google Drive folder](https://drive.google.com/drive/folders/1opTBwRSQ6-XVvomiUUw6-TD0tIwhxMH5) — accessible at the submission check, with all eight expected Week 5–6 filenames listed in the four project subfolders. Folder access and filename checks do not establish that the cloud bytes match the local QC-passed masters; cloud-file hashes have not been verified.
+
+| Work item | Project documentation | Local QC / duration evidence | Drive subfolder / expected files |
+|---|---|---|---|
+| Week 5 STEM — Data leakage | [README](2026-10-18-why-data-leakage-can-make-a-model-look-better-than-it-really-is/README.md) · [FRICTIONAL](2026-10-18-why-data-leakage-can-make-a-model-look-better-than-it-really-is/FRICTIONAL.md) | [Delivery](2026-10-18-why-data-leakage-can-make-a-model-look-better-than-it-really-is/DELIVERY.md) · [QC](2026-10-18-why-data-leakage-can-make-a-model-look-better-than-it-really-is/CHECKS-REPORT.md) | `09_STEM_Week5`: `Week5_STEM_16x9.mp4`, `Week5_STEM_9x16.mp4` |
+| Week 5 Progress — Search, scene and vertical workflow | [README](2026-10-18-week-5-progress-learning-brutalist-search-scene-and-vertical-workflow/README.md) · [FRICTIONAL](2026-10-18-week-5-progress-learning-brutalist-search-scene-and-vertical-workflow/FRICTIONAL.md) | [Delivery](2026-10-18-week-5-progress-learning-brutalist-search-scene-and-vertical-workflow/DELIVERY.md) · [QC](2026-10-18-week-5-progress-learning-brutalist-search-scene-and-vertical-workflow/CHECKS-REPORT.md) | `10_Progress_Week5`: `Week5_Progress_16x9.mp4`, `Week5_Progress_9x16.mp4` |
+| Week 6 STEM — Data validation | [README](2026-10-18-why-data-validation-matters-before-analysis/README.md) · [FRICTIONAL](2026-10-18-why-data-validation-matters-before-analysis/FRICTIONAL.md) | [Delivery](2026-10-18-why-data-validation-matters-before-analysis/DELIVERY.md) · [QC](2026-10-18-why-data-validation-matters-before-analysis/CHECKS-REPORT.md) | `11_STEM_Week6`: `Week6_STEM_16x9.mp4`, `Week6_STEM_9x16.mp4` |
+| Week 6 Progress — Production and review support | [README](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/README.md) · [FRICTIONAL](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/FRICTIONAL.md) | [Delivery](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/DELIVERY.md) · [QC](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/CHECKS-REPORT.md) | `11_Progress_Week6`: `Week6_Progress_16x9.mp4`, `Week6_Progress_9x16.mp4` |
+
+### Subsequent hours and review boundaries
+
+[HOURS.md](HOURS.md) records Week 5 as 15 progress/workflow + 14 STEM = 29 hours and Week 6 as 16 progress/workflow + 14 STEM = 30 hours. These user-supplied 59 hours are added once to the original reconstructed 100-hour subtotal. Cumulative Weeks 1–6 totals are **83 progress/workflow + 76 STEM = 159 hours**. No separate review-work, aspect-ratio or rerender hours are added. Weeks 1–4 remain reconstructed estimates; contemporaneous logging of the newly supplied Week 5–6 hours is not established. The combined total is not an independently verified or exact contemporaneous time log.
+
+The original four narration recordings were approved, but the corrected Week 6 Progress narration and final cuts have no recorded human approval. Technical QC, Google Drive availability, human review, and publication remain separate states. Individual Week 5–6 YouTube URLs and final team approval/publication are not claimed. The historical Weeks 1–4 unmapped-link statements above remain unchanged.

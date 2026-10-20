@@ -63,3 +63,14 @@ Each project also includes its landscape `beat_sheet.json` and independently aut
 ## Reporting boundary
 
 The dated report records reporting limits and any unknowns. No exact individual approval dates or project-to-YouTube-link mapping have been inferred. No private contact, immigration, or identity-document information is included.
+
+## Weeks 5–6 continuation
+
+This later work is separate from the August–September report above. See the [Weeks 5–6 reporting update](2026-10-18_weeks5-6_update.md).
+
+- [Why Data Leakage Can Make a Model Look Better Than It Really Is](2026-10-18-why-data-leakage-can-make-a-model-look-better-than-it-really-is/README.md).
+- [Week 5 Progress — Learning Brutalist Search, Scene, and Vertical Workflow](2026-10-18-week-5-progress-learning-brutalist-search-scene-and-vertical-workflow/README.md).
+- [Why Data Validation Matters Before Analysis](2026-10-18-why-data-validation-matters-before-analysis/README.md).
+- [Week 6 Progress — Brutalist Production and YouTube Review Support](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/README.md) — includes [YouTube review support](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/youtube-review-support/README.md).
+
+All eight masters pass technical QC and are prepared locally. [Shared Google Drive folder](https://drive.google.com/drive/folders/1opTBwRSQ6-XVvomiUUw6-TD0tIwhxMH5) is accessible and lists all eight expected Week 5–6 filenames. Cloud-file hashes have not been verified against the local masters. Final human cut approval is not recorded; the corrected Week 6 Progress narration also awaits human review.
