@@ -3,7 +3,6 @@
 **Role:** Fellow — Project 29 (`mycroft`) engineering + weekly AI/STEM explainer series
 **Project:** Financial Regulatory Intelligence System (`mycroft`) + general AI/STEM video series
 **GitHub:** [@SaiPranaviJeedigunta](https://github.com/SaiPranaviJeedigunta)
-**Supervisor:** Shradha Katte through 10 Oct 2026; no supervisor assigned since
 **Agreement period:** 1 Aug 2026 – 31 Oct 2026 (renewal requested, see [RENEWAL.md](RENEWAL.md))
 
 ## Executive summary
