@@ -44,6 +44,3 @@ been covered.
 - `FRICTIONAL.md` written contemporaneously in every new work folder from day one — closing the
   gap flagged in this renewal request, where none of the prior 18 folders had one until
   reconstructed retrospectively as part of this submission.
-- No supervisor is currently assigned (Shradha Katte's coverage ended 10 Oct 2026). This plan and
-  its pacing have not been reviewed by a supervisor; flagging this openly rather than implying
-  sign-off that hasn't happened.
