@@ -178,7 +178,7 @@ class B01_ExecSummary(Scene):
         initials.move_to(badge.get_center())
         badge_group = VGroup(badge, initials)
 
-        name = fit(T("Sai Pranavi Jeedigunta", color=PALETTE["ink"], font_size=42, weight="BOLD"), 9.0)
+        name = fit(T("Sai Pranavi J.", color=PALETTE["ink"], font_size=42, weight="BOLD"), 9.0)
         role = fit(T("Humanitarians AI Fellow", color=PALETTE["slate"], font_size=22), 7.0)
         name_block = VGroup(name, role).arrange(DOWN, buff=0.15)
         header_row = VGroup(badge_group, name_block).arrange(RIGHT, buff=0.4)
@@ -205,8 +205,9 @@ class B01_ExecSummary(Scene):
         self.play(Create(badge), FadeIn(initials), run_time=0.4)
         self.play(FadeIn(name_block, shift=UP * 0.1), run_time=0.5)
         self.play(FadeIn(summary, shift=UP * 0.1), Create(bottom_rule), run_time=0.6)
-        # sum of plays = 2.1s; remainder tuned to the measured 14.09s Kokoro length
-        self.wait(11.99)
+        # sum of plays = 2.1s; remainder tuned to the measured 13.56s Kokoro length
+        # (2026-10-20 name-retrofit: "Sai Pranavi J.", was 14.09s -> wait 11.99)
+        self.wait(11.46)
 
 
 # --------------------------------------------------------------------------- #
@@ -601,7 +602,7 @@ class B07_Statement(Scene):
 
 # --------------------------------------------------------------------------- #
 # B08 — SIGN-OFF: @HumanitariansAI, explained with Claude Code, in for Sai
-# Pranavi Jeedigunta.
+# Pranavi J.
 # measured audio: 1.51s — a very short beat; kept deliberately simple.
 # --------------------------------------------------------------------------- #
 class B08_BrandOutro(Scene):
@@ -617,7 +618,7 @@ class B08_BrandOutro(Scene):
         accent = Line(LEFT * 3.2, RIGHT * 3.2, color=PALETTE["gold"], stroke_width=3)
         fixed_line = fit(T("explained with Claude Code", color=PALETTE["ink"], font_size=42), 11.0)
         tagline = fit(T(
-            "in for Sai Pranavi Jeedigunta", color=PALETTE["ink"], font_size=34,
+            "in for Sai Pranavi J.", color=PALETTE["ink"], font_size=34,
         ), 11.0)
         content = VGroup(handle, accent, fixed_line, tagline).arrange(DOWN, buff=0.8).move_to(ORIGIN)
 

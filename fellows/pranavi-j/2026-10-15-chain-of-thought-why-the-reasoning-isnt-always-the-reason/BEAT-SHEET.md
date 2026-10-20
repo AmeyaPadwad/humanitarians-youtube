@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-10-15): "Chain-of-Thought: Why the Reasoning Isn't Always the Reason"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly STEM video (general AI/STEM topic explainer,
+**Creator:** Sai Pranavi J. | Weekly STEM video (general AI/STEM topic explainer,
 distinct from the weekly work report)
 **Format:** `ai-explainer`, framework-first teaching structure (same register as this fellow's
 prior STEM videos)
@@ -39,7 +39,7 @@ claiming it as a live test of any one system).
 | B04 Worked example | The hint shown in the prompt, the stated reasoning shown separately never mentioning it | Both must be visible together so the gap is legible, not just asserted |
 | B05 Falsifiability | A case where changing one reasoning step visibly changes the final answer | Visibly different resolution from B04 — the reasoning doing real causal work |
 | B06 Task | The 3 tests restated as a checklist | Actionable, not just a restatement of the framework |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -50,7 +50,7 @@ Visual: title card — "Chain-of-Thought: Why the Reasoning Isn't Always the Rea
 @HumanitariansAI. No narration.
 
 **B01. Exec summary (~0:04–0:22)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about why a model's step-by-step explanation for
+VO: "Hi, I'm Sai Pranavi J.. This video is about why a model's step-by-step explanation for
 its answer isn't always the real reason it got there, and three tests that catch the difference."
 Visual: name card, one-line summary text on screen as it's spoken.
 
@@ -102,7 +102,7 @@ Visual: statement card.
 
 **B08. Sign-off (~2:32–2:37)**
 VO: "Explained with Claude Code."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 

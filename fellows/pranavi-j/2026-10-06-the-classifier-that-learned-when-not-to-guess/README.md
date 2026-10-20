@@ -1,6 +1,6 @@
 # Weekly Work Report: The Classifier That Learned When Not to Guess
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** October 6, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo, `scripts/regulatory-intel/`)
 **Source status:** Real engineering work. Every claim traces to `B2-VERIFICATION.md` (the 2026-10-06 addendum) and the matching `logs/RUN_LOG.md` entry in the `mycroft` repo — a local-LLM (Ollama) fallback classification step built and verified live against the actual 21 `Unknown Source` database rows and the shipped `workflow.dev.json` code.
@@ -25,8 +25,8 @@ Deliberately left out: this is not a claim that the LLM fallback generally resol
 - Narration approval: **approved** — Kokoro `af_bella`, locked 2026-10-09
 - Voice: **Bella (`af_bella`)** — persistent for this fellow's whole report series
 - Previz: **complete** — 9/9 beats real Manim, no slates, both aspects
-- Final render — **16:9 landscape:** `ClassifierFallbackClassification_SaiPranaviJeedigunta.mp4`, 3840x2160, 24fps, h264/aac, **159.875s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
-- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `ClassifierFallbackClassification_SaiPranaviJeedigunta.mp4`, 2160x3840, 24fps, h264/aac, **159.875s** (identical duration to the landscape master — every beat kept, nothing dropped). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **16:9 landscape:** `ClassifierFallbackClassification_SaiPranaviJ.mp4`, 3840x2160, 24fps, h264/aac, **159.875s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `ClassifierFallbackClassification_SaiPranaviJ.mp4`, 2160x3840, 24fps, h264/aac, **159.875s** (identical duration to the landscape master — every beat kept, nothing dropped). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
 - Personally re-verified (not just trusting the build report): extracted and viewed real frames from B04 (the pipeline diagram's conditional gate), B06 (the honest-limits framing and 7 dimmed declined headlines), and B08 (brand sign-off) directly from both final deliverables. No text-rendering artifacts, no clipping, no overlap; B04 clearly shows the YES/NO gate and the untouched bypass path in both aspects.
 - Publishing: **not authorized** — masters stay in this folder only, ready for fellow/PM review
 
@@ -54,8 +54,8 @@ This project follows the toolkit's official spec (`brutalist/docs/FELLOWS-SUBMIS
 
 ## Watch and review
 
-- Landscape — `deliverables/landscape/ClassifierFallbackClassification_SaiPranaviJeedigunta.mp4` — 3840×2160 — 159.875s — SHA-256 in the adjacent `.verified.json`
-- Vertical — `deliverables/vertical/ClassifierFallbackClassification_SaiPranaviJeedigunta.mp4` — 2160×3840 — 159.875s — SHA-256 in the adjacent `.verified.json`
+- Landscape — `deliverables/landscape/ClassifierFallbackClassification_SaiPranaviJ.mp4` — 3840×2160 — 159.875s — SHA-256 in the adjacent `.verified.json`
+- Vertical — `deliverables/vertical/ClassifierFallbackClassification_SaiPranaviJ.mp4` — 2160×3840 — 159.875s — SHA-256 in the adjacent `.verified.json`
 - PM review status: pending
 - YouTube 4K processing check: pending upload
 - Professors' publication decision: pending

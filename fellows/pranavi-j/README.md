@@ -2,7 +2,7 @@
 
 **Role:** Fellow — Project 29 (`mycroft`) engineering + weekly AI/STEM explainer series
 **Project:** Financial Regulatory Intelligence System (`mycroft`) + general AI/STEM video series
-**GitHub:** [@SaiPranaviJeedigunta](https://github.com/SaiPranaviJeedigunta)
+**GitHub:** [@SaiPranaviJ](https://github.com/SaiPranaviJ)
 **Agreement period:** 1 Aug 2026 – 31 Oct 2026 (renewal requested, see [RENEWAL.md](RENEWAL.md))
 
 ## Executive summary
@@ -65,13 +65,13 @@ for the full report series.
 | 2026-10-15 | [The Alert That Waited for a Second Item](2026-10-15-the-alert-that-waited-for-a-second-item/) | Weekly work | Project 29 — Financial Regulatory Intelligence System (`mycroft`) |
 | 2026-10-15 | [Chain-of-Thought: Why the Reasoning Isn't Always the Reason](2026-10-15-chain-of-thought-why-the-reasoning-isnt-always-the-reason/) | Weekly STEM | General AI/STEM topic explainer |
 
-The first three were rebuilt 2026-08-26/28 for program-wide submission requirements: 4K (3840x2160), a title card + executive-summary opening beat, a 9:16 vertical companion (real Manim portrait relayout, not a crop), and self-assessment against each project's `PROOF.md`. Final deliverables are named per the fellowship convention (`Mycroft_SaiPranaviJeedigunta_<date>_<aspect>.mp4` for the weekly-work video, `<TopicName>_SaiPranaviJeedigunta_<date>_<aspect>.mp4` for the weekly-STEM videos) and live inside each project folder alongside the paperwork; code/paperwork for each is pushed to `github.com/nikbearbrown/humanitarians-youtube` on its own branch (see each project's `README.md` for the exact branch/commit).
+The first three were rebuilt 2026-08-26/28 for program-wide submission requirements: 4K (3840x2160), a title card + executive-summary opening beat, a 9:16 vertical companion (real Manim portrait relayout, not a crop), and self-assessment against each project's `PROOF.md`. Final deliverables are named per the fellowship convention (`Mycroft_SaiPranaviJ_<date>_<aspect>.mp4` for the weekly-work video, `<TopicName>_SaiPranaviJ_<date>_<aspect>.mp4` for the weekly-STEM videos) and live inside each project folder alongside the paperwork; code/paperwork for each is pushed to `github.com/nikbearbrown/humanitarians-youtube` on its own branch (see each project's `README.md` for the exact branch/commit).
 
 The three 2026-08-30 reports (two weekly-work, one weekly-STEM) were all built natively to spec from the start (4K, both aspect ratios, exec-summary beat, naming convention) rather than rebuilt after the fact:
 
 - **Weekly work (1st):** a real Layer 1 fix (a "Mark email sent" step re-deriving its own high-priority rule instead of reading the email step's actual output) with all on-screen numbers traced to `A7-VERIFICATION.md` and re-verified live against the database at build time — see its `README.md`/`BUILD-LOG.md`.
 - **Weekly STEM:** a framework-first explainer teaching a reusable 3-question rubric (Source / Instruction-or-Data / Consequence) for whether an AI agent should act on external text, with a worked example, a falsifiability stress-test, and a scaffolded audit task — self-assessed 11/12 against `PROOF.md` — see its `README.md`/`BUILD-LOG.md`/`PEDAGOGY.md`.
-- **Weekly work (2nd):** a second Layer 1 fix in the same pipeline — a source classifier rule specifically written to catch CFTC filings that, tested against every live CFTC item, matched zero of them (the rule checked for text patterns that structurally can't appear in Federal Register permalinks/titles) — fixed by reading the feed's real `dc:creator` field instead of guessing. Named `Mycroft_SaiPranaviJeedigunta_20260830b_*` (suffixed `b` since two weekly-work videos landed the same day) — see its `README.md`/`BUILD-LOG.md`.
+- **Weekly work (2nd):** a second Layer 1 fix in the same pipeline — a source classifier rule specifically written to catch CFTC filings that, tested against every live CFTC item, matched zero of them (the rule checked for text patterns that structurally can't appear in Federal Register permalinks/titles) — fixed by reading the feed's real `dc:creator` field instead of guessing. Named `Mycroft_SaiPranaviJ_20260830b_*` (suffixed `b` since two weekly-work videos landed the same day) — see its `README.md`/`BUILD-LOG.md`.
 
 The 2026-09-07 reports (one weekly-work, one weekly-STEM):
 
@@ -81,7 +81,7 @@ The 2026-09-07 reports (one weekly-work, one weekly-STEM):
 ## Naming/format convention
 
 The first 8 reports (2026-07-26 through 2026-09-07) use the original fellowship naming
-(`Mycroft_SaiPranaviJeedigunta_<date>_<aspect>.mp4` / `<TopicName>_SaiPranaviJeedigunta_<date>_<aspect>.mp4`,
+(`Mycroft_SaiPranaviJ_<date>_<aspect>.mp4` / `<TopicName>_SaiPranaviJ_<date>_<aspect>.mp4`,
 4K 16:9 + 1080x1920 9:16 short) and are being **kept exactly as built** — no retroactive renaming
 or re-rendering.
 
@@ -101,13 +101,13 @@ The two 2026-09-14 reports are the first built under this new spec:
   API. Along the way, a classification-ordering near-miss was caught before shipping — it would
   have silently undone two prior weeks' fixes. Two honest limitations kept at full weight: unverified
   against the fellow's live n8n instance, and ~400 extra requests/run by design. Named
-  `GoogleNewsLinkFix_SaiPranaviJeedigunta.mp4`. GATE V: 0 BLOCKER/0 MAJOR on both masters — see its
+  `GoogleNewsLinkFix_SaiPranaviJ.mp4`. GATE V: 0 BLOCKER/0 MAJOR on both masters — see its
   `README.md`/`BUILD-LOG.md`.
 - **Weekly STEM, "RAG: Why 'Looking It Up' Doesn't Guarantee It's True":** a framework-first
   explainer teaching a 3-question rubric (Relevant / Current / Grounded) for whether a
   Retrieval-Augmented-Generation answer is actually grounded in what it retrieved, with a stale-document
   worked example, a falsifiability case where retrieval genuinely is the fix, and a scaffolded audit
-  task. Self-assessed 11/12 against `PROOF.md`. Named `RAGGrounding_SaiPranaviJeedigunta.mp4` — see
+  task. Self-assessed 11/12 against `PROOF.md`. Named `RAGGrounding_SaiPranaviJ.mp4` — see
   its `README.md`/`BUILD-LOG.md`/`PEDAGOGY.md`.
 
 Two further weekly-work reports (2026-09-22, backdated to catch up on a missed submission week,
@@ -119,7 +119,7 @@ and 2026-09-29), both built under the same new submission spec and both under th
   (Investment Advisor Rules missing from both the source grid and the summary line). Fixed and
   verified by diffing every source-card label against the workflow's real feed-node names. Also
   closed a stale `FINDINGS.md` note ("apply A4/B4 to Generate Email") that turned out to already
-  be fixed since the very first hardening commit. Named `AllClearEmailFix_SaiPranaviJeedigunta.mp4`.
+  be fixed since the very first hardening commit. Named `AllClearEmailFix_SaiPranaviJ.mp4`.
   GATE V: 0 BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
 - **Weekly work (7th in the Layer 1 series), "The Keyword That Cried Wolf":** built and verified a
   local-LLM (Ollama, `llama3.2:3b`) second-pass review targeting the two C1 keyword-misfire
@@ -128,10 +128,10 @@ and 2026-09-29), both built under the same new submission spec and both under th
   Effectiveness." Verified live against both false positives plus a genuine true positive (the SEC
   insider-trading case); fail-open behavior verified separately (an Ollama outage doesn't break the
   pipeline). Ollama wasn't even installed on the dev machine before this fix — installed, model
-  pulled, and tested live in-session. Named `KeywordReScoring_SaiPranaviJeedigunta.mp4`. GATE V: 0
+  pulled, and tested live in-session. Named `KeywordReScoring_SaiPranaviJ.mp4`. GATE V: 0
   BLOCKER/0 MAJOR (landscape), 0 BLOCKER/2 MAJOR (vertical, both on the B08 brand card, borderline
   underfill at the 55% floor, personally confirmed legible) — see its `README.md`/`BUILD-LOG.md`.
-  Both mycroft fixes behind these two videos are pushed to `github.com/SaiPranaviJeedigunta/mycroft`,
+  Both mycroft fixes behind these two videos are pushed to `github.com/SaiPranaviJ/mycroft`,
   branch `feature/regulatory-intelligence-hardening` (commit `3e32894`), documented in
   `B5-VERIFICATION.md` and `C2-VERIFICATION.md`.
 
@@ -144,14 +144,14 @@ fully generic (no real model/vendor named or benchmarked):
   phrasing that merely resembles certainty. Worked example: a fabricated citation delivered in the
   same confident tone as a real one. Falsifiability case: the same confident tone on a simple,
   genuinely true fact, stress-testing the rubric against a naive "confident tone = hallucination"
-  over-trigger. Named `HallucinationConfidence_SaiPranaviJeedigunta.mp4`. GATE V: 0 BLOCKER/0 MAJOR
+  over-trigger. Named `HallucinationConfidence_SaiPranaviJ.mp4`. GATE V: 0 BLOCKER/0 MAJOR
   on both masters — see its `README.md`/`BUILD-LOG.md`.
 - **Weekly STEM, "Tokenization: Why AI Can't Count the Letters in Its Own Words":** a
   framework-first explainer on why language models read text as sub-word tokens rather than
   individual characters, and why that causes character-counting errors. Worked example: the
   well-known "how many R's in strawberry" class of failure, with the word's real token split shown
   alongside the model's miscounted tally. Falsifiability case: the same word spelled out
-  letter-by-letter first, now counted correctly. Named `Tokenization_SaiPranaviJeedigunta.mp4`.
+  letter-by-letter first, now counted correctly. Named `Tokenization_SaiPranaviJ.mp4`.
   GATE V: 0 BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
 
 A real continuation of the B2 source-classification work (2026-10-06), plus a matching
@@ -164,9 +164,9 @@ weekly-STEM report, same new submission spec:
   (`llama3.2:3b`) fallback classification step that only acts on unresolved items and fails open on
   any error. Live-verified: 0 already-classified items touched, 1 of 8 correctly resolved, 7
   honestly left as Unknown Source rather than guessed — framed explicitly as the correct outcome,
-  not a shortfall. Named `ClassifierFallbackClassification_SaiPranaviJeedigunta.mp4`. GATE V: 0
+  not a shortfall. Named `ClassifierFallbackClassification_SaiPranaviJ.mp4`. GATE V: 0
   BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`. The mycroft fix behind this
-  video is pushed to `github.com/SaiPranaviJeedigunta/mycroft`, branch
+  video is pushed to `github.com/SaiPranaviJ/mycroft`, branch
   `feature/regulatory-intelligence-hardening` (commit `948fba5`), documented in the 2026-10-06
   addendum to `B2-VERIFICATION.md`.
 - **Weekly STEM, "Lost in the Middle: Why More Context Doesn't Guarantee a Better Answer":** a
@@ -174,7 +174,7 @@ weekly-STEM report, same new submission spec:
   better at using information near the start/end of a long input than information buried in the
   middle. Worked example: the same fact, same document, same question, planted in the middle
   (missed) versus the start or end (found). Kept fully qualitative — no specific real model
-  benchmarked, no fabricated statistics. Named `LostInTheMiddle_SaiPranaviJeedigunta.mp4`. GATE V: 0
+  benchmarked, no fabricated statistics. Named `LostInTheMiddle_SaiPranaviJ.mp4`. GATE V: 0
   BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
 
 A new real bug found and fixed this week (2026-10-15), plus a matching weekly-STEM report, same
@@ -189,9 +189,9 @@ new submission spec:
   item batches before and after the fix, then re-verified against the real patched file on disk.
   Honestly flagged that this wasn't caught by an observed live miss, only by re-reading the code,
   and surfaced a separate, still-open `Regulatory_QA`/`source_feed` compatibility gap found along
-  the way. Named `AlertSecondItemGate_SaiPranaviJeedigunta.mp4`. GATE V: 0 BLOCKER/0 MAJOR on both
+  the way. Named `AlertSecondItemGate_SaiPranaviJ.mp4`. GATE V: 0 BLOCKER/0 MAJOR on both
   masters — see its `README.md`/`BUILD-LOG.md`. The mycroft fix behind this video is pushed to
-  `github.com/SaiPranaviJeedigunta/mycroft`, branch `feature/regulatory-intelligence-hardening`
+  `github.com/SaiPranaviJ/mycroft`, branch `feature/regulatory-intelligence-hardening`
   (commit `f9eed1e`), documented in `B6-VERIFICATION.md`.
 - **Weekly STEM, "Chain-of-Thought: Why the Reasoning Isn't Always the Reason":** a
   framework-first explainer teaching a reusable 3-test check (Swap a Step / Hide a Hint / Strip It
@@ -200,7 +200,7 @@ new submission spec:
   that sways the answer while the stated reasoning never mentions it. Falsifiability case: a
   multi-step arithmetic chain where perturbing one intermediate step reliably changes the final
   answer, showing the reasoning genuinely doing causal work. Kept fully generic — no real model
-  named or benchmarked. Named `ChainOfThoughtFaithfulness_SaiPranaviJeedigunta.mp4`. GATE V: 0
+  named or benchmarked. Named `ChainOfThoughtFaithfulness_SaiPranaviJ.mp4`. GATE V: 0
   BLOCKER/0 MAJOR on both masters — see its `README.md`/`BUILD-LOG.md`.
 
 ## Fellow folder rename
@@ -215,7 +215,7 @@ folders now has one, added 2026-10-20 as part of this renewal review — see eac
 **Separately, this same review surfaced that the folder-naming half of this convention was
 followed but the no-surname half was not:** the README title, every video's spoken narration, and
 every deliverable filename across all 18 reports use the full surname
-("Sai Pranavi Jeedigunta" / `SaiPranaviJeedigunta.mp4`), not the first-name-last-initial form the
+("Sai Pranavi J." / `SaiPranaviJ.mp4`), not the first-name-last-initial form the
 org's `fellows/README.md` requires everywhere. This README's title and header are now compliant;
 the 18 already-rendered videos and their filenames are not, and fixing that would mean
 re-recording narration and re-rendering every master — not done as part of this renewal and

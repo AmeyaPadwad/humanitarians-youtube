@@ -11,7 +11,7 @@
 | B05 | PROOF | manim | GRAPHIC | B05_ProofNumbers (scenes.py) | 27.12s | The 4 real numbers together: 0 mutated / 1 resolved / 7 declined / 0 errors, plus the one resolved headline (JD Supra enforcement piece) and its new label (FINRA Enforcement News) |
 | B06 | HONEST-LIMITS | manim | GRAPHIC | B06_HonestLimits (scenes.py) | 24.34s | "1 of 8 — and that's the correct number," framed as correct not a shortfall, with all 7 declined real headlines dimmed below |
 | B07 | TAKEAWAY | manim | GRAPHIC | B07_Statement (scenes.py) | 13.3s | Statement card: the win is knowing when not to guess |
-| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi Jeedigunta" — very short beat, narration is just "Explained with Claude Code." |
+| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi J." — very short beat, narration is just "Explained with Claude Code." |
 
 ## Lane summary
 - MANIM: all 9 beats, self-contained in this reel's own `scenes.py` (landscape)

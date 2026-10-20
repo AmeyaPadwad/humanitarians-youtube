@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-10-06): "The Classifier That Learned When Not to Guess"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly work video
+**Creator:** Sai Pranavi J. | Weekly work video
 **Format:** `work-report`, same register as this fellow's prior Project 29 reports
 **Phase:** 2 — approved for narration lock / audio generation.
 
@@ -37,7 +37,7 @@ see `FACTCHECK.md`/`SOURCES.md`.
 | B04 Discovery/Fix | The new node's position in the pipeline + its 3 design rules (only-Unknown, validate-category, fail-open) | Diagram, not just narration |
 | B05 Proof | The live verification numbers: 0 mutated / 1 resolved / 7 declined / 0 errors | All 4 numbers on screen together |
 | B06 Honest limits | The 1-of-8 framed explicitly as a correct, not partial, result | No softening — matches house style |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -48,7 +48,7 @@ Visual: title card — "The Classifier That Learned When Not to Guess" + @Humani
 narration.
 
 **B01. Exec summary (~0:04–0:22)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about a small fix to our regulatory
+VO: "Hi, I'm Sai Pranavi J.. This video is about a small fix to our regulatory
 intelligence pipeline — teaching it to ask a local AI model for help on headlines it couldn't
 classify, and why the honest result was a model that correctly said 'I don't know' most of the
 time."
@@ -104,7 +104,7 @@ Visual: statement card.
 
 **B08. Sign-off (~2:46–2:51)**
 VO: "Explained with Claude Code."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 

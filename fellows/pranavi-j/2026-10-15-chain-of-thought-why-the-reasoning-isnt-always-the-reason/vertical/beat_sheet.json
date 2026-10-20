@@ -4,7 +4,7 @@
     "title": "Chain-of-Thought: Why the Reasoning Isn't Always the Reason",
     "date": "October 15, 2026",
     "report_type": "general-ai-topic-explainer",
-    "fellow": "Sai Pranavi Jeedigunta",
+    "fellow": "Sai Pranavi J.",
     "fellow_folder": "pranavi-j",
     "series": "Humanitarians AI Fellows — Weekly STEM Video",
     "channel": "@HumanitariansAI",
@@ -41,7 +41,7 @@
       "card": 0
     },
     "build": {
-      "at": "2026-10-16T11:39:08",
+      "at": "2026-10-20T13:21:00",
       "cut": "master",
       "filled": 9,
       "of": 9,
@@ -100,7 +100,7 @@
         "status": "MANIM",
         "src": "manim/B00.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -109,7 +109,7 @@
       "content_type": "structure",
       "engine": "kokoro",
       "voice": "af_bella",
-      "narration_text": "Hi, I'm Sai Pranavi Jeedigunta. This video is about why a model's step-by-step explanation for its answer isn't always the real reason it got there, and three tests that catch the difference.",
+      "narration_text": "Hi, I'm Sai Pranavi J. This video is about why a model's step-by-step explanation for its answer isn't always the real reason it got there, and three tests that catch the difference.",
       "new_visual_element": "Personal-intro card: fellow's name + one-line summary of what the video covers, spoken",
       "estimated_duration_s": 17,
       "lane": "MANIM",
@@ -124,13 +124,13 @@
         "note": "Same pattern as this fellow's other episodes' B01."
       },
       "audio_file": "mp3/beat-B01.mp3",
-      "actual_duration_s": 12.384,
-      "render_duration_s": 12.416666666666666,
+      "actual_duration_s": 11.95,
+      "render_duration_s": 11.958333333333334,
       "build": {
         "status": "MANIM",
         "src": "manim/B01.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -160,7 +160,7 @@
         "status": "MANIM",
         "src": "manim/B02.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -190,7 +190,7 @@
         "status": "MANIM",
         "src": "manim/B03.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -220,7 +220,7 @@
         "status": "MANIM",
         "src": "manim/B04.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -250,7 +250,7 @@
         "status": "MANIM",
         "src": "manim/B05.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -280,7 +280,7 @@
         "status": "MANIM",
         "src": "manim/B06.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -310,7 +310,7 @@
         "status": "MANIM",
         "src": "manim/B07.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     },
     {
@@ -320,7 +320,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "Explained with Claude Code.",
-      "new_visual_element": "@HumanitariansAI — explained with Claude Code, in for Sai Pranavi Jeedigunta",
+      "new_visual_element": "@HumanitariansAI — explained with Claude Code, in for Sai Pranavi J.",
       "estimated_duration_s": 5,
       "lane": "MANIM",
       "shot": {
@@ -340,7 +340,7 @@
         "status": "MANIM",
         "src": "manim/B08.mp4",
         "filled_by": "manim",
-        "at": "2026-10-16T11:39:08"
+        "at": "2026-10-20T13:21:00"
       }
     }
   ]

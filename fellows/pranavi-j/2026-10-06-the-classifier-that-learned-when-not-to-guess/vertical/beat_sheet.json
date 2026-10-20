@@ -4,16 +4,16 @@
     "title": "The Classifier That Learned When Not to Guess",
     "date": "October 6, 2026",
     "report_type": "weekly-work-report",
-    "fellow": "Sai Pranavi Jeedigunta",
+    "fellow": "Sai Pranavi J.",
     "fellow_folder": "pranavi-j",
-    "series": "Humanitarians AI Fellows \u2014 Weekly Work Report",
+    "series": "Humanitarians AI Fellows — Weekly Work Report",
     "channel": "@HumanitariansAI",
     "audience": "Engineers building AI/data systems",
     "persona": "hai",
     "engine": "kokoro",
     "voice": "af_bella",
     "voice_kokoro": "af_bella",
-    "voice_policy": "Bella (af_bella) \u2014 persistent voice for this fellow's whole series. Unchanged for this episode.",
+    "voice_policy": "Bella (af_bella) — persistent voice for this fellow's whole series. Unchanged for this episode.",
     "voice_selection_basis": "Fellow-confirmed: matches @HumanitariansAI channel and hai/Pragmatist persona.",
     "voice_approval": "CONFIRMED (carried over from prior episodes)",
     "register": "Pragmatist",
@@ -23,14 +23,14 @@
     "source_status": "Real Project 29 (mycroft) engineering fix, verified live this session against the actual local Postgres DB and the actual shipped workflow.dev.json code. See SOURCES.md and FACTCHECK.md.",
     "render_state": "final-rendered-pending-publish-review",
     "gates": {
-      "plan": "APPROVED \u2014 2026-10-06 (Gate P)",
-      "factcheck": "RESOLVED \u2014 2026-10-06 (see FACTCHECK.md)",
-      "narration": "APPROVED \u2014 2026-10-06, cleared for audio generation",
-      "audio_lock": "LOCKED \u2014 2026-10-09, Kokoro af_bella, 8 spoken beats (B01-B08) + silent B00 via ffmpeg anullsrc",
-      "shopping_list": "N/A \u2014 all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
-      "previz": "COMPLETE \u2014 2026-10-11, vertical/scenes.py authored (9/9 beats, native portrait relayout, hand-authored Manim, no slates)",
-      "publish": "READY FOR REVIEW \u2014 not authorized; vertical master built and GATE V clean (0 BLOCKER, 0 MAJOR), awaiting fellow/PM review per FELLOWS-SUBMISSION.md",
-      "render_state_detail": "vertical master: 2160x3840, 24fps, h264/aac, 159.875s (full-length, same duration as the landscape parent, no beats dropped) \u2014 ClassifierFallbackClassification_SaiPranaviJeedigunta.mp4. GATE V on the true final master (final_frame_check.py --lenient, run from inside vertical/): 0 BLOCKER, 0 MAJOR."
+      "plan": "APPROVED — 2026-10-06 (Gate P)",
+      "factcheck": "RESOLVED — 2026-10-06 (see FACTCHECK.md)",
+      "narration": "APPROVED — 2026-10-06, cleared for audio generation",
+      "audio_lock": "LOCKED — 2026-10-09, Kokoro af_bella, 8 spoken beats (B01-B08) + silent B00 via ffmpeg anullsrc",
+      "shopping_list": "N/A — all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
+      "previz": "COMPLETE — 2026-10-11, vertical/scenes.py authored (9/9 beats, native portrait relayout, hand-authored Manim, no slates)",
+      "publish": "READY FOR REVIEW — not authorized; vertical master built and GATE V clean (0 BLOCKER, 0 MAJOR), awaiting fellow/PM review per FELLOWS-SUBMISSION.md",
+      "render_state_detail": "vertical master: 2160x3840, 24fps, h264/aac, 159.875s (full-length, same duration as the landscape parent, no beats dropped) — ClassifierFallbackClassification_SaiPranaviJ.mp4. GATE V on the true final master (final_frame_check.py --lenient, run from inside vertical/): 0 BLOCKER, 0 MAJOR."
     },
     "submission_format": "NEW toolkit spec (brutalist/docs/FELLOWS-SUBMISSION.md, effective 2026-09-07): deliverable naming ProjectName_VolunteerName.mp4 (no date/aspect suffix), separate landscape/vertical deliverable folders, full-length 4K 2160x3840 vertical companion via ./art vertical (not a Shorts-style cut).",
     "lane_histogram": {
@@ -42,7 +42,7 @@
       "card": 0
     },
     "build": {
-      "at": "2026-10-11T17:09:12",
+      "at": "2026-10-20T12:40:21",
       "cut": "master",
       "filled": 9,
       "of": 9,
@@ -101,7 +101,7 @@
         "status": "MANIM",
         "src": "manim/B00.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -110,7 +110,7 @@
       "content_type": "structure",
       "engine": "kokoro",
       "voice": "af_bella",
-      "narration_text": "Hi, I'm Sai Pranavi Jeedigunta. This video is about a small fix to our regulatory intelligence pipeline, teaching it to ask a local AI model for help on headlines it couldn't classify, and why the honest result was a model that correctly said I don't know most of the time.",
+      "narration_text": "Hi, I'm Sai Pranavi J. This video is about a small fix to our regulatory intelligence pipeline, teaching it to ask a local AI model for help on headlines it couldn't classify, and why the honest result was a model that correctly said I don't know most of the time.",
       "new_visual_element": "Personal-intro card: fellow's name + one-line summary of what the video covers, spoken",
       "estimated_duration_s": 18,
       "lane": "MANIM",
@@ -125,13 +125,13 @@
         "note": "Same pattern as this fellow's other episodes' B01."
       },
       "audio_file": "mp3/beat-B01.mp3",
-      "actual_duration_s": 17.59,
-      "render_duration_s": 17.625,
+      "actual_duration_s": 16.9,
+      "render_duration_s": 16.916666666666668,
       "build": {
         "status": "MANIM",
         "src": "manim/B01.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -161,7 +161,7 @@
         "status": "MANIM",
         "src": "manim/B02.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -191,7 +191,7 @@
         "status": "MANIM",
         "src": "manim/B03.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -221,7 +221,7 @@
         "status": "MANIM",
         "src": "manim/B04.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -251,7 +251,7 @@
         "status": "MANIM",
         "src": "manim/B05.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -272,7 +272,7 @@
           "scene": "B06_HonestLimits",
           "module": "scenes.py"
         },
-        "note": "No softening \u2014 frame 1-of-8 as correct, not as a shortfall, per house style."
+        "note": "No softening — frame 1-of-8 as correct, not as a shortfall, per house style."
       },
       "audio_file": "mp3/beat-B06.mp3",
       "actual_duration_s": 24.34,
@@ -281,7 +281,7 @@
         "status": "MANIM",
         "src": "manim/B06.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -311,7 +311,7 @@
         "status": "MANIM",
         "src": "manim/B07.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     },
     {
@@ -321,7 +321,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "Explained with Claude Code.",
-      "new_visual_element": "@HumanitariansAI \u2014 explained with Claude Code, in for Sai Pranavi Jeedigunta",
+      "new_visual_element": "@HumanitariansAI — explained with Claude Code, in for Sai Pranavi J.",
       "estimated_duration_s": 5,
       "lane": "MANIM",
       "shot": {
@@ -341,7 +341,7 @@
         "status": "MANIM",
         "src": "manim/B08.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T17:09:12"
+        "at": "2026-10-20T12:40:21"
       }
     }
   ]

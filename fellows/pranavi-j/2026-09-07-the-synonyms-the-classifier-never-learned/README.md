@@ -1,6 +1,6 @@
 # Weekly Research Report: The Synonyms the Classifier Never Learned
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** September 7, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo,
 `scripts/regulatory-intel/`)
@@ -64,8 +64,8 @@ tradeoff (lower confidence for more coverage), not pursued here. B06's on-screen
 
 ## Deliverables
 
-- `Mycroft_SaiPranaviJeedigunta_20260907_16x9.mp4` — 4K (3840x2160) master, 131.58s
-- `Mycroft_SaiPranaviJeedigunta_20260907_9x16.mp4` — portrait (1080x1920) short, 136.1s
+- `Mycroft_SaiPranaviJ_20260907_16x9.mp4` — 4K (3840x2160) master, 131.58s
+- `Mycroft_SaiPranaviJ_20260907_9x16.mp4` — portrait (1080x1920) short, 136.1s
 
 <!-- BEGIN BRUTALIST REBUILD GUIDE -->
 

@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-10-06): "Lost in the Middle: Why More Context Doesn't Guarantee a Better Answer"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly STEM video (general AI/STEM topic explainer,
+**Creator:** Sai Pranavi J. | Weekly STEM video (general AI/STEM topic explainer,
 distinct from the weekly work report)
 **Format:** `ai-explainer`, framework-first teaching structure (same register as this fellow's
 prior STEM videos)
@@ -40,7 +40,7 @@ behavior in long-context language models, not a specific benchmark claim. See `F
 | B04 Worked example | The same fact, same question, planted in the middle — model's answer shown as unreliable/missed | Position is the only variable that changes |
 | B05 Falsifiability | The same fact moved to the start or end — same model, same question, now reliably found | Visibly different resolution from B04 |
 | B06 Task | The 3 questions restated as a checklist | Actionable, not just a restatement of the framework |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -51,7 +51,7 @@ Visual: title card — "Lost in the Middle: Why More Context Doesn't Guarantee a
 @HumanitariansAI. No narration.
 
 **B01. Exec summary (~0:04–0:20)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about a strange, well-documented habit of AI
+VO: "Hi, I'm Sai Pranavi J.. This video is about a strange, well-documented habit of AI
 models reading long documents — they're much better at using facts at the start or end than
 facts buried in the middle, even when nothing else about those facts is different."
 Visual: name card, one-line summary text on screen as it's spoken.
@@ -105,7 +105,7 @@ Visual: statement card.
 
 **B08. Sign-off (~2:28–2:33)**
 VO: "Explained with Claude Code."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 

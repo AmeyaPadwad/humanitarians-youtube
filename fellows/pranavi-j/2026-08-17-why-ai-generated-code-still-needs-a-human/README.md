@@ -1,6 +1,6 @@
 # General-AI-Topic Explainer: Why AI-Generated Code Still Needs a Human Who Understands the System
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Date:** August 17, 2026
 **Format:** `ai-explainer` (short-form, v3 runtime ~2:04), Film 1 of a new general-AI-topic series (distinct from the `2026-07-27-how-facial-recognition-actually-works/` topic-explainer series and the weekly-report series)
 **Source status:** General-AI-topic explainer, not a report of the fellow's own engineering work. The worked example (a hand-escaped SQL insert vs. a parameterized-query fix) is a generic, illustrative code pattern — deliberately not attributed to a specific real incident or repo. See `FACTCHECK.md`.
@@ -18,7 +18,7 @@ This AI-generated video opens on a silent title card, then teaches a reusable ru
 
 **v3.1 patch (2026-08-19), layout-only:** the fellow watched the v3 master and screenshotted a real visual bug in `B01_HookCrashLog`'s first frame — the split-screen divider crossed through the glyphs of the left code panel's longest line ("const q = `INSERT INTO items"). Confirmed with real extracted Manim frames (before and after), not just static analysis: the divider (fixed at x=0) was never actually checked against the left code block's rendered right edge, which fit()'s generous width cap didn't prevent from landing past it. Fixed in `scenes.py` via a new `clear_of_divider()` helper that shifts the whole header+code block by an amount measured from its own rendered bounds, guaranteeing real clearance regardless of future edits. `B03_WorkedExampleDiff` and `B04_FalsifiabilityCase` were audited for the same pattern by direct measurement and found already clear — no changes needed there. No narration/audio change; full pipeline re-rendered (`./art run` then `./art final`), GATE A/W/V all re-confirmed clean (same accepted cosmetic-only MAJOR list as v3). Runtime unchanged at 123.61s (123.605s exact).
 
-**v4 (2026-08-26), program feedback:** applied three pieces of program-wide feedback (also applied to this fellow's other two videos): (1) confirmed 4K — already 3840x2160 since v3; (2) added a new **B01 executive-summary beat** right after the B00 title card — "Hi, I'm Sai Pranavi Jeedigunta. This video is about why a fix that looks right isn't always a fix that's actually right — and the three questions to ask before you trust one." All prior content beats (old B01-B07) renumbered to B02-B08. Rebuilt on the freshly-updated brutalist toolkit (pulled to latest upstream). (3) Self-assessed against `PROOF.md` (copied into this folder) — 11/12 on the teaching rubric, all Production Gate items PASS; see `PEDAGOGY.md`. Runtime grew from 123.605s to 134.64s (the new exec-summary beat).
+**v4 (2026-08-26), program feedback:** applied three pieces of program-wide feedback (also applied to this fellow's other two videos): (1) confirmed 4K — already 3840x2160 since v3; (2) added a new **B01 executive-summary beat** right after the B00 title card — "Hi, I'm Sai Pranavi J.. This video is about why a fix that looks right isn't always a fix that's actually right — and the three questions to ask before you trust one." All prior content beats (old B01-B07) renumbered to B02-B08. Rebuilt on the freshly-updated brutalist toolkit (pulled to latest upstream). (3) Self-assessed against `PROOF.md` (copied into this folder) — 11/12 on the teaching rubric, all Production Gate items PASS; see `PEDAGOGY.md`. Runtime grew from 123.605s to 134.64s (the new exec-summary beat).
 
 ## What this covers (and what it deliberately avoids)
 
@@ -42,7 +42,7 @@ Deliberately avoided: attributing the worked example to a specific real codebase
 
 ## Compliance note
 
-A channel/fellow sign-off card (B07, renumbered from B06: "@HumanitariansAI, in for Sai Pranavi Jeedigunta") was added 2026-08-17 to match the fellowship's requirement that videos demonstrably come from the volunteer, and the pattern in this fellow's other two videos — see `BUILD-LOG.md`.
+A channel/fellow sign-off card (B07, renumbered from B06: "@HumanitariansAI, in for Sai Pranavi J.") was added 2026-08-17 to match the fellowship's requirement that videos demonstrably come from the volunteer, and the pattern in this fellow's other two videos — see `BUILD-LOG.md`.
 
 ## 9:16 Short (2026-08-28)
 

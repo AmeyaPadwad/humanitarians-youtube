@@ -4,7 +4,7 @@
     "title": "The All-Clear That Wasn't All There",
     "date": "September 22, 2026",
     "report_type": "fellow-weekly-report",
-    "fellow": "Sai Pranavi Jeedigunta",
+    "fellow": "Sai Pranavi J.",
     "fellow_folder": "pranavi-j",
     "series": "Humanitarians AI Fellows — Weekly Research Reports",
     "channel": "@HumanitariansAI",
@@ -32,8 +32,8 @@
       "shopping_list": "N/A — all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
       "previz": "COMPLETE — 9/9 beats real Manim, no slates",
       "publish": "NOT AUTHORIZED",
-      "render_landscape": "COMPLETE — deliverables/landscape/AllClearEmailFix_SaiPranaviJeedigunta.mp4, 3840x2160 (4K), 107.708s, GATE V 0 BLOCKER/0 MAJOR (18 frames sampled, see _qc/REPORT.md)",
-      "render_vertical": "COMPLETE — deliverables/vertical/AllClearEmailFix_SaiPranaviJeedigunta.mp4, 2160x3840 (4K, full-length via ./art vertical — not a Shorts-style cut, per NEW toolkit spec), 107.708s, GATE V 0 BLOCKER/0 MAJOR (18 frames sampled, see vertical/_qc/REPORT.md)",
+      "render_landscape": "COMPLETE — deliverables/landscape/AllClearEmailFix_SaiPranaviJ.mp4, 3840x2160 (4K), 107.708s, GATE V 0 BLOCKER/0 MAJOR (18 frames sampled, see _qc/REPORT.md)",
+      "render_vertical": "COMPLETE — deliverables/vertical/AllClearEmailFix_SaiPranaviJ.mp4, 2160x3840 (4K, full-length via ./art vertical — not a Shorts-style cut, per NEW toolkit spec), 107.708s, GATE V 0 BLOCKER/0 MAJOR (18 frames sampled, see vertical/_qc/REPORT.md)",
       "visual_qc": "PASS — landscape and vertical true clean masters both 0 BLOCKER/0 MAJOR on all 9 authored beats (--lenient, per this fellow's established ship bar); all 9 vertical beats personally confirmed via extracted frames (no Text() word-gap artifacts, 58-92% safe-area canvas-fill, no clustering)"
     },
     "submission_format": "NEW toolkit spec (brutalist/docs/FELLOWS-SUBMISSION.md, effective 2026-09-07): deliverable naming ProjectName_VolunteerName.mp4 (no date/aspect suffix), separate landscape/vertical deliverable folders, full-length 4K 2160x3840 vertical companion via ./art vertical (not a Shorts-style cut).",
@@ -47,8 +47,8 @@
     },
     "runtime_measured_s": 107.537,
     "build": {
-      "at": "2026-10-01T15:37:07",
-      "cut": "review",
+      "at": "2026-10-20T11:33:32",
+      "cut": "master",
       "filled": 9,
       "of": 9,
       "slates": [],
@@ -85,7 +85,7 @@
         "status": "MANIM",
         "src": "manim/B00.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -94,7 +94,7 @@
       "content_type": "structure",
       "engine": "kokoro",
       "voice": "af_bella",
-      "narration_text": "Hi, I'm Sai Pranavi Jeedigunta. This video is about the pipeline's own 'all clear' email, the one it sends when nothing needs your attention, and a small, real gap where it was quietly under-reporting what it actually watches.",
+      "narration_text": "Hi, I'm Sai Pranavi J. This video is about the pipeline's own 'all clear' email, the one it sends when nothing needs your attention, and a small, real gap where it was quietly under-reporting what it actually watches.",
       "new_visual_element": "Personal-intro card: fellow's name + one-line summary of what the video covers, spoken",
       "estimated_duration_s": 16,
       "lane": "MANIM",
@@ -109,13 +109,13 @@
         "note": "Same pattern as this fellow's other episodes' B01."
       },
       "audio_file": "mp3/beat-B01.mp3",
-      "actual_duration_s": 14.232,
-      "render_duration_s": 14.25,
+      "actual_duration_s": 13.61,
+      "render_duration_s": 13.625,
       "build": {
         "status": "MANIM",
         "src": "manim/B01.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -145,7 +145,7 @@
         "status": "MANIM",
         "src": "manim/B02.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -175,7 +175,7 @@
         "status": "MANIM",
         "src": "manim/B03.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -205,7 +205,7 @@
         "status": "MANIM",
         "src": "manim/B04.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -235,7 +235,7 @@
         "status": "MANIM",
         "src": "manim/B05.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -265,7 +265,7 @@
         "status": "MANIM",
         "src": "manim/B06.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -295,7 +295,7 @@
         "status": "MANIM",
         "src": "manim/B07.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     },
     {
@@ -305,7 +305,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "Fixed with Claude Code, verified against the real workflow before it ever ran again.",
-      "new_visual_element": "@HumanitariansAI — fixed with Claude Code, in for Sai Pranavi Jeedigunta",
+      "new_visual_element": "@HumanitariansAI — fixed with Claude Code, in for Sai Pranavi J.",
       "estimated_duration_s": 5,
       "lane": "MANIM",
       "shot": {
@@ -325,7 +325,7 @@
         "status": "MANIM",
         "src": "manim/B08.mp4",
         "filled_by": "manim",
-        "at": "2026-10-01T15:37:07"
+        "at": "2026-10-20T11:33:32"
       }
     }
   ]

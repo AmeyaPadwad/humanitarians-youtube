@@ -1,6 +1,6 @@
 # Weekly STEM Video: Lost in the Middle — Why More Context Doesn't Guarantee a Better Answer
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Series:** Humanitarians AI Fellows — Weekly STEM Video (`ai-explainer`)
 **Source status:** General AI/STEM topic explainer, not a report of the fellow's own engineering work. Describes the well-documented "lost in the middle" effect in long-context language models qualitatively — no real model or vendor is named or benchmarked, no fabricated percentage/statistic is shown. The worked example (B04, a generic onboarding document with one buried fact) and its falsifiability case (B05) are fully generic/hypothetical illustrations. See `FACTCHECK.md` and `SOURCES.md`.
 
@@ -24,8 +24,8 @@ Deliberately left out: this is not a benchmark of any real model's long-context 
 - Narration approval: **approved** — Kokoro `af_bella`, cleared 2026-10-06
 - Voice: **Bella (`af_bella`)** — persistent for this fellow's whole series
 - Previz: **complete** — 9/9 beats real Manim, no slates, both aspects
-- Final render — **16:9 landscape:** `LostInTheMiddle_SaiPranaviJeedigunta.mp4`, 3840x2160, 24fps, h264/aac, **140.33s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
-- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `LostInTheMiddle_SaiPranaviJeedigunta.mp4`, 2160x3840, 24fps, h264/aac, **140.33s** (identical runtime to the landscape master — all 9 beats kept, no drops, no duration cap). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **16:9 landscape:** `LostInTheMiddle_SaiPranaviJ.mp4`, 3840x2160, 24fps, h264/aac, **140.33s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `LostInTheMiddle_SaiPranaviJ.mp4`, 2160x3840, 24fps, h264/aac, **140.33s** (identical runtime to the landscape master — all 9 beats kept, no drops, no duration cap). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
 - Personally re-verified (not just trusting the build report): extracted and viewed real frames from both masters at every beat — B02's short-vs-long document reveal, B03's U-shaped attention curve, B04's buried-fact miss, B05's repositioned-fact find, B06's checklist, B07's statement card, and B08's brand card. No text-rendering artifacts anywhere; both masters hold up at steady state.
 - Publishing: **ready for review, not authorized** — masters stay in this folder only; requires fellow/PM sign-off per `FELLOWS-SUBMISSION.md`
 

@@ -176,7 +176,7 @@ class B01_ExecSummary(Scene):
         initials.move_to(badge.get_center())
         badge_group = VGroup(badge, initials)
 
-        name = fit(T("Sai Pranavi Jeedigunta", color=PALETTE["ink"], font_size=26, weight="BOLD"), MAX_W)
+        name = fit(T("Sai Pranavi J.", color=PALETTE["ink"], font_size=26, weight="BOLD"), MAX_W)
         role = fit(T("Humanitarians AI Fellow", color=PALETTE["slate"], font_size=18), MAX_W)
         name_block = VGroup(name, role).arrange(DOWN, buff=0.15)
         header_col = VGroup(badge_group, name_block).arrange(DOWN, buff=0.25)
@@ -202,8 +202,9 @@ class B01_ExecSummary(Scene):
         self.play(Create(badge), FadeIn(initials), run_time=0.4)
         self.play(FadeIn(name_block, shift=UP * 0.1), run_time=0.5)
         self.play(FadeIn(summary, shift=UP * 0.1), Create(bottom_rule), run_time=0.6)
-        # sum of plays = 1.8s; remainder tuned to the measured 14.09s Kokoro length
-        self.wait(12.29)
+        # sum of plays = 1.8s; remainder tuned to the measured 13.56s Kokoro length
+        # (2026-10-20 name-retrofit: "Sai Pranavi J.", was 14.09s -> wait 12.29)
+        self.wait(11.76)
 
 
 # --------------------------------------------------------------------------- #
@@ -603,9 +604,9 @@ class B08_BrandOutro(Scene):
         accent = Line(LEFT * 1.6, RIGHT * 1.6, color=PALETTE["gold"], stroke_width=3)
         fixed_line = fit(T("explained with\nClaude Code", color=PALETTE["ink"],
                                font_size=26, line_spacing=1.2), MAX_W)
-        tagline = fit(T("in for Sai Pranavi\nJeedigunta", color=PALETTE["ink"],
+        tagline = fit(T("in for Sai Pranavi J.", color=PALETTE["ink"],
                             font_size=22, line_spacing=1.25), MAX_W)
-        content = VGroup(handle, accent, fixed_line, tagline).arrange(DOWN, buff=0.5).move_to(ORIGIN)
+        content = VGroup(handle, accent, fixed_line, tagline).arrange(DOWN, buff=0.75).move_to(ORIGIN)
 
         frame_w = min(content.width + 1.0, 3.95)
         frame_h = min(content.height + 1.1, 7.2)

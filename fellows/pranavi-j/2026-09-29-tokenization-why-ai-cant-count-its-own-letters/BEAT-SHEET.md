@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-10-02): "Tokenization: Why AI Can't Count the Letters in Its Own Words"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly STEM video (general AI/STEM topic explainer,
+**Creator:** Sai Pranavi J. | Weekly STEM video (general AI/STEM topic explainer,
 distinct from the weekly work report)
 **Format:** `ai-explainer`, framework-first teaching structure (same register as this fellow's
 prior STEM videos)
@@ -39,7 +39,7 @@ widely-known, generic class of behavior, not a claim about one product's current
 | B04 Worked example | The word broken into its actual token pieces, each piece's letters tallied separately, vs. the real total | Both the token-level tally and the true answer visible together |
 | B05 Falsifiability | The same word spelled out letter-by-letter first, then counted correctly | Visibly different resolution from B04 — the fix, not just the bug |
 | B06 Task | The 3 questions restated as a checklist | Actionable, not just a restatement of the framework |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -50,7 +50,7 @@ Visual: title card — "Tokenization: Why AI Can't Count the Letters in Its Own 
 @HumanitariansAI. No narration.
 
 **B01. Exec summary (~0:04–0:20)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about why AI models mess up tasks like counting
+VO: "Hi, I'm Sai Pranavi J.. This video is about why AI models mess up tasks like counting
 letters or finding rhymes, even though they can write whole essays correctly, and the one
 mechanism that explains it."
 Visual: name card, one-line summary text on screen as it's spoken.
@@ -101,7 +101,7 @@ Visual: statement card.
 
 **B08. Sign-off (~2:24–2:29)**
 VO: "Explained with Claude Code."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 

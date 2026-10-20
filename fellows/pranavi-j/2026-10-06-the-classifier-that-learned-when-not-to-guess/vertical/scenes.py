@@ -165,7 +165,7 @@ class B01_ExecSummary(Scene):
         initials.move_to(badge.get_center())
         badge_group = VGroup(badge, initials)
 
-        name = fit(T("Sai Pranavi Jeedigunta", color=PALETTE["ink"], font_size=26, weight="BOLD"), MAX_W)
+        name = fit(T("Sai Pranavi J.", color=PALETTE["ink"], font_size=26, weight="BOLD"), MAX_W)
         role = fit(T("Humanitarians AI Fellow", color=PALETTE["slate"], font_size=18), MAX_W)
         name_block = VGroup(name, role).arrange(DOWN, buff=0.15)
         header_col = VGroup(badge_group, name_block).arrange(DOWN, buff=0.25)
@@ -190,8 +190,9 @@ class B01_ExecSummary(Scene):
         self.play(Create(badge), FadeIn(initials), run_time=0.4)
         self.play(FadeIn(name_block, shift=UP * 0.1), run_time=0.5)
         self.play(FadeIn(summary, shift=UP * 0.1), Create(bottom_rule), run_time=0.6)
-        # sum of plays = 1.8s; remainder matches the parent's B01 budget
-        self.wait(15.79)
+        # sum of plays = 1.8s; remainder tuned to the measured 16.896s Kokoro
+        # length (2026-10-20 name-retrofit: 16.896 - 1.8 = 15.096)
+        self.wait(15.1)
 
 
 # --------------------------------------------------------------------------- #
@@ -651,7 +652,7 @@ class B08_BrandOutro(Scene):
         handle = fit(T("@HumanitariansAI", color=PALETTE["slate"], font_size=38), 3.3)
         accent = Line(LEFT * 1.6, RIGHT * 1.6, color=PALETTE["gold"], stroke_width=3)
         fixed_line = fit(T("explained with Claude Code", color=PALETTE["ink"], font_size=22), 3.3)
-        tagline = fit(T("in for Sai Pranavi\nJeedigunta", color=PALETTE["ink"],
+        tagline = fit(T("in for Sai Pranavi J.", color=PALETTE["ink"],
                          font_size=20, line_spacing=1.25), 3.3)
         content = VGroup(handle, accent, fixed_line, tagline).arrange(DOWN, buff=0.5).move_to(ORIGIN)
 

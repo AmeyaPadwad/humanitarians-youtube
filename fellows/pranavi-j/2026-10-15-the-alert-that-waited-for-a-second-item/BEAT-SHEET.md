@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-10-15): "The Alert That Waited for a Second Item"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly work video
+**Creator:** Sai Pranavi J. | Weekly work video
 **Format:** `work-report`, same register as this fellow's prior Project 29 reports
 **Phase:** 2 — approved for narration lock / audio generation.
 
@@ -35,7 +35,7 @@ against the real patched file on disk. See `SOURCES.md` and `FACTCHECK.md`.
 | B04 Discovery/fix | Before/after diff of the one-character-class change | Real diff, matches `B6-VERIFICATION.md` |
 | B05 Verification | The real before/after harness table (0/1/2 items) | Real measured results, not illustrative |
 | B07 Honest limits | What this fix does NOT claim | Full weight, no softening |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -45,7 +45,7 @@ against the real patched file on disk. See `SOURCES.md` and `FACTCHECK.md`.
 Visual: title card — "The Alert That Waited for a Second Item" + @HumanitariansAI. No narration.
 
 **B01. Exec summary (~0:04–0:22)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about a one-character bug in our regulatory
+VO: "Hi, I'm Sai Pranavi J.. This video is about a one-character bug in our regulatory
 intelligence pipeline that meant a single urgent filing — the exact case our alert system exists
 for — could silently generate no alert at all."
 Visual: name card, one-line summary text on screen as it's spoken.
@@ -93,7 +93,7 @@ Visual: statement card.
 
 **B08. Sign-off (~2:40–2:45)**
 VO: "Explained with Claude Code."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 

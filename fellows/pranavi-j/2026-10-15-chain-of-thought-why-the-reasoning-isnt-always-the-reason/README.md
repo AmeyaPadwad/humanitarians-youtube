@@ -1,6 +1,6 @@
 # Weekly STEM Video: Chain-of-Thought — Why the Reasoning Isn't Always the Reason
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Series:** Humanitarians AI Fellows — Weekly STEM Video (`ai-explainer`)
 **Source status:** General AI/STEM topic explainer, not a report of the fellow's own engineering work. Describes a well-documented, publicly discussed class of chain-of-thought faithfulness behavior qualitatively — no real model, vendor, or disclosed benchmark is named or resembled, no fabricated statistic is shown. The worked example (B04, a generic agronomy multiple-choice question with a planted authority hint) and its falsifiability case (B05, a generic 3-step arithmetic chain) are both fully generic/hypothetical illustrations. See `FACTCHECK.md` and `SOURCES.md`.
 
@@ -30,8 +30,8 @@ Deliberately left out: this is not a benchmark of any real model's chain-of-thou
 - Narration approval: **approved** — Kokoro `af_bella`, cleared 2026-10-15
 - Voice: **Bella (`af_bella`)** — persistent for this fellow's whole series
 - Previz: **complete** — 9/9 beats real Manim, no slates, both aspects
-- Final render — **16:9 landscape:** `ChainOfThoughtFaithfulness_SaiPranaviJeedigunta.mp4`, 3840x2160, 24fps, h264/aac, **135.08s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
-- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `ChainOfThoughtFaithfulness_SaiPranaviJeedigunta.mp4`, 2160x3840, 24fps, h264/aac, **135.08s** (identical runtime to the landscape master — all 9 beats kept, no drops, no duration cap). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **16:9 landscape:** `ChainOfThoughtFaithfulness_SaiPranaviJ.mp4`, 3840x2160, 24fps, h264/aac, **135.08s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `ChainOfThoughtFaithfulness_SaiPranaviJ.mp4`, 2160x3840, 24fps, h264/aac, **135.08s** (identical runtime to the landscape master — all 9 beats kept, no drops, no duration cap). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
 - Personally re-verified (not just trusting the build report): extracted and viewed real frames from both masters at every beat beyond the tool's own sample points — B00's title card, B02's confident reasoning chain and "...or is it?" reveal, B03's 3-test framework, B04's hint-vs-reasoning mismatch, B05's perturbed-step checkmark, B06's audit checklist, and B08's brand card. No text-rendering artifacts anywhere; both masters hold up at steady state.
 - Publishing: **ready for review, not authorized** — masters stay in this folder only; requires fellow/PM sign-off per `FELLOWS-SUBMISSION.md`
 

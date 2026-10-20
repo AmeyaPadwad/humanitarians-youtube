@@ -9,7 +9,7 @@ Primary source for every measured claim in this beat sheet:
 - `/Users/pranavijs/mycroft/logs/RUN_LOG.md` — the matching 2026-09-29 C2 entry.
 - `/Users/pranavijs/mycroft/scripts/regulatory-intel/workflow.dev.json` — the hardened n8n
   workflow copy containing the new `Layer 2 - LLM Re-Score` node; commit `3e32894` on
-  `feature/regulatory-intelligence-hardening` (fork `SaiPranaviJeedigunta/mycroft`).
+  `feature/regulatory-intelligence-hardening` (fork `SaiPranaviJ/mycroft`).
 
 ## Claim → source mapping
 

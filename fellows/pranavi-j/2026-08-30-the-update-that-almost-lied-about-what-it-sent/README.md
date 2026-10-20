@@ -1,6 +1,6 @@
 # Weekly Research Report: The Update That Almost Lied About What It Sent
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** August 30, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo, `scripts/regulatory-intel/`)
 **Source status:** Real engineering work. Every claim traces to `A7-VERIFICATION.md` (2026-08-30) and `logs/RUN_LOG.md`'s two 2026-08-30 entries; the live-row count was re-verified directly against the DB at build time (2026-08-30 21:04), not just quoted from the doc.
@@ -32,8 +32,8 @@ The still-open source-misclassification bug and the Google News link-unwrapping 
 
 ## Deliverables
 
-- `Mycroft_SaiPranaviJeedigunta_20260830_16x9.mp4` — 4K (3840x2160) master, 121.41s
-- `Mycroft_SaiPranaviJeedigunta_20260830_9x16.mp4` — portrait (1080x1920) short, 125.96s
+- `Mycroft_SaiPranaviJ_20260830_16x9.mp4` — 4K (3840x2160) master, 121.41s
+- `Mycroft_SaiPranaviJ_20260830_9x16.mp4` — portrait (1080x1920) short, 125.96s
 
 <!-- BEGIN BRUTALIST REBUILD GUIDE -->
 

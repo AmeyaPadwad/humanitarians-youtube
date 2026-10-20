@@ -1,6 +1,6 @@
 # General-AI-Topic Explainer: Prompt Injection — The Vulnerability Hiding in Plain Text
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Date:** August 30, 2026
 **Format:** `ai-explainer` (short-form, runtime 147.94s), general AI/STEM topic explainer — distinct from this
 fellow's weekly work-report series (e.g. `2026-08-30-the-update-that-almost-lied-about-what-it-sent/`).
@@ -90,8 +90,8 @@ for the full diagnostic trail.
 
 ## Deliverables (fellowship naming convention)
 
-- `PromptInjection_SaiPranaviJeedigunta_20260830_16x9.mp4` — copy of the 16:9 master
-- `PromptInjection_SaiPranaviJeedigunta_20260830_9x16.mp4` — copy of the 9:16 short master
+- `PromptInjection_SaiPranaviJ_20260830_16x9.mp4` — copy of the 16:9 master
+- `PromptInjection_SaiPranaviJ_20260830_9x16.mp4` — copy of the 9:16 short master
 
 ## Useful project files
 
