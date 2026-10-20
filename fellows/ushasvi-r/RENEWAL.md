@@ -102,31 +102,34 @@ The screenshots below show the current Causal Couture interface and provide visu
 
 ### Causal Couture Overview
 
-![Causal Couture overview](<Screenshot 2026-10-20 at 2.32.33 PM.png>)
+<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 34 33 PM" src="https://github.com/user-attachments/assets/2cfa6f89-0b00-40de-a1dc-3d055ea67af7" />
 
 *Current Causal Couture overview showing the end-to-end workflow from data upload and validation through analysis, simulation, and decision support.*
 
 ### Current Signals Dashboard
 
-![Causal Couture current signals dashboard](<Screenshot 2026-10-20 at 2.33.06 PM.png>)
+<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 33 06 PM" src="https://github.com/user-attachments/assets/6b5fdeda-f642-4b42-a07c-faef46c3e208" />
+
 
 *Current signals dashboard displaying demand pressure, stock risk, engagement, conversion, overall signal, and recent-period movement.*
 
 ### Decision Intelligence
 
-![Causal Couture intelligence interface](<Screenshot 2026-10-20 at 2.34.17 PM.png>)
+<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 34 17 PM" src="https://github.com/user-attachments/assets/569492e1-5c22-43e8-8b63-4f2229d24101" />
+
 
 *Decision-support interface showing the current recommendation, confidence level, dataset summary, and the transition into scenario analysis.*
 
 ### Scenario Lab
 
-![Causal Couture Scenario Lab](<Screenshot 2026-10-20 at 2.34.33 PM.png>)
+<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 32 33 PM" src="https://github.com/user-attachments/assets/aa2fed34-f5aa-4421-97d5-3d243fb17543" />
+
 
 *Scenario Lab interface for adjusting demand, inventory, engagement, and conversion assumptions and comparing simulated outcomes against the current baseline.*
 
 ### Causal Intelligence
 
-![Causal Couture causal intelligence interface](<Screenshot 2026-10-20 at 2.34.54 PM.png>)
+<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 34 54 PM" src="https://github.com/user-attachments/assets/fad20dd6-54e7-4d27-af11-cc0d4e78d4f5" />
 
 *Phase 5 causal intelligence interface showing the observational effect-estimation workflow, evidence status, bootstrap availability, treatment definition, and outcome definition.*
 
