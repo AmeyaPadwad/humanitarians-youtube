@@ -7,9 +7,12 @@
 
 ## What the current period produced
 
-Eighteen reports, nine weeks: each week produced one real engineering fix in Project 29's
-regulatory intelligence pipeline (`mycroft`) and two videos — a weekly-work video documenting that
-fix, and a separate weekly-STEM video on a general AI/STEM topic. Every report ships both a
+Eighteen reports over twelve weeks (see [HOURS.md](HOURS.md) for the full week-by-week breakdown).
+The first four weeks (2–29 Aug) were spent on post-feedback video corrections and a full 4K/9:16
+rebuild of the first three videos; the remaining nine weeks settled into a steady cadence — each
+week produced one real engineering fix in Project 29's regulatory intelligence pipeline (`mycroft`)
+and two videos, a weekly-work video documenting that fix and a separate weekly-STEM video on a
+general AI/STEM topic. Every report ships both a
 4K 16:9 master and a 4K 9:16 vertical companion (native portrait relayout, not a crop), with
 `FACTCHECK.md`/`SOURCES.md` for every claim and a `BUILD-LOG.md` for every build. All 18 folders'
 code and paperwork are merged into `main` on GitHub right now — not sitting in unmerged branches.
@@ -63,7 +66,7 @@ explainer video — and specifically for Project 29:
 ## OPT and compliance
 
 Post-completion OPT compliance needs 20+ documented qualifying hours; this period documents 20
-hours every week (180 total across all 9 weeks — see [HOURS.md](HOURS.md)). Hours alone do not
+hours every week (240 total across all 12 weeks — see [HOURS.md](HOURS.md)). Hours alone do not
 establish full compliance — individual visa requirements go through the school's international
 office, not this report.
 
