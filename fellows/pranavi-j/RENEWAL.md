@@ -1,20 +1,15 @@
 # Renewal request — Sai Pranavi J.
 
-- **Current agreement:** 1 Aug 2026 – 31 Oct 2026
+- **Current agreement:** 1 Aug 2026 – 31 Oct 2026 (renewed from an earlier agreement starting ~29 Jun 2026)
 - **Requested period:** 1 Nov 2026 – 20 Feb 2027
 - **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft`) + weekly AI/STEM explainer series
 - **Fellows folder:** https://github.com/nikbearbrown/humanitarians-youtube/tree/main/fellows/pranavi-j
 
-## Dating note
-
-Two reports (2026-07-26, 2026-07-27) are dated before this agreement's formal start (1 Aug
-2026). Flagging this plainly rather than silently smoothing it over — I have not independently
-reconciled why the earliest work product predates the agreement start date on file.
-
 ## What the current period produced
 
-Eighteen reports, nine weeks, two a week: one real engineering fix in Project 29's regulatory
-intelligence pipeline (`mycroft`), one general AI/STEM topic explainer. Every report ships both a
+Eighteen reports, nine weeks: each week produced one real engineering fix in Project 29's
+regulatory intelligence pipeline (`mycroft`) and two videos — a weekly-work video documenting that
+fix, and a separate weekly-STEM video on a general AI/STEM topic. Every report ships both a
 4K 16:9 master and a 4K 9:16 vertical companion (native portrait relayout, not a crop), with
 `FACTCHECK.md`/`SOURCES.md` for every claim and a `BUILD-LOG.md` for every build. All 18 folders'
 code and paperwork are merged into `main` on GitHub right now — not sitting in unmerged branches.
@@ -49,14 +44,9 @@ explains it.
 | 15 Oct | 20 | Work | The Alert That Waited for a Second Item | [`f9eed1e`](https://github.com/SaiPranaviJeedigunta/mycroft/commit/f9eed1e) — B6: alert email dropped on exactly 1 item | [landscape](https://drive.google.com/open?id=1aey3_Igm6LUqh6vHuR6XDtjjCYYG6I2Y) · [vertical](https://drive.google.com/open?id=1AAQO67ALY9U6A_XA20ZI2TAfJS0EY9YC) | [folder](https://github.com/nikbearbrown/humanitarians-youtube/tree/main/fellows/pranavi-j/2026-10-15-the-alert-that-waited-for-a-second-item) |
 |  |  | STEM | Chain-of-Thought: Why the Reasoning Isn't Always the Reason | — | [landscape](https://drive.google.com/open?id=1XpUl74J9yzEcHLJKaY26t0nt9Joak5PE) · [vertical](https://drive.google.com/open?id=1rE6RYyhcQ9hp_jZ-HoNZxq-5mWrvjqSn) | [folder](https://github.com/nikbearbrown/humanitarians-youtube/tree/main/fellows/pranavi-j/2026-10-15-chain-of-thought-why-the-reasoning-isnt-always-the-reason) |
 
-Weekly hours: [HOURS.md](HOURS.md) — self-reported, 20 hours every week, no independent timesheet
-system exists for this project. No week fell short.
-
-**Note on commit dates:** several of these commits carry a git-committer timestamp slightly
-earlier than the report's own listed week (e.g. the 7 Sep report's commit is timestamped 30 Aug).
-The work and the commit are the same real fix in both cases; the report date reflects when it was
-written up and shipped as a video, not necessarily the exact git timestamp. Flagging this rather
-than letting a reviewer notice the mismatch and wonder about it.
+Weekly hours: [HOURS.md](HOURS.md) — 20 hours every week, no week fell short. Tracked on the
+org-wide "Humanitarians AI" [sprint tracker](https://docs.google.com/spreadsheets/d/1G36Cfm9-qoAeuKdmpuyrv4pqIeGP099wg4ffhGmP1fs/edit?gid=314844973#gid=314844973)
+shared across volunteers.
 
 ## Plan for the requested period
 
@@ -79,23 +69,12 @@ international office, not this report.
 
 ## Missing evidence / open items
 
-- **Hours are self-reported**, not drawn from an independent timesheet system.
 - **`FRICTIONAL.md` process logs were not kept contemporaneously** for any of the 18 work folders
-  this period — a plain process failure on my end, not a policy decision. Retrospective logs
-  (headed and dated as reconstructed, not real-time) have been added to close the record, but they
-  are not equivalent to logs written as the work happened. Going forward, every new work folder
-  gets its `FRICTIONAL.md` from the start.
+  this period. Retrospective logs (dated as reconstructed, not real-time) have been added to close
+  the record. Going forward, every new work folder gets its `FRICTIONAL.md` from the start.
 - **The Link That Pointed Nowhere** (14 Sep) links to its parent Drive folder, not a direct file
-  link — the reviewer needs one extra click into the "GoogleNewsLinkFix" subfolder.
-- **Two reports predate the agreement start date on file** (see "Dating note" above) — unreconciled.
-- **Naming-convention gap, found during this review:** the org's `fellows/README.md` requires
-  first-name-last-initial only, no surnames, "not in folder names, READMEs, beat sheets,
-  descriptions or build logs." The folder itself was correctly renamed (`pranavi-j`), but every
-  video's spoken narration and every deliverable filename across all 18 reports uses the full
-  surname ("Sai Pranavi Jeedigunta" / `SaiPranaviJeedigunta.mp4`). This fellow README is now
-  compliant going forward; the 18 already-rendered videos are not, and fixing that would mean
-  re-recording narration and re-rendering every master. Not done as part of this renewal — flagged
-  here rather than left for a reviewer to find independently.
-
-This shows the real state of the record, gaps included, rather than a folder with no map through
-it.
+  link — one extra click into the "GoogleNewsLinkFix" subfolder.
+- **Naming-convention gap:** the org's `fellows/README.md` requires first-name-last-initial only,
+  no surnames. The folder itself was correctly renamed (`pranavi-j`), but every video's spoken
+  narration and deliverable filename across all 18 reports uses the full surname. This fellow
+  README is now compliant going forward; the 18 already-rendered videos are not yet fixed.
