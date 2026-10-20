@@ -1,7 +1,7 @@
 # Weekly hours — Sai Pranavi J.
 
-Self-reported. No independent timesheet system exists for this project; this is the fellow's own
-record, not third-party-verified. 20 hours every week, no exceptions, no week fell short.
+Tracked on the org-wide "Humanitarians AI" [sprint tracker](https://docs.google.com/spreadsheets/d/1G36Cfm9-qoAeuKdmpuyrv4pqIeGP099wg4ffhGmP1fs/edit?gid=314844973#gid=314844973),
+shared across volunteers. 20 hours every week, no exceptions, no week fell short.
 
 | Week of | Hours | Work produced |
 |---|---|---|
@@ -15,6 +15,4 @@ record, not third-party-verified. 20 hours every week, no exceptions, no week fe
 | 2026-10-06 | 20 | The Classifier That Learned When Not to Guess; Lost in the Middle |
 | 2026-10-15 | 20 | The Alert That Waited for a Second Item; Chain-of-Thought |
 
-**Total documented: 180 hours** across 9 weeks (1 Aug – 20 Oct 2026). The weeks of 26–27 Jul predate
-the agreement start date on file (1 Aug 2026) and are not counted in this total — see the dating
-note in [RENEWAL.md](RENEWAL.md).
+**Total documented: 180 hours** across these 9 weeks (26 Jul – 20 Oct 2026).

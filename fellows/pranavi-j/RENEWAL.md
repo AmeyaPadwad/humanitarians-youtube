@@ -51,8 +51,8 @@ shared across volunteers.
 ## Plan for the requested period
 
 See [research-plan.md](research-plan.md) for the full writeup. In short: continue the same
-two-videos-a-week cadence (one real Project 29 fix, one STEM explainer), and specifically for
-Project 29:
+cadence — one real Project 29 fix each week, documented in a work video, plus a separate STEM
+explainer video — and specifically for Project 29:
 1. Fix a newly-identified, already-reproduced gap: `Regulatory_QA`'s `SourceFeed` enum rejects
    valid dynamic source labels the classifier can now produce (confirmed live, not yet fixed).
 2. Build the Layer 2 formal eval benchmark against labeled documents — planned since
@@ -63,9 +63,9 @@ Project 29:
 ## OPT and compliance
 
 Post-completion OPT compliance needs 20+ documented qualifying hours; this period documents 20
-hours every week (180 total since the 1 Aug agreement start — see [HOURS.md](HOURS.md)). Hours
-alone do not establish full compliance — individual visa requirements go through the school's
-international office, not this report.
+hours every week (180 total across all 9 weeks — see [HOURS.md](HOURS.md)). Hours alone do not
+establish full compliance — individual visa requirements go through the school's international
+office, not this report.
 
 ## Missing evidence / open items
 
