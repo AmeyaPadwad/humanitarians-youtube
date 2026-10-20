@@ -102,7 +102,7 @@ The screenshots below show the current Causal Couture interface and provide visu
 
 ### Causal Couture Overview
 
-<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 34 33 PM" src="https://github.com/user-attachments/assets/2cfa6f89-0b00-40de-a1dc-3d055ea67af7" />
+<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 32 33 PM" src="https://github.com/user-attachments/assets/aa2fed34-f5aa-4421-97d5-3d243fb17543" />
 
 *Current Causal Couture overview showing the end-to-end workflow from data upload and validation through analysis, simulation, and decision support.*
 
@@ -122,8 +122,8 @@ The screenshots below show the current Causal Couture interface and provide visu
 
 ### Scenario Lab
 
-<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 32 33 PM" src="https://github.com/user-attachments/assets/aa2fed34-f5aa-4421-97d5-3d243fb17543" />
 
+<img width="1470" height="832" alt="Screenshot 2026-10-20 at 2 34 33 PM" src="https://github.com/user-attachments/assets/2cfa6f89-0b00-40de-a1dc-3d055ea67af7" />
 
 *Scenario Lab interface for adjusting demand, inventory, engagement, and conversion assumptions and comparing simulated outcomes against the current baseline.*
 
