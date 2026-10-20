@@ -1,6 +1,6 @@
 # General-AI-Topic Explainer: Embeddings — How AI Tells Similar From Different (When Keyword Matching Can't)
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Date:** September 7, 2026
 **Format:** `ai-explainer` (short-form, runtime 143.8s), part of this fellow's general-AI-topics
 series (distinct from her weekly-engineering-report videos)
@@ -59,7 +59,7 @@ real regulation citation (see `FACTCHECK.md`).
 - Previz: **complete** — `scenes.py` authored, 9 Manim classes matching `beat_sheet.json`'s
   `shot.manim.scene` names exactly. GATE A (static pre-flight) and GATE W (WCAG margin check)
   clean on all 9 before every render pass.
-- Final render (16:9): **complete** — `Embeddings_SaiPranaviJeedigunta_20260907_16x9.mp4`,
+- Final render (16:9): **complete** — `Embeddings_SaiPranaviJ_20260907_16x9.mp4`,
   **3840x2160 @24fps, 143.819s**, rendered via `./art final`, 9/9 beats real Manim media (no
   slates)
 - Visual QC (GATE V, true clean master, not the watermarked `-slate.mp4`): **0 BLOCKER, 15
@@ -93,7 +93,7 @@ vertical scatters** — the cluster of close points near the top of a portrait p
 distinct point near the bottom — using the portrait frame's abundant height instead of the width
 it no longer has, rather than shrinking the parent's wide layout to illegibility.
 
-- **Master:** `Embeddings_SaiPranaviJeedigunta_20260907_9x16.mp4` — **1080x1920 @24fps,
+- **Master:** `Embeddings_SaiPranaviJ_20260907_9x16.mp4` — **1080x1920 @24fps,
   148.36s** (143.8s reformatted content + 4.5s silent branded endcard), 10/10 beats real, 0
   slates.
 - **QC:** GATE A/W clean on all 9 new portrait scenes pre-render; the real-Manim-bounds layout

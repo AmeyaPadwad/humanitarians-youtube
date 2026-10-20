@@ -1,6 +1,6 @@
 # Weekly Work Report: The Alert That Waited for a Second Item
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** October 15, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo, `scripts/regulatory-intel/`)
 **Source status:** Real engineering work. Every claim traces to `B6-VERIFICATION.md` and `workflow.dev.json`'s `Generate Email` node in the `mycroft` repo — a one-character-class bug (`newItems.length > 1` instead of `> 0`) verified live against the real extracted node code via a Node.js harness, then re-verified against the real patched file on disk.
@@ -25,8 +25,8 @@ Deliberately left out: no claim that this bug ever caused an actual missed alert
 - Narration approval: **approved** — Kokoro `af_bella`, locked 2026-10-15
 - Voice: **Bella (`af_bella`)** — persistent for this fellow's whole report series
 - Previz: **complete** — 9/9 beats real Manim, no slates, both aspects
-- Final render — **16:9 landscape:** `AlertSecondItemGate_SaiPranaviJeedigunta.mp4`, 3840x2160, 24fps, h264/aac, **123.5s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
-- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `AlertSecondItemGate_SaiPranaviJeedigunta.mp4`, 2160x3840, 24fps, h264/aac, **123.5s** (identical duration to the landscape master — every beat kept, nothing dropped). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **16:9 landscape:** `AlertSecondItemGate_SaiPranaviJ.mp4`, 3840x2160, 24fps, h264/aac, **123.5s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `AlertSecondItemGate_SaiPranaviJ.mp4`, 2160x3840, 24fps, h264/aac, **123.5s** (identical duration to the landscape master — every beat kept, nothing dropped). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
 - Personally re-verified (not just trusting the build report): extracted and viewed real frames from both final deliverables, including B02's counter (landscape), B04's dead-end chain at both its 50% and 85% sample points (the beat whose closing caption previously landed too late), B05's full before/after table with both captions visible (the beat whose second caption previously bled past the vertical safe-area floor), and B06's honest-limits cards. No text-rendering artifacts, no clipping, no overlap in either aspect.
 - Publishing: **not authorized** — masters stay in this folder only, ready for fellow/PM review
 
@@ -54,8 +54,8 @@ This project follows the toolkit's official spec (`brutalist/docs/FELLOWS-SUBMIS
 
 ## Watch and review
 
-- Landscape — `deliverables/landscape/AlertSecondItemGate_SaiPranaviJeedigunta.mp4` — 3840x2160 — 123.5s — SHA-256 in the adjacent `.verified.json`
-- Vertical — `deliverables/vertical/AlertSecondItemGate_SaiPranaviJeedigunta.mp4` — 2160x3840 — 123.5s — SHA-256 in the adjacent `.verified.json`
+- Landscape — `deliverables/landscape/AlertSecondItemGate_SaiPranaviJ.mp4` — 3840x2160 — 123.5s — SHA-256 in the adjacent `.verified.json`
+- Vertical — `deliverables/vertical/AlertSecondItemGate_SaiPranaviJ.mp4` — 2160x3840 — 123.5s — SHA-256 in the adjacent `.verified.json`
 - PM review status: pending
 - YouTube 4K processing check: pending upload
 - Professors' publication decision: pending

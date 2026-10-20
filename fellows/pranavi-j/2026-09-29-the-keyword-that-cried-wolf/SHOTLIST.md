@@ -11,7 +11,7 @@
 | B05 | FIX | manim | GRAPHIC | B05_FailOpenFlowDiagram (scenes.py) | 25.608s | Flow diagram: item -> local model review -> confirm/downgrade, plus explicit 3rd branch "model fails -> goes through anyway (fail-open)" |
 | B06 | PROOF | manim | GRAPHIC | B06_ThreeCaseResultsTable (scenes.py) | 18.48s | 3-row results table, all 3 cases visible together: Medicare (downgrade), Nasdaq (downgrade), SEC (untouched, "not reviewed — below alert threshold") |
 | B07 | HONEST-LIMITS | manim | GRAPHIC | B07_HonestLimitsCards (scenes.py) | 18.528s | 3 limitation cards at full weight: conservative correction (High, not Medium/Low), small sample (2 patterns), real added latency |
-| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 5.544s | @HumanitariansAI brand card, "fixed with Claude Code", "in for Sai Pranavi Jeedigunta" |
+| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 5.544s | @HumanitariansAI brand card, "fixed with Claude Code", "in for Sai Pranavi J." |
 
 ## Lane summary
 - MANIM: all 9 beats, self-contained in this reel's own `scenes.py`. No

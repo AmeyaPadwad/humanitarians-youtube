@@ -4,16 +4,16 @@
     "title": "The Keyword That Cried Wolf",
     "date": "September 29, 2026",
     "report_type": "fellow-weekly-report",
-    "fellow": "Sai Pranavi Jeedigunta",
+    "fellow": "Sai Pranavi J.",
     "fellow_folder": "pranavi-j",
-    "series": "Humanitarians AI Fellows \u2014 Weekly Research Reports",
+    "series": "Humanitarians AI Fellows — Weekly Research Reports",
     "channel": "@HumanitariansAI",
     "audience": "Engineers using Claude Code",
     "persona": "hai",
     "engine": "kokoro",
     "voice": "af_bella",
     "voice_kokoro": "af_bella",
-    "voice_policy": "Bella (af_bella) \u2014 persistent voice for this fellow's whole report series. Unchanged for this episode.",
+    "voice_policy": "Bella (af_bella) — persistent voice for this fellow's whole report series. Unchanged for this episode.",
     "voice_selection_basis": "Fellow-confirmed: matches @HumanitariansAI channel and hai/Pragmatist persona.",
     "voice_approval": "CONFIRMED (carried over from prior episodes)",
     "register": "Pragmatist",
@@ -25,14 +25,14 @@
     "source_status": "Real engineering work: built and verified a local-LLM (Ollama) second-pass review targeting the two named C1 keyword-misfire patterns from FINDINGS.md (a Medicare rule scored 10/Critical from the word 'emergency' in a law's proper name; a boilerplate Nasdaq filing scored 9/Critical from 'Immediate Effectiveness'). Verified live against both false positives plus one genuine true positive (SEC insider-trading case); fail-open behavior verified separately (Ollama outage does not break the pipeline). Every claim traces to C2-VERIFICATION.md (2026-09-29). See SOURCES.md and FACTCHECK.md.",
     "render_state": "beat-sheet-approved-pending-audio",
     "gates": {
-      "plan": "APPROVED \u2014 2026-09-29 (Gate P)",
-      "factcheck": "RESOLVED \u2014 2026-09-29 (see FACTCHECK.md; B06 gets an added clarity label, B07 kept at full weight)",
-      "narration": "APPROVED \u2014 2026-09-29, cleared for audio generation",
-      "audio_lock": "LOCKED \u2014 2026-09-29, Kokoro af_bella, 9 beats (silent B00 via ffmpeg anullsrc)",
-      "shopping_list": "N/A \u2014 all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
-      "previz": "COMPLETE \u2014 2026-09-29, scenes.py authored (9/9 beats, hand-authored Manim, no slates)",
+      "plan": "APPROVED — 2026-09-29 (Gate P)",
+      "factcheck": "RESOLVED — 2026-09-29 (see FACTCHECK.md; B06 gets an added clarity label, B07 kept at full weight)",
+      "narration": "APPROVED — 2026-09-29, cleared for audio generation",
+      "audio_lock": "LOCKED — 2026-09-29, Kokoro af_bella, 9 beats (silent B00 via ffmpeg anullsrc)",
+      "shopping_list": "N/A — all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
+      "previz": "COMPLETE — 2026-09-29, scenes.py authored (9/9 beats, hand-authored Manim, no slates)",
       "publish": "NOT AUTHORIZED",
-      "render_state_detail": "landscape master: 3840x2160, 24fps, h264/aac, 135.54s \u2014 KeywordReScoring_SaiPranaviJeedigunta.mp4. GATE V on the true clean master: 0 BLOCKER, 0 MAJOR."
+      "render_state_detail": "landscape master: 3840x2160, 24fps, h264/aac, 135.54s — KeywordReScoring_SaiPranaviJ.mp4. GATE V on the true clean master: 0 BLOCKER, 0 MAJOR."
     },
     "submission_format": "NEW toolkit spec (brutalist/docs/FELLOWS-SUBMISSION.md, effective 2026-09-07): deliverable naming ProjectName_VolunteerName.mp4 (no date/aspect suffix), separate landscape/vertical deliverable folders, full-length 4K 2160x3840 vertical companion via ./art vertical (not a Shorts-style cut).",
     "lane_histogram": {
@@ -44,7 +44,7 @@
       "card": 0
     },
     "build": {
-      "at": "2026-09-30T22:04:32",
+      "at": "2026-10-20T12:03:22",
       "cut": "master",
       "filled": 9,
       "of": 9,
@@ -82,7 +82,7 @@
         "status": "MANIM",
         "src": "manim/B00.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -91,7 +91,7 @@
       "content_type": "structure",
       "engine": "kokoro",
       "voice": "af_bella",
-      "narration_text": "Hi, I'm Sai Pranavi Jeedigunta. This video is about a keyword scorer that was crying wolf, marking routine filings as Critical because of one word in the title, and a second-opinion pass, running locally, that catches it.",
+      "narration_text": "Hi, I'm Sai Pranavi J. This video is about a keyword scorer that was crying wolf, marking routine filings as Critical because of one word in the title, and a second-opinion pass, running locally, that catches it.",
       "new_visual_element": "Personal-intro card: fellow's name + one-line summary of what the video covers, spoken",
       "estimated_duration_s": 18,
       "lane": "MANIM",
@@ -106,13 +106,13 @@
         "note": "Same pattern as this fellow's other episodes' B01."
       },
       "audio_file": "mp3/beat-B01.mp3",
-      "actual_duration_s": 14.904,
-      "render_duration_s": 14.916666666666666,
+      "actual_duration_s": 14.26,
+      "render_duration_s": 14.291666666666666,
       "build": {
         "status": "MANIM",
         "src": "manim/B01.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -142,7 +142,7 @@
         "status": "MANIM",
         "src": "manim/B02.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -172,7 +172,7 @@
         "status": "MANIM",
         "src": "manim/B03.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -202,7 +202,7 @@
         "status": "MANIM",
         "src": "manim/B04.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -232,7 +232,7 @@
         "status": "MANIM",
         "src": "manim/B05.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -242,7 +242,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "I tested it against exactly those two cases, plus a real enforcement case, an actual SEC insider-trading charge, to make sure it doesn't just downgrade everything. Both routine filings: flagged as noise. The real enforcement case: left alone, exactly as it should be.",
-      "new_visual_element": "A 3-row results table: Medicare (downgrade), Nasdaq (downgrade), SEC insider-trading case (untouched, small label 'not reviewed \u2014 below alert threshold')",
+      "new_visual_element": "A 3-row results table: Medicare (downgrade), Nasdaq (downgrade), SEC insider-trading case (untouched, small label 'not reviewed — below alert threshold')",
       "estimated_duration_s": 26,
       "lane": "MANIM",
       "shot": {
@@ -262,7 +262,7 @@
         "status": "MANIM",
         "src": "manim/B06.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -283,7 +283,7 @@
           "scene": "B07_HonestLimitsCards",
           "module": "scenes.py"
         },
-        "note": "[Source: C2-VERIFICATION.md 'What's honest and NOT overclaimed here'] Kept at full weight per FACTCHECK.md resolution \u2014 no softening."
+        "note": "[Source: C2-VERIFICATION.md 'What's honest and NOT overclaimed here'] Kept at full weight per FACTCHECK.md resolution — no softening."
       },
       "audio_file": "mp3/beat-B07.mp3",
       "actual_duration_s": 18.528,
@@ -292,7 +292,7 @@
         "status": "MANIM",
         "src": "manim/B07.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     },
     {
@@ -302,7 +302,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "Fixed with Claude Code, verified against two real false alarms and one real true one.",
-      "new_visual_element": "@HumanitariansAI \u2014 fixed with Claude Code, in for Sai Pranavi Jeedigunta",
+      "new_visual_element": "@HumanitariansAI — fixed with Claude Code, in for Sai Pranavi J.",
       "estimated_duration_s": 6,
       "lane": "MANIM",
       "shot": {
@@ -322,7 +322,7 @@
         "status": "MANIM",
         "src": "manim/B08.mp4",
         "filled_by": "manim",
-        "at": "2026-09-30T22:04:32"
+        "at": "2026-10-20T12:03:22"
       }
     }
   ]

@@ -4,16 +4,16 @@
     "title": "Lost in the Middle: Why More Context Doesn't Guarantee a Better Answer",
     "date": "October 6, 2026",
     "report_type": "general-ai-topic-explainer",
-    "fellow": "Sai Pranavi Jeedigunta",
+    "fellow": "Sai Pranavi J.",
     "fellow_folder": "pranavi-j",
-    "series": "Humanitarians AI Fellows \u2014 Weekly STEM Video",
+    "series": "Humanitarians AI Fellows — Weekly STEM Video",
     "channel": "@HumanitariansAI",
     "audience": "Engineers building AI/data systems",
     "persona": "hai",
     "engine": "kokoro",
     "voice": "af_bella",
     "voice_kokoro": "af_bella",
-    "voice_policy": "Bella (af_bella) \u2014 persistent voice for this fellow's whole series. Unchanged for this episode.",
+    "voice_policy": "Bella (af_bella) — persistent voice for this fellow's whole series. Unchanged for this episode.",
     "voice_selection_basis": "Fellow-confirmed: matches @HumanitariansAI channel and hai/Pragmatist persona.",
     "voice_approval": "CONFIRMED (carried over from prior episodes)",
     "register": "Pragmatist",
@@ -21,15 +21,15 @@
     "builder": "ai-explainer",
     "runtime_target_s": 153,
     "source_status": "General AI/STEM topic explainer, not a report of the fellow's own engineering work. Describes a well-documented, generic class of long-context model behavior qualitatively, not a benchmark of any specific real model. See SOURCES.md and FACTCHECK.md.",
-    "render_state": "built \u2014 both 4K masters rendered, GATE V clean, ready for review",
+    "render_state": "built — both 4K masters rendered, GATE V clean, ready for review",
     "gates": {
-      "plan": "APPROVED \u2014 2026-10-06 (Gate P)",
-      "factcheck": "RESOLVED \u2014 2026-10-06 (see FACTCHECK.md; kept fully qualitative, no specific stats)",
-      "narration": "APPROVED \u2014 2026-10-06, cleared for audio generation",
-      "audio_lock": "LOCKED \u2014 2026-10-10, 8/8 spoken beats generated via Kokoro af_bella + 1 real silent track (B00); actual_duration_s measured via ffprobe and written back for all 9 beats",
-      "shopping_list": "N/A \u2014 all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
-      "previz": "COMPLETE \u2014 9/9 beats real Manim in both scenes.py (landscape) and vertical/scenes.py (portrait), no slates; both final 4K masters rendered and GATE V clean (0 BLOCKER, 0 MAJOR each)",
-      "publish": "READY FOR REVIEW \u2014 not authorized; landscape (3840x2160) and vertical (2160x3840) masters in deliverables/, both GATE V clean; requires fellow/PM sign-off per FELLOWS-SUBMISSION.md"
+      "plan": "APPROVED — 2026-10-06 (Gate P)",
+      "factcheck": "RESOLVED — 2026-10-06 (see FACTCHECK.md; kept fully qualitative, no specific stats)",
+      "narration": "APPROVED — 2026-10-06, cleared for audio generation",
+      "audio_lock": "LOCKED — 2026-10-10, 8/8 spoken beats generated via Kokoro af_bella + 1 real silent track (B00); actual_duration_s measured via ffprobe and written back for all 9 beats",
+      "shopping_list": "N/A — all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
+      "previz": "COMPLETE — 9/9 beats real Manim in both scenes.py (landscape) and vertical/scenes.py (portrait), no slates; both final 4K masters rendered and GATE V clean (0 BLOCKER, 0 MAJOR each)",
+      "publish": "READY FOR REVIEW — not authorized; landscape (3840x2160) and vertical (2160x3840) masters in deliverables/, both GATE V clean; requires fellow/PM sign-off per FELLOWS-SUBMISSION.md"
     },
     "submission_format": "NEW toolkit spec (brutalist/docs/FELLOWS-SUBMISSION.md, effective 2026-09-07): deliverable naming ProjectName_VolunteerName.mp4 (no date/aspect suffix), separate landscape/vertical deliverable folders, full-length 4K 2160x3840 vertical companion via ./art vertical (not a Shorts-style cut).",
     "lane_histogram": {
@@ -41,7 +41,7 @@
       "card": 0
     },
     "build": {
-      "at": "2026-10-11T16:36:56",
+      "at": "2026-10-20T12:56:31",
       "cut": "master",
       "filled": 9,
       "of": 9,
@@ -79,7 +79,7 @@
         "status": "MANIM",
         "src": "manim/B00.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -88,7 +88,7 @@
       "content_type": "structure",
       "engine": "kokoro",
       "voice": "af_bella",
-      "narration_text": "Hi, I'm Sai Pranavi Jeedigunta. This video is about a strange, well-documented habit of AI models reading long documents. They're much better at using facts at the start or end than facts buried in the middle, even when nothing else about those facts is different.",
+      "narration_text": "Hi, I'm Sai Pranavi J. This video is about a strange, well-documented habit of AI models reading long documents. They're much better at using facts at the start or end than facts buried in the middle, even when nothing else about those facts is different.",
       "new_visual_element": "Personal-intro card: fellow's name + one-line summary of what the video covers, spoken",
       "estimated_duration_s": 17,
       "lane": "MANIM",
@@ -103,13 +103,13 @@
         "note": "Same pattern as this fellow's other episodes' B01."
       },
       "audio_file": "mp3/beat-B01.mp3",
-      "actual_duration_s": 16.9,
-      "render_duration_s": 16.916666666666668,
+      "actual_duration_s": 16.49,
+      "render_duration_s": 16.5,
       "build": {
         "status": "MANIM",
         "src": "manim/B01.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -130,7 +130,7 @@
           "scene": "B02_TwoDocumentsHook",
           "module": "scenes.py"
         },
-        "note": "Generic/hypothetical scenario \u2014 no real model named, per FACTCHECK.md."
+        "note": "Generic/hypothetical scenario — no real model named, per FACTCHECK.md."
       },
       "audio_file": "mp3/beat-B02.mp3",
       "actual_duration_s": 16.97,
@@ -139,7 +139,7 @@
         "status": "MANIM",
         "src": "manim/B02.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -169,7 +169,7 @@
         "status": "MANIM",
         "src": "manim/B03.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -199,7 +199,7 @@
         "status": "MANIM",
         "src": "manim/B04.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -229,7 +229,7 @@
         "status": "MANIM",
         "src": "manim/B05.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -250,7 +250,7 @@
           "scene": "B06_AuditChecklist",
           "module": "scenes.py"
         },
-        "note": "Concrete action, not a restatement of B03 \u2014 should read as a checklist/task card."
+        "note": "Concrete action, not a restatement of B03 — should read as a checklist/task card."
       },
       "audio_file": "mp3/beat-B06.mp3",
       "actual_duration_s": 28.27,
@@ -259,7 +259,7 @@
         "status": "MANIM",
         "src": "manim/B06.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -289,7 +289,7 @@
         "status": "MANIM",
         "src": "manim/B07.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     },
     {
@@ -299,7 +299,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "Explained with Claude Code.",
-      "new_visual_element": "@HumanitariansAI \u2014 explained with Claude Code, in for Sai Pranavi Jeedigunta",
+      "new_visual_element": "@HumanitariansAI — explained with Claude Code, in for Sai Pranavi J.",
       "estimated_duration_s": 5,
       "lane": "MANIM",
       "shot": {
@@ -319,7 +319,7 @@
         "status": "MANIM",
         "src": "manim/B08.mp4",
         "filled_by": "manim",
-        "at": "2026-10-11T16:36:56"
+        "at": "2026-10-20T12:56:31"
       }
     }
   ]

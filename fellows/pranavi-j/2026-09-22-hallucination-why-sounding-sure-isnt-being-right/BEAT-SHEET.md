@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-10-02): "Hallucination: Why Sounding Sure Isn't the Same as Being Right"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly STEM video (general AI/STEM topic explainer,
+**Creator:** Sai Pranavi J. | Weekly STEM video (general AI/STEM topic explainer,
 distinct from the weekly work report)
 **Format:** `ai-explainer`, framework-first teaching structure (same register as this fellow's
 prior STEM videos — facial recognition, AI-code trust, prompt injection, embeddings, RAG)
@@ -36,7 +36,7 @@ generic and hypothetical, matching the pattern used in this fellow's prior STEM 
 | B04 Worked example | The fabricated citation and the real one shown side by side, same confident tone | Both must look equally fluent — the whole point is they're visually indistinguishable by tone alone |
 | B05 Falsifiability | The case where confident phrasing is correct, legible, visibly different resolution from B04 | Side-by-side or sequential-but-both-legible comparison to B04 |
 | B06 Task | The 3 questions restated as a checklist | Actionable, not just a restatement of the framework |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -47,7 +47,7 @@ Visual: title card — "Hallucination: Why Sounding Sure Isn't the Same as Being
 @HumanitariansAI. No narration.
 
 **B01. Exec summary (~0:04–0:20)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about why a confident-sounding answer from an AI
+VO: "Hi, I'm Sai Pranavi J.. This video is about why a confident-sounding answer from an AI
 model isn't the same thing as a correct one, and three questions that catch the difference before
 you act on it."
 Visual: name card, one-line summary text on screen as it's spoken.
@@ -101,7 +101,7 @@ Visual: statement card.
 
 **B08. Sign-off (~2:22–2:27)**
 VO: "Explained with Claude Code."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 

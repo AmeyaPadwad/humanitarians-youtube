@@ -186,7 +186,7 @@ class B00_TitleCard(Scene):
 # --------------------------------------------------------------------------- #
 # B01 — EXEC-SUMMARY: badge stacked ABOVE name/role (parent's side-by-side
 # row would starve the name of width next to a badge in this narrow frame).
-# measured audio: 14.232s
+# measured audio: 13.608s (2026-10-20 name-retrofit: "Sai Pranavi J.", was 14.232s)
 # --------------------------------------------------------------------------- #
 class B01_ExecSummary(Scene):
     def construct(self):
@@ -201,7 +201,7 @@ class B01_ExecSummary(Scene):
         initials.move_to(badge.get_center())
         badge_group = VGroup(badge, initials)
 
-        name = fit(T("Sai Pranavi Jeedigunta", color=PALETTE["ink"], font_size=24, weight="BOLD"), MAX_W)
+        name = fit(T("Sai Pranavi J.", color=PALETTE["ink"], font_size=24, weight="BOLD"), MAX_W)
         role = fit(T("Humanitarians AI Fellow", color=PALETTE["slate"], font_size=18), MAX_W)
         name_block = VGroup(name, role).arrange(DOWN, buff=0.15)
         header_col = VGroup(badge_group, name_block).arrange(DOWN, buff=0.25)
@@ -228,7 +228,9 @@ class B01_ExecSummary(Scene):
         self.play(Create(badge, run_time=0.2), FadeIn(initials), run_time=0.4)
         self.play(FadeIn(name_block, shift=UP * 0.1), run_time=0.5)
         self.play(FadeIn(summary, shift=UP * 0.1), Create(bottom_rule), run_time=0.6)
-        self.wait(12.132)
+        # sum of plays = 1.8s; remainder tuned to the measured 13.608s Kokoro length
+        # (2026-10-20 name-retrofit: 13.608 - 1.8 = 11.808)
+        self.wait(11.81)
 
 
 # --------------------------------------------------------------------------- #
@@ -586,9 +588,9 @@ class B08_BrandOutro(Scene):
         handle = fit(T("@HumanitariansAI", color=PALETTE["slate"], font_size=36), MAX_W)
         accent = Line(LEFT * 1.6, RIGHT * 1.6, color=PALETTE["gold"], stroke_width=3)
         tagline = fit(T(
-            "in for Sai Pranavi\nJeedigunta", color=PALETTE["ink"], font_size=24, line_spacing=1.25,
+            "in for Sai Pranavi J.", color=PALETTE["ink"], font_size=24, line_spacing=1.25,
         ), MAX_W)
-        content = VGroup(handle, accent, tagline).arrange(DOWN, buff=1.1).move_to(ORIGIN)
+        content = VGroup(handle, accent, tagline).arrange(DOWN, buff=1.85).move_to(ORIGIN)
 
         frame_w = min(content.width + 1.0, 3.9)
         frame_h = min(content.height + 0.9, 7.0)

@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-09-29): "The All-Clear That Wasn't All There"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly work report
+**Creator:** Sai Pranavi J. | Weekly work report
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo, `scripts/regulatory-intel/`)
 **Phase:** 2 — approved for narration lock / audio generation. B06's aside kept as drafted. See
 `FACTCHECK.md`.
@@ -41,7 +41,7 @@ matching `logs/RUN_LOG.md` entry. See `SOURCES.md` for the full claim → source
 | B04 Discovery | The 4 shown sources next to the workflow's real 5 RSS feed node names, the 5th highlighted as absent | Both lists visible together, contrast is the point |
 | B05 Fix | Before/after grid, 4 cards → 5 cards, the added card highlighted | Full before AND after visible together |
 | B06 Aside | The stale `FINDINGS.md` note ("apply A4/B4 to Generate Email"), stamped resolved/already-fixed | Brief, clearly marked as a side-finding, not the main story |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -51,7 +51,7 @@ matching `logs/RUN_LOG.md` entry. See `SOURCES.md` for the full claim → source
 Visual: title card — "The All-Clear That Wasn't All There" + @HumanitariansAI. No narration.
 
 **B01. Exec summary (~0:04–0:20)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about the pipeline's own 'all clear' email — the
+VO: "Hi, I'm Sai Pranavi J.. This video is about the pipeline's own 'all clear' email — the
 one it sends when nothing needs your attention — and a small, real gap where it was quietly
 under-reporting what it actually watches."
 Visual: name card, one-line summary text on screen as it's spoken.
@@ -98,7 +98,7 @@ Visual: statement card.
 
 **B08. Sign-off (~2:18–2:23)**
 VO: "Fixed with Claude Code, verified against the real workflow before it ever ran again."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 

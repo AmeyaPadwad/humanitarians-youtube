@@ -1,6 +1,6 @@
 # Weekly Work Report: The Keyword That Cried Wolf
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** September 29, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo, `scripts/regulatory-intel/`)
 **Source status:** Real engineering work. Every claim traces to `C2-VERIFICATION.md` and the matching `logs/RUN_LOG.md` entry in the `mycroft` repo — a live local-LLM (Ollama) second-pass review built and verified against real named false positives and a genuine true positive.
@@ -25,8 +25,8 @@ Deliberately left out: this is not a full labeled-benchmark evaluation of the sc
 - Narration approval: **approved** — Kokoro `af_bella`, locked 2026-09-29
 - Voice: **Bella (`af_bella`)** — persistent for this fellow's whole report series
 - Previz: **complete** — 9/9 beats real Manim, no slates, both aspects
-- Final render — **16:9 landscape:** `KeywordReScoring_SaiPranaviJeedigunta.mp4`, 3840x2160, 24fps, h264/aac, **135.54s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
-- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `KeywordReScoring_SaiPranaviJeedigunta.mp4`, 2160x3840, 24fps, h264/aac, **135.42s**. GATE V on the true clean master: **0 BLOCKER, 2 MAJOR** (both on B08, the brand/sign-off card, borderline underfill right at the 55% floor — the same accepted minor-cosmetic category as every sibling video's brand cards; personally visually confirmed legible and well-composed).
+- Final render — **16:9 landscape:** `KeywordReScoring_SaiPranaviJ.mp4`, 3840x2160, 24fps, h264/aac, **135.54s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
+- Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):** `KeywordReScoring_SaiPranaviJ.mp4`, 2160x3840, 24fps, h264/aac, **135.42s**. GATE V on the true clean master: **0 BLOCKER, 2 MAJOR** (both on B08, the brand/sign-off card, borderline underfill right at the 55% floor — the same accepted minor-cosmetic category as every sibling video's brand cards; personally visually confirmed legible and well-composed).
 - Personally re-verified (not just trusting the build report): extracted and viewed real frames from B05 (fail-open flow diagram), B06 (3-case results table), and B08 directly from the final vertical deliverable. No text-rendering artifacts anywhere; B06 explicitly reads "not sent to model" / "UNTOUCHED" for the SEC case, matching the FACTCHECK-required precision exactly.
 - Publishing: **not authorized** — masters stay in this folder only
 

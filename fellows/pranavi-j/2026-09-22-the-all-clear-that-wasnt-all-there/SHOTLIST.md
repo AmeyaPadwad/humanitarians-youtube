@@ -18,7 +18,7 @@ tuned to these exact numbers — see that file's per-scene comments.
 | B05 | FIX | manim | GRAPHIC | `B05_BeforeAfterFix` | 16.51s | Before (4 cards) / after (5 cards) both visible, new card highlighted, conformance-check confirmation |
 | B06 | ASIDE | manim | GRAPHIC | `B06_StaleNoteClosed` | 20.26s | Stale `FINDINGS.md` note, two-item checklist checked off, stamped "ALREADY FIXED — confirmed 2026-09-29" |
 | B07 | TAKEAWAY | manim | GRAPHIC | `B07_Statement` | 12.00s | 3-line statement card, dark background |
-| B08 | SIGN-OFF | manim | GRAPHIC | `B08_BrandOutro` | 5.06s | @HumanitariansAI, in for Sai Pranavi Jeedigunta — short beat, single combined reveal |
+| B08 | SIGN-OFF | manim | GRAPHIC | `B08_BrandOutro` | 5.06s | @HumanitariansAI, in for Sai Pranavi J. — short beat, single combined reveal |
 
 ## Emoji-glyph substitution (found and fixed this build, before rendering the real beats)
 

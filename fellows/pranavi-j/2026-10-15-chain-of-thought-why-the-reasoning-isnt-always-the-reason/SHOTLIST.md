@@ -11,7 +11,7 @@
 | B05 | FALSIFIABILITY | manim | GRAPHIC | B05_PerturbedStepFalsifiability (scenes.py) | 23.54s | A 3-step arithmetic chain run twice: original, then with one intermediate step's number changed — the final answer visibly changes to match, a checkmark where B04 had a mismatch |
 | B06 | SCAFFOLDED-TASK | manim | GRAPHIC | B06_AuditChecklist (scenes.py) | 18.62s | The 3 tests restated as a concrete, actionable checklist to try today — distinct composition from B03's framework card |
 | B07 | TAKEAWAY | manim | GRAPHIC | B07_Statement (scenes.py) | 10.44s | Statement card: a reasoning trace that reads well isn't the same as one that's true — test whether the steps are load-bearing |
-| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi Jeedigunta" — short card matching this beat's short approved narration |
+| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi J." — short card matching this beat's short approved narration |
 
 ## Lane summary
 - MANIM: all 9 beats, self-contained in this reel's own `scenes.py`. No

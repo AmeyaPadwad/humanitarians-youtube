@@ -1,6 +1,6 @@
 # Weekly Research Report: The All-Clear That Wasn't All There
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** September 22, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo,
 `scripts/regulatory-intel/`)
@@ -64,8 +64,8 @@ This is the first video in this fellow's series built under the toolkit's NEW su
 
 ## Deliverables
 
-- `deliverables/landscape/AllClearEmailFix_SaiPranaviJeedigunta.mp4` — 4K (3840x2160), 107.708s
-- `deliverables/vertical/AllClearEmailFix_SaiPranaviJeedigunta.mp4` — 4K full-length vertical
+- `deliverables/landscape/AllClearEmailFix_SaiPranaviJ.mp4` — 4K (3840x2160), 107.708s
+- `deliverables/vertical/AllClearEmailFix_SaiPranaviJ.mp4` — 4K full-length vertical
   (2160x3840), 107.708s
 - Both ship with a matching `.verified.json` receipt (SHA-256 of the output plus every input
   clip/audio file hashed).

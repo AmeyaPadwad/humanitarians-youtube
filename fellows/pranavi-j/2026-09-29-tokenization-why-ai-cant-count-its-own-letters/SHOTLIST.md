@@ -11,7 +11,7 @@
 | B05 | FALSIFIABILITY | manim | GRAPHIC | B05_SpelledOutFix (scenes.py) | 17.88s | Same word spelled letter-by-letter (S-T-R-A-W-B-E-R-R-Y), each letter its own token, count now matches the true total (3), green checkmark |
 | B06 | SCAFFOLDED-TASK | manim | GRAPHIC | B06_AuditChecklist (scenes.py) | 18.55s | The 3-question rubric as a checklist card: whole-word task? / needs character-level detail? / would spelling it out help? |
 | B07 | TAKEAWAY | manim | GRAPHIC | B07_Statement (scenes.py) | 11.74s | Statement card: fluent writing and letter-counting failure aren't contradictory — same system, wrong resolution |
-| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi Jeedigunta" |
+| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi J." |
 
 ## Illustrative word choice (per FACTCHECK.md — generic, no real model named/benchmarked)
 

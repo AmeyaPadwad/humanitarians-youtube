@@ -1,6 +1,6 @@
 # Weekly Research Report: The Pipeline That Was Lying to Me
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** July 26, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo, `scripts/regulatory-intel/`)
 **Source status:** Real engineering work. All measured numbers below come from a rolled-back test transaction run against live RSS feeds and a local Postgres database, not a simulation.

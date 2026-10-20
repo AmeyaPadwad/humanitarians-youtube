@@ -11,7 +11,7 @@
 | B05 | FALSIFIABILITY | manim | GRAPHIC | B05_RepositionedFactFound (scenes.py) | 15.60s | Same document, same fact, moved to the start; model's answer now correct; mini attention-curve inset with a sage marker at a high end |
 | B06 | SCAFFOLDED-TASK | manim | GRAPHIC | B06_AuditChecklist (scenes.py) | 28.27s | The 3-question rubric (context length / where the fact sits / would moving it change the answer) restated as an actionable checklist, distinct from B03's diagram |
 | B07 | TAKEAWAY | manim | GRAPHIC | B07_Statement (scenes.py) | 11.23s | Statement card: a model missing a buried fact isn't failing to understand it — it's reading unevenly |
-| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi Jeedigunta" — short card matching this beat's short approved narration |
+| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi J." — short card matching this beat's short approved narration |
 
 ## Lane summary
 - MANIM: all 9 beats, self-contained in this reel's own `scenes.py`. No

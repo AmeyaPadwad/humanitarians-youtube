@@ -4,7 +4,7 @@
     "title": "The Alert That Waited for a Second Item",
     "date": "October 15, 2026",
     "report_type": "weekly-work-report",
-    "fellow": "Sai Pranavi Jeedigunta",
+    "fellow": "Sai Pranavi J.",
     "fellow_folder": "pranavi-j",
     "series": "Humanitarians AI Fellows — Weekly Work Report",
     "channel": "@HumanitariansAI",
@@ -41,7 +41,7 @@
       "card": 0
     },
     "build": {
-      "at": "2026-10-15T21:08:11",
+      "at": "2026-10-20T13:06:17",
       "cut": "master",
       "filled": 9,
       "of": 9,
@@ -79,7 +79,7 @@
         "status": "MANIM",
         "src": "manim/B00.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -88,7 +88,7 @@
       "content_type": "structure",
       "engine": "kokoro",
       "voice": "af_bella",
-      "narration_text": "Hi, I'm Sai Pranavi Jeedigunta. This video is about a one-character bug in our regulatory intelligence pipeline that meant a single urgent filing, the exact case our alert system exists for, could silently generate no alert at all.",
+      "narration_text": "Hi, I'm Sai Pranavi J. This video is about a one-character bug in our regulatory intelligence pipeline that meant a single urgent filing, the exact case our alert system exists for, could silently generate no alert at all.",
       "new_visual_element": "Personal-intro card: fellow's name + one-line summary of what the video covers, spoken",
       "estimated_duration_s": 18,
       "lane": "MANIM",
@@ -103,13 +103,13 @@
         "note": "Same pattern as this fellow's other episodes' B01."
       },
       "audio_file": "mp3/beat-B01.mp3",
-      "actual_duration_s": 15.94,
-      "render_duration_s": 15.958333333333334,
+      "actual_duration_s": 15.46,
+      "render_duration_s": 15.5,
       "build": {
         "status": "MANIM",
         "src": "manim/B01.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -139,7 +139,7 @@
         "status": "MANIM",
         "src": "manim/B02.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -169,7 +169,7 @@
         "status": "MANIM",
         "src": "manim/B03.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -199,7 +199,7 @@
         "status": "MANIM",
         "src": "manim/B04.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -229,7 +229,7 @@
         "status": "MANIM",
         "src": "manim/B05.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -259,7 +259,7 @@
         "status": "MANIM",
         "src": "manim/B06.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -289,7 +289,7 @@
         "status": "MANIM",
         "src": "manim/B07.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     },
     {
@@ -299,7 +299,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "Explained with Claude Code.",
-      "new_visual_element": "@HumanitariansAI — explained with Claude Code, in for Sai Pranavi Jeedigunta",
+      "new_visual_element": "@HumanitariansAI — explained with Claude Code, in for Sai Pranavi J.",
       "estimated_duration_s": 5,
       "lane": "MANIM",
       "shot": {
@@ -319,7 +319,7 @@
         "status": "MANIM",
         "src": "manim/B08.mp4",
         "filled_by": "manim",
-        "at": "2026-10-15T21:08:11"
+        "at": "2026-10-20T13:06:17"
       }
     }
   ]

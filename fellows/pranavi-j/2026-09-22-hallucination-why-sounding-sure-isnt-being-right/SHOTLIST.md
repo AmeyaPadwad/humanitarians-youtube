@@ -11,7 +11,7 @@
 | B05 | FALSIFIABILITY | manim | GRAPHIC | B05_TrueFactFalsifiability (scenes.py) | 25.42s | Same confident tone, genuinely true/easy fact (boiling point of water); all 3 rubric checks resolve CONFIRMED (sage), visually distinct from B04's failed case |
 | B06 | SCAFFOLDED-TASK | manim | GRAPHIC | B06_AuditChecklist (scenes.py) | 23.16s | The 3 questions restated as an actionable checklist card (checkboxes), distinct from B03's rubric card |
 | B07 | TAKEAWAY | manim | GRAPHIC | B07_Statement (scenes.py) | 11.14s | Statement card: tone is generated the same way whether right or wrong; the only question that matters is checkability |
-| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi Jeedigunta" — short card matching this beat's short approved narration |
+| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi J." — short card matching this beat's short approved narration |
 
 ## Lane summary
 - MANIM: all 9 beats, self-contained in this reel's own `scenes.py`. No

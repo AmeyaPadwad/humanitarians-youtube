@@ -11,7 +11,7 @@
 | B05 | VERIFICATION | manim | GRAPHIC | B05_BeforeAfterTable (scenes.py) | 22.9s | The real 0/1/2-item before/after harness table; the 1-item row boxed gold as the one that changed; closing line notes the re-run against the real patched file on disk |
 | B06 | HONEST-LIMITS | manim | GRAPHIC | B06_HonestLimits (scenes.py) | 23.38s | 2 honest-limit cards, full weight: (1) caught by code review, not a live incident; (2) a related `source_feed` compatibility gap, flagged not fixed |
 | B07 | TAKEAWAY | manim | GRAPHIC | B07_Statement (scenes.py) | 10.03s | Statement card: an alert system is only as good as the cases it was built to handle |
-| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi Jeedigunta" — very short beat, narration is just "Explained with Claude Code." |
+| B08 | SIGN-OFF | manim | GRAPHIC | B08_BrandOutro (scenes.py) | 1.51s | @HumanitariansAI brand card, "explained with Claude Code", "in for Sai Pranavi J." — very short beat, narration is just "Explained with Claude Code." |
 
 ## Lane summary
 - MANIM: all 9 beats, self-contained in this reel's own `scenes.py` (landscape)

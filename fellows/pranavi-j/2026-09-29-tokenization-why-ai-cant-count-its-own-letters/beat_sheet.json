@@ -4,16 +4,16 @@
     "title": "Tokenization: Why AI Can't Count the Letters in Its Own Words",
     "date": "September 29, 2026",
     "report_type": "general-ai-topic-explainer",
-    "fellow": "Sai Pranavi Jeedigunta",
+    "fellow": "Sai Pranavi J.",
     "fellow_folder": "pranavi-j",
-    "series": "Humanitarians AI Fellows \u2014 Weekly STEM Video",
+    "series": "Humanitarians AI Fellows — Weekly STEM Video",
     "channel": "@HumanitariansAI",
     "audience": "Engineers building AI/data systems",
     "persona": "hai",
     "engine": "kokoro",
     "voice": "af_bella",
     "voice_kokoro": "af_bella",
-    "voice_policy": "Bella (af_bella) \u2014 persistent voice for this fellow's whole series. Unchanged for this episode.",
+    "voice_policy": "Bella (af_bella) — persistent voice for this fellow's whole series. Unchanged for this episode.",
     "voice_selection_basis": "Fellow-confirmed: matches @HumanitariansAI channel and hai/Pragmatist persona.",
     "voice_approval": "CONFIRMED (carried over from prior episodes)",
     "register": "Pragmatist",
@@ -23,13 +23,13 @@
     "source_status": "General AI/STEM topic explainer, not a report of the fellow's own engineering work. The worked example illustrates a widely-known, generic class of tokenization behavior, not a benchmark of any specific real model (tokenizer behavior changes between model versions). See SOURCES.md and FACTCHECK.md.",
     "render_state": "final-rendered-pending-human-review",
     "gates": {
-      "plan": "APPROVED \u2014 2026-10-02 (Gate P)",
-      "factcheck": "RESOLVED \u2014 2026-10-02 (see FACTCHECK.md; worked example kept fully generic)",
-      "narration": "APPROVED \u2014 2026-10-02, cleared for audio generation",
-      "audio_lock": "LOCKED \u2014 2026-10-02, all 9 beats generated (B00 real silent mp3 via ffmpeg anullsrc, B01-B08 Kokoro af_bella), durations measured via ffprobe",
-      "shopping_list": "N/A \u2014 all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
-      "previz": "COMPLETE \u2014 2026-10-02, 9/9 beats real Manim (scenes.py landscape + vertical/scenes.py portrait), no slates",
-      "publish": "READY FOR REVIEW \u2014 landscape + vertical final masters rendered and GATE V clean (0 BLOCKER, 0 MAJOR on both, --lenient, true final masters not review slates); NOT YET AUTHORIZED \u2014 requires fellow/human explicit sign-off before any publish step"
+      "plan": "APPROVED — 2026-10-02 (Gate P)",
+      "factcheck": "RESOLVED — 2026-10-02 (see FACTCHECK.md; worked example kept fully generic)",
+      "narration": "APPROVED — 2026-10-02, cleared for audio generation",
+      "audio_lock": "LOCKED — 2026-10-02, all 9 beats generated (B00 real silent mp3 via ffmpeg anullsrc, B01-B08 Kokoro af_bella), durations measured via ffprobe",
+      "shopping_list": "N/A — all beats are self-contained Manim scenes (scenes.py); no pantry stills or Remotion assets needed",
+      "previz": "COMPLETE — 2026-10-02, 9/9 beats real Manim (scenes.py landscape + vertical/scenes.py portrait), no slates",
+      "publish": "READY FOR REVIEW — landscape + vertical final masters rendered and GATE V clean (0 BLOCKER, 0 MAJOR on both, --lenient, true final masters not review slates); NOT YET AUTHORIZED — requires fellow/human explicit sign-off before any publish step"
     },
     "submission_format": "NEW toolkit spec (brutalist/docs/FELLOWS-SUBMISSION.md, effective 2026-09-07): deliverable naming ProjectName_VolunteerName.mp4 (no date/aspect suffix), separate landscape/vertical deliverable folders, full-length 4K 2160x3840 vertical companion via ./art vertical (not a Shorts-style cut).",
     "lane_histogram": {
@@ -41,7 +41,7 @@
       "card": 0
     },
     "build": {
-      "at": "2026-10-02T16:24:02",
+      "at": "2026-10-20T12:21:11",
       "cut": "master",
       "filled": 9,
       "of": 9,
@@ -79,7 +79,7 @@
         "status": "MANIM",
         "src": "manim/B00.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -88,7 +88,7 @@
       "content_type": "structure",
       "engine": "kokoro",
       "voice": "af_bella",
-      "narration_text": "Hi, I'm Sai Pranavi Jeedigunta. This video is about why AI models mess up tasks like counting letters or finding rhymes, even though they can write whole essays correctly, and the one mechanism that explains it.",
+      "narration_text": "Hi, I'm Sai Pranavi J. This video is about why AI models mess up tasks like counting letters or finding rhymes, even though they can write whole essays correctly, and the one mechanism that explains it.",
       "new_visual_element": "Personal-intro card: fellow's name + one-line summary of what the video covers, spoken",
       "estimated_duration_s": 16,
       "lane": "MANIM",
@@ -103,13 +103,13 @@
         "note": "Same pattern as this fellow's other episodes' B01."
       },
       "audio_file": "mp3/beat-B01.mp3",
-      "actual_duration_s": 14.09,
-      "render_duration_s": 14.125,
+      "actual_duration_s": 13.56,
+      "render_duration_s": 13.583333333333334,
       "build": {
         "status": "MANIM",
         "src": "manim/B01.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -130,7 +130,7 @@
           "scene": "B02_TwoTasksHook",
           "module": "scenes.py"
         },
-        "note": "Generic/hypothetical scenario \u2014 no real model named, per FACTCHECK.md."
+        "note": "Generic/hypothetical scenario — no real model named, per FACTCHECK.md."
       },
       "audio_file": "mp3/beat-B02.mp3",
       "actual_duration_s": 13.7,
@@ -139,7 +139,7 @@
         "status": "MANIM",
         "src": "manim/B02.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -169,7 +169,7 @@
         "status": "MANIM",
         "src": "manim/B03.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -199,7 +199,7 @@
         "status": "MANIM",
         "src": "manim/B04.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -220,7 +220,7 @@
           "scene": "B05_SpelledOutFix",
           "module": "scenes.py"
         },
-        "note": "Same word, same model, only the spelling-out changes \u2014 not a different, easier word. Visually distinct resolution from B04 (e.g. green checkmark vs red mismatch)."
+        "note": "Same word, same model, only the spelling-out changes — not a different, easier word. Visually distinct resolution from B04 (e.g. green checkmark vs red mismatch)."
       },
       "audio_file": "mp3/beat-B05.mp3",
       "actual_duration_s": 17.88,
@@ -229,7 +229,7 @@
         "status": "MANIM",
         "src": "manim/B05.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -250,7 +250,7 @@
           "scene": "B06_AuditChecklist",
           "module": "scenes.py"
         },
-        "note": "Concrete action, not a restatement of B03 \u2014 should read as a checklist/task card, not another copy of the mechanism diagram."
+        "note": "Concrete action, not a restatement of B03 — should read as a checklist/task card, not another copy of the mechanism diagram."
       },
       "audio_file": "mp3/beat-B06.mp3",
       "actual_duration_s": 18.55,
@@ -259,7 +259,7 @@
         "status": "MANIM",
         "src": "manim/B06.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -289,7 +289,7 @@
         "status": "MANIM",
         "src": "manim/B07.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     },
     {
@@ -299,7 +299,7 @@
       "engine": "kokoro",
       "voice": "af_bella",
       "narration_text": "Explained with Claude Code.",
-      "new_visual_element": "@HumanitariansAI \u2014 explained with Claude Code, in for Sai Pranavi Jeedigunta",
+      "new_visual_element": "@HumanitariansAI — explained with Claude Code, in for Sai Pranavi J.",
       "estimated_duration_s": 5,
       "lane": "MANIM",
       "shot": {
@@ -319,7 +319,7 @@
         "status": "MANIM",
         "src": "manim/B08.mp4",
         "filled_by": "manim",
-        "at": "2026-10-02T16:24:02"
+        "at": "2026-10-20T12:21:11"
       }
     }
   ]

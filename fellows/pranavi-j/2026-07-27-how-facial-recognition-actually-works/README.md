@@ -1,6 +1,6 @@
 # Topic Explainer: How Facial Recognition Actually Works (And When It Shouldn't)
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Date:** August 3, 2026 (rebuilt August 25-26, 2026 — 4K + 2 new opening beats, program feedback)
 **Format:** `ai-explainer` (3-minute cap), first-person narration
 **Source status:** Topic explainer, not a report of the fellow's own engineering work (contrast with the `2026-07-26-recovering-the-silently-dropped-filings/` weekly report in the sibling folder). The one factual claim with real stakes — the NIST demographic-effects finding — is verified directly against the primary source (NISTIR 8280) before narration was locked; see `FACTCHECK.md`.

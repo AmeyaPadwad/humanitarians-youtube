@@ -1,6 +1,6 @@
 # Weekly Research Report: The Link That Pointed Nowhere
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** September 14, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo,
 `scripts/regulatory-intel/`)
@@ -69,8 +69,8 @@ This is the first video in this fellow's series built under the toolkit's NEW su
 
 ## Deliverables
 
-- `deliverables/landscape/GoogleNewsLinkFix_SaiPranaviJeedigunta.mp4` — 4K (3840x2160), 161.125s
-- `deliverables/vertical/GoogleNewsLinkFix_SaiPranaviJeedigunta.mp4` — 4K full-length vertical
+- `deliverables/landscape/GoogleNewsLinkFix_SaiPranaviJ.mp4` — 4K (3840x2160), 161.125s
+- `deliverables/vertical/GoogleNewsLinkFix_SaiPranaviJ.mp4` — 4K full-length vertical
   (2160x3840), 161.125s
 - Both ship with a matching `.verified.json` receipt (SHA-256 of the output plus every input
   clip/audio file hashed).

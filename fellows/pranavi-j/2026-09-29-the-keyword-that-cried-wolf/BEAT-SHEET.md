@@ -1,6 +1,6 @@
 # Beat Sheet (APPROVED — Gate P, 2026-09-29): "The Keyword That Cried Wolf"
 
-**Creator:** Sai Pranavi Jeedigunta | Weekly work report
+**Creator:** Sai Pranavi J. | Weekly work report
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo, `scripts/regulatory-intel/`)
 **Phase:** 2 — approved for narration lock / audio generation. B06 gets a small "not reviewed —
 below alert threshold" label for clarity; B07 kept at full weight. See `FACTCHECK.md`.
@@ -44,7 +44,7 @@ patterns. See `SOURCES.md` for the full claim → source mapping.
 | B05 Design | The review flow: item → Ollama prompt → confirm/downgrade verdict, shown as a diagram | Fail-open path shown explicitly, not just the happy path |
 | B06 Proof | Live verdicts for all 3 test cases (2 false positives, 1 true positive) shown together | All 3 outcomes visible at once, not sequential reveals that hide the comparison |
 | B07 Honest limits | The 3 named limitations (conservative correction, small sample, added latency) | Not glossed over |
-| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi Jeedigunta |
+| B08 Sign-off | Brand card | @HumanitariansAI, in for Sai Pranavi J. |
 
 ---
 
@@ -54,7 +54,7 @@ patterns. See `SOURCES.md` for the full claim → source mapping.
 Visual: title card — "The Keyword That Cried Wolf" + @HumanitariansAI. No narration.
 
 **B01. Exec summary (~0:04–0:22)**
-VO: "Hi, I'm Sai Pranavi Jeedigunta. This video is about a keyword scorer that was crying wolf —
+VO: "Hi, I'm Sai Pranavi J.. This video is about a keyword scorer that was crying wolf —
 marking routine filings as Critical because of one word in the title — and a second-opinion pass,
 running locally, that catches it."
 Visual: name card, one-line summary text on screen as it's spoken.
@@ -111,7 +111,7 @@ Visual: 3 limitation cards, stated plainly, not minimized.
 
 **B08. Sign-off (~2:50–2:56)**
 VO: "Fixed with Claude Code, verified against two real false alarms and one real true one."
-Visual: brand card — @HumanitariansAI, in for Sai Pranavi Jeedigunta.
+Visual: brand card — @HumanitariansAI, in for Sai Pranavi J..
 
 ---
 
