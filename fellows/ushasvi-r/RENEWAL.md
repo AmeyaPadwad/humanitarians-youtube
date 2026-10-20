@@ -1,5 +1,9 @@
 # Fellowship Renewal — Ushasvi Rachel Peeka
-Fellow: Ushasvi Rachel Peeka Project: Causal Couture Current agreement end date: October 31, 2026 Requested renewal period: November 1, 2026 - December 31 2026 Project Manager / Supervisor: Shourya/Sanjana
+Fellow: Ushasvi Rachel Peeka Project: Causal Couture 
+Current agreement end date: October 31, 2026 
+Requested renewal period: November 1, 2026 - December 31 2026 
+Project Manager / Supervisor: Shourya
+Video Review: Sanjana
 
 
 ## Renewal Request
@@ -36,7 +40,7 @@ Relevant implementation files include:
 * apps/api/causal_reliability_review.py
 * apps/api/main.py
 Additional supporting evidence is included in the Week 9 and Week 10 project/video materials submitted in:
-GitHub Pull Request #258
+[GitHub Pull Request #258 ](https://github.com/nikbearbrown/humanitarians-youtube/pull/258)
 Limitation
 The sensitivity analysis is a diagnostic stress test rather than a formal statistical sensitivity bound. The reliability framework supports interpretation but does not establish causation or automatically approve business decisions.
 
@@ -61,7 +65,7 @@ Supporting evidence
 * Causal Couture Week 11 supporting materials
 * Week 11 progress video
 * Week 11 project files included in:
-GitHub Pull Request #258
+[GitHub Pull Request #258](https://github.com/nikbearbrown/humanitarians-youtube/pull/258)
 Limitation
 This stage focused on methodology and interpretation. It did not introduce a new causal estimator or claim empirical proof of a causal relationship.
 
@@ -86,7 +90,7 @@ Relevant implementation files include:
 * apps/api/test_week12_evidence_review.py
 * docs/WEEK12_INSTALL_AND_RUN.txt
 The Week 12 Humanitarians.ai reporting materials are included in:
-GitHub Pull Request #258
+[GitHub Pull Request #258](https://github.com/nikbearbrown/humanitarians-youtube/pull/258)
 
 Limitation
 The automated tests validate the implemented software paths but do not establish scientific validity of the underlying causal estimates.
