@@ -1,27 +1,53 @@
-# Anjana N.
+# Anjana S N.
 
 **Role:** AI Engineer  
-**Project:** _to be filled in_  
+
+**Project:** Mycroft
+
+**Project Repo:** [Mycroft — ECIS](https://github.com/nikbearbrown/mycroft/tree/main/projects/ecis)
+
 **GitHub:** [@anjanasasinambiar](https://github.com/anjanasasinambiar)
 
 ## What's in this folder
 
-14 work folders, one per report or video:
-
-- `2026-08-07-ecis-explained/` — ecis explained (2026-08-07)
-- `2026-08-07-why-ai-dominates-the-crypto-market/` — why ai dominates the crypto market (2026-08-07)
-- `2026-08-14-ecis-explained/` — ecis explained (2026-08-14)
-- `2026-08-14-finbert-explainer/` — finbert explainer (2026-08-14)
-- `2026-08-21-attention-finance-explained/` — attention finance explained (2026-08-21)
-- `2026-08-21-ecis-explained/` — ecis explained (2026-08-21)
-- `2026-08-28-ecis-explained/` — ecis explained (2026-08-28)
-- `2026-08-28-temperature-llm-finance/` — temperature llm finance (2026-08-28)
-- `2026-09-04-ecis-explained/` — ecis explained (2026-09-04)
-- `2026-09-04-financial-chatbot/` — financial chatbot (2026-09-04)
-- `2026-09-11-ecis-explained/` — ecis explained (2026-09-11)
-- `2026-09-11-transformer-layer/` — transformer layer (2026-09-11)
-- `2026-09-18-ecis-explained/` — ecis explained (2026-09-18)
-- `2026-09-18-embeddings-explainer/` — embeddings explainer (2026-09-18)
+* `2026-07-03-weekly-work-progress/` — weekly work progress (2026-07-03)
+* `2026-07-10-weekly-work-progress/` — weekly work progress (2026-07-10)
+* `2026-07-17-weekly-work-progress/` — weekly work progress (2026-07-17)
+* `2026-07-24-weekly-work-progress/` — weekly work progress (2026-07-24)
+* `2026-07-31-weekly-work-progress/` — weekly work progress (2026-07-31)
+* `2026-08-07-ecis-explained/` — ecis explained (2026-08-07)
+* `2026-08-07-weekly-work-progress/` — weekly work progress (2026-08-07)
+* `2026-08-07-why-ai-dominates-the-crypto-market/` — why ai dominates the crypto market (2026-08-07)
+* `2026-08-14-ecis-explained/` — ecis explained (2026-08-14)
+* `2026-08-14-finbert-explainer/` — finbert explainer (2026-08-14)
+* `2026-08-14-weekly-work-progress/` — weekly work progress (2026-08-14)
+* `2026-08-21-attention-finance-explained/` — attention finance explained (2026-08-21)
+* `2026-08-21-ecis-explained/` — ecis explained (2026-08-21)
+* `2026-08-21-weekly-work-progress/` — weekly work progress (2026-08-21)
+* `2026-08-28-ecis-explained/` — ecis explained (2026-08-28)
+* `2026-08-28-temperature-llm-finance/` — temperature llm finance (2026-08-28)
+* `2026-08-28-weekly-work-progress/` — weekly work progress (2026-08-28)
+* `2026-09-04-ecis-explained/` — ecis explained (2026-09-04)
+* `2026-09-04-financial-chatbot/` — financial chatbot (2026-09-04)
+* `2026-09-04-weekly-work-progress/` — weekly work progress (2026-09-04)
+* `2026-09-11-ecis-explained/` — ecis explained (2026-09-11)
+* `2026-09-11-transformer-layer/` — transformer layer (2026-09-11)
+* `2026-09-11-weekly-work-progress/` — weekly work progress (2026-09-11)
+* `2026-09-18-ecis-explained/` — ecis explained (2026-09-18)
+* `2026-09-18-embeddings-explainer/` — embeddings explainer (2026-09-18)
+* `2026-09-18-weekly-work-progress/` — weekly work progress (2026-09-18)
+* `2026-09-25-ecis-explained/` — ecis explained (2026-09-25)
+* `2026-09-25-vector-db-explainer/` — vector db explainer (2026-09-25)
+* `2026-09-25-weekly-work-progress/` — weekly work progress (2026-09-25)
+* `2026-10-02-context-window-explainer/` — context window explainer (2026-10-02)
+* `2026-10-02-ecis-explained/` — ecis explained (2026-10-02)
+* `2026-10-02-weekly-work-progress/` — weekly work progress (2026-10-02)
+* `2026-10-09-ecis-explained/` — ecis explained (2026-10-09)
+* `2026-10-09-gpu-vs-cpu-explainer/` — gpu vs cpu explainer (2026-10-09)
+* `2026-10-09-weekly-work-progress/` — weekly work progress (2026-10-09)
+* `2026-10-16-ecis-explained/` — ecis explained (2026-10-16)
+* `2026-10-16-retrieval-pipeline-explainer/` — retrieval pipeline explainer (2026-10-16)
+* `2026-10-16-weekly-work-progress/` — weekly work progress (2026-10-16)
 
 ## Frictional log
 
