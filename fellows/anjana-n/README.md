@@ -1,13 +1,32 @@
 # Anjana S N.
 
 **Role:** AI Engineer  
+**Project:** Mycroft  
+**Project Repo:** [Mycroft — ECIS](https://github.com/nikbearbrown/mycroft/tree/main/projects/ecis)    
+**GitHub:** [@anjanasasinambiar](https://github.com/anjanasasinambiar)    
 
-**Project:** Mycroft
+---
+## Earnings Call Intelligence Signals
 
-**Project Repo:** [Mycroft — ECIS](https://github.com/nikbearbrown/mycroft/tree/main/projects/ecis)
+#### Every quarter, 500 companies tell the market where they're headed. The signal hides in plain sight. ECIS reads what others skim.
 
-**GitHub:** [@anjanasasinambiar](https://github.com/anjanasasinambiar)
+---
 
+## What is ECIS?
+
+ECIS (Earnings Call Intelligence Signals) is a financial intelligence system that transforms raw earnings call transcripts into structured, confidence-scored guidance signals, and then holds itself accountable by grading every prediction against real market outcomes.
+
+> Built to extract. Designed to doubt. Engineered to improve.
+
+---
+
+## The Vision:
+
+Earnings calls are the richest public source of corporate intent. Executives disclose revenue targets, margin expectations, and strategic direction. Analysts probe for weakness. The language is deliberate, the stakes are real, and every transcript is public record.
+
+ECIS turns that language into structured intelligence, not by trusting a single model, but by orchestrating multiple readers that challenge each other, catch each other's blind spots, and build trust through validated outcomes.
+
+---
 ## What's in this folder
 
 * `2026-07-03-weekly-work-progress/` — weekly work progress (2026-07-03)
