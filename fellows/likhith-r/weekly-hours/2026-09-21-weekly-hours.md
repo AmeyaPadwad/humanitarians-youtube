@@ -1,4 +1,4 @@
-# Weekly Hours — 2026-09-23 to 2026-09-29
+# Weekly Hours — 2026-09-21 to 2026-09-27
 
 | Activity | Hours | Record / artifact |
 |---|---:|---|
@@ -12,7 +12,7 @@
 | Spec-Driven Development — custom dual-aspect scenes (16:9 + 9:16) | 3 | [Scenes](../2026-09-26-spec-driven-development/scenes/SpecDriven.tsx) |
 | Spec-Driven Development — narration, rendering, visual QC and layout fixes | 2 | [Build log](../2026-09-26-spec-driven-development/BUILD-LOG.md) · [Vertical beat sheet](../2026-09-26-spec-driven-development/vertical/beat_sheet.json) |
 | Spec-Driven Development — documentation and work report | 1 | [Work report](../2026-09-26-spec-driven-development/README.md) · [Frictional log](../2026-09-26-spec-driven-development/FRICTIONAL.md) |
-| Meeting with Sanjana and Vikya on YouTube review-pipeline automation | 2 | — |
+| Meeting with Sanjana and Vikhyat on YouTube review-pipeline automation | 2 | — |
 | **Total** | **23** | **12 System One Models and Jev + 9 Spec-Driven Development + 2 meeting** |
 
 Per-video totals are actual; the split within each video is estimated.
