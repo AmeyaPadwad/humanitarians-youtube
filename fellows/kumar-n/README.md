@@ -112,7 +112,7 @@ Renewal is requested from 1 November 2026. The full plan is set out in
 | 15–28 Nov | Section 6, Conclusion: rewrite to reflect the revised sections |
 | 29 Nov – 5 Dec | Reference audit: verify every citation and author list against its source and DOI |
 | 6–12 Dec | Convert the paper to LaTeX in Overleaf; number citations; add figures |
-| [CONFIRM: date] | Submit the full draft to Professor Brown |
+| 31 Dec | Submit the full draft to Professor Brown |
 
 ## 6. Frictional Logs
 
