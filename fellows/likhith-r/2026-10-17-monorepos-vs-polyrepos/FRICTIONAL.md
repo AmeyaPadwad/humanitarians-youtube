@@ -2,7 +2,7 @@
 
 > Append dated entries as you go; never rewrite an earlier one.
 
-## 2026-10-15 — Build a 60-second explainer on monorepos versus polyrepos, in 16:9 and 9:16
+## 2026-10-17 — Build a 60-second explainer on monorepos versus polyrepos, in 16:9 and 9:16
 
 *Drafted with Claude Code from the build record and reviewed by me.*
 

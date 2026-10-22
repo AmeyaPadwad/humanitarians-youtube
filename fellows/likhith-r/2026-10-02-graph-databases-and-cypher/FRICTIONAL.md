@@ -2,7 +2,7 @@
 
 > Append dated entries as you go; never rewrite an earlier one.
 
-## 2026-09-30 — Build a 60-second explainer on graph databases and Cypher, in 16:9 and 9:16
+## 2026-10-02 — Build a 60-second explainer on graph databases and Cypher, in 16:9 and 9:16
 
 *Drafted with Claude Code from the build record and reviewed by me.*
 
