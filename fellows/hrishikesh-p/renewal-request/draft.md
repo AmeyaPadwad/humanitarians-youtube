@@ -1,7 +1,7 @@
 
 # Fellowship Renewal Request
 
-**Request:** Please renew my fellowship from **October 1, 2026** through **October 31, 2026**. My current agreement ends **September 30, 2026**. This summary covers the reporting period **August 22, 2026 to October 16, 2026**.
+**Request:** Please renew my fellowship from **October 1, 2026** through **October 31, 2026**. My current agreement ends **September 30, 2026**. This summary covers the reporting period **August 22, 2026 to October 23, 2026**.
 
 ## Completed
 
@@ -11,10 +11,11 @@
 - **Studied clinical Raman spectroscopy and transfer learning.** Reviewed a 1D ResNet approach for identifying bacterial isolates, antibiotic treatment groups, and MRSA versus MSSA, including transfer learning that reached 99.0% accuracy with limited patient data. Evidence: [Week 5 frictional log](../2026-10-02%20-%20RamanEffect/FRICTIONAL.md), the [Nature paper](https://www.nature.com/articles/s41467-019-12898-9), and the linked videos.
 - **Evaluated sequential versus spatial models.** Tested a bidirectional LSTM on 1,000-wavenumber Raman spectra and documented its 3.33% test accuracy at random-chance level, then compared it with ResNet and Simple CNN results. Evidence: [Week 6 frictional log](../2026-10-09%20-%20RamanEffect/FRICTIONAL.md) and the linked videos.
 - **Analyzed agent-scale software infrastructure.** Reviewed Anthropic's migration from Git to Scion and Antique, including changesets, recursive derived data, content-addressed checkout architecture, source-control benchmarks, and the use of Claude in development. Evidence: [Week 7 frictional log](../2026-10-16%20-%20RamanEffect/FRICTIONAL.md) and the linked videos.
+- **Evaluated clinical treatment-group classification.** Mapped 30 bacterial reference isolates into 8 empiric treatment groups, compared CNN and ResNet accuracy on 3,000 Raman spectra, and analyzed clinically benign versus cross-treatment errors. Evidence: [Week 8 frictional log](../2026-10-23%20-%20RamanEffect/FRICTIONAL.md), [Week 8 commit](https://github.com/hspgit/RAMAN-Effect/commit/23883ad3b3bc587d719f898efbe74101bef97bb0), and the linked videos.
 
 ## Hours Status
 
-20 hours recorded for each documented week, for a total of **140 hours across seven documented weeks**.
+20 hours recorded for each documented week, for a total of **160 hours across eight documented weeks**.
 
 ## Degree Relevance and Supervision
 
@@ -43,3 +44,4 @@ Proposed deliverable: document a reproducible comparison of the CNN, ResNet, Tra
 | Week 5: October 2, 2026 | 20 | [16:9](https://drive.google.com/file/d/1wbHRC--hcMLumE4XGLJZSv4KMJ8mZ01s/view?usp=drive_link) · [9:16](https://drive.google.com/file/d/1ql_IYbLr-fX-8Fi8Kog37vFWks64ELmH/view?usp=drive_link) | [Dated log](../2026-10-02%20-%20RamanEffect/FRICTIONAL.md) · [Nature paper](https://www.nature.com/articles/s41467-019-12898-9) · No Git commit; paper review only |
 | Week 6: October 9, 2026 | 20 | [16:9](https://drive.google.com/file/d/1xUevGIxN8gknxQ1OYP6nyflM656rwBsS/view?usp=drive_link) · [9:16](https://drive.google.com/file/d/1PlKiuVd40nQ8oarqcJW-RUDckAGzA0a2/view?usp=drive_link) | [Dated log](../2026-10-09%20-%20RamanEffect/FRICTIONAL.md) · [Week 6 commit](https://github.com/hspgit/RAMAN-Effect/commit/faf0410d432ec99f702ceb5c23d591017ad6cc65) |
 | Week 7: October 16, 2026 | 20 | [16:9](https://drive.google.com/file/d/1xz1x9fcxEY6vCJDcc-OE6IVJkftIRW4m/view?usp=sharing) · [9:16](https://drive.google.com/file/d/14iKqr9zQUYYMyc6btWhrs1l7shz42fl4/view?usp=drive_link) | [Dated log](../2026-10-16%20-%20RamanEffect/FRICTIONAL.md) · Source-control and agent-scale infrastructure review |
+| Week 8: October 23, 2026 | 20 | [16:9](https://drive.google.com/file/d/1ZEEaDkIRnRjdvGCCnVK9SCFeP7F39OVC/view?usp=drive_link) · [9:16](https://drive.google.com/file/d/1cfbvhZzKi9g0oPb6D0GtltLuKUWPqcNK/view?usp=drive_link) | [Dated log](../2026-10-23%20-%20RamanEffect/FRICTIONAL.md) · [Week 8 commit](https://github.com/hspgit/RAMAN-Effect/commit/23883ad3b3bc587d719f898efbe74101bef97bb0) |
