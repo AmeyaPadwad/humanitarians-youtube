@@ -49,8 +49,8 @@ A 60-second explainer on containerization for AI workloads: Docker packages a mo
 - **Approvals and checks:** [FACTCHECK.md](FACTCHECK.md) (signed off by Likhith), [TYPECHECK.md](TYPECHECK.md) and [vertical/TYPECHECK.md](vertical/TYPECHECK.md) (GATE T PASS), [CHECKS-REPORT.md](CHECKS-REPORT.md), [BUILD-LOG.md](BUILD-LOG.md).
 
 ## Watch and review
-- **Landscape** — TODO Drive link (`landscape/DockerAndKubernetesForAI_LikhithR.mp4`) — 3840×2160 — 60.0 s — SHA-256 `399932114eb06143382dc9e33f139bb9ba564fbc1fb93ada21644b305877a09b` (final master, `.verified.json` receipt: ready)
-- **Vertical** — TODO Drive link (`vertical/DockerAndKubernetesForAI_LikhithR.mp4`) — 2160×3840 — 60.0 s — SHA-256 `ff2565d1f4400525aa3be0c199eb1027c004e38b25ae7a2ad7e07becb4ab61dc` (final master, `.verified.json` receipt: ready)
+- **Landscape** — [Watch `landscape/DockerAndKubernetesForAI_LikhithR.mp4`](https://drive.google.com/file/d/1zq0usog23arKNvgwZs_FjeFiQj0CFyuR/view?usp=sharing) — 3840×2160 — 60.0 s — SHA-256 `399932114eb06143382dc9e33f139bb9ba564fbc1fb93ada21644b305877a09b` (final master, `.verified.json` receipt: ready)
+- **Vertical** — [Watch `vertical/DockerAndKubernetesForAI_LikhithR.mp4`](https://drive.google.com/file/d/1gy3LaEHyAwLriSqfzGCYNzEQ0ZXu5GcR/view?usp=sharing) — 2160×3840 — 60.0 s — SHA-256 `ff2565d1f4400525aa3be0c199eb1027c004e38b25ae7a2ad7e07becb4ab61dc` (final master, `.verified.json` receipt: ready)
 - Sources/large assets Drive link: none
 - PM review status: pending
 - YouTube 4K processing check: pending upload

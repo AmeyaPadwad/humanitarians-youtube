@@ -49,8 +49,8 @@ A 60-second explainer on Amazon Bedrock: a managed service that gives one API to
 - **Approvals and checks:** [FACTCHECK.md](FACTCHECK.md) (signed off by Likhith), [TYPECHECK.md](TYPECHECK.md) and [vertical/TYPECHECK.md](vertical/TYPECHECK.md) (GATE T PASS), [CHECKS-REPORT.md](CHECKS-REPORT.md), [BUILD-LOG.md](BUILD-LOG.md).
 
 ## Watch and review
-- **Landscape** — TODO Drive link (`landscape/AWSBedrock_LikhithR.mp4`) — 3840×2160 — 63.8 s — SHA-256 `cbabbe1c42f8c8e4ff47934718a2fb297834c22d935bf3b67e5afca0b01a453a` (final master, `.verified.json` receipt: ready)
-- **Vertical** — TODO Drive link (`vertical/AWSBedrock_LikhithR.mp4`) — 2160×3840 — 63.8 s — SHA-256 `0208315ae71bcf4da913463ba1121da1760f77137fafaea098d5f089ca08bf8b` (final master, `.verified.json` receipt: ready)
+- **Landscape** — [Watch `landscape/AWSBedrock_LikhithR.mp4`](https://drive.google.com/file/d/18Dg_jwDBVlHofRh__-Fj7wJFvooQIGWy/view?usp=sharing) — 3840×2160 — 63.8 s — SHA-256 `cbabbe1c42f8c8e4ff47934718a2fb297834c22d935bf3b67e5afca0b01a453a` (final master, `.verified.json` receipt: ready)
+- **Vertical** — [Watch `vertical/AWSBedrock_LikhithR.mp4`](https://drive.google.com/file/d/1cyE9aTY_gxsksV0QLW05Z5upQzbyUEpX/view?usp=sharing) — 2160×3840 — 63.8 s — SHA-256 `0208315ae71bcf4da913463ba1121da1760f77137fafaea098d5f089ca08bf8b` (final master, `.verified.json` receipt: ready)
 - Sources/large assets Drive link: none
 - PM review status: pending
 - YouTube 4K processing check: pending upload

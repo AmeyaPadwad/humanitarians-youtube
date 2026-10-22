@@ -49,8 +49,8 @@ A 60-second explainer comparing RAG with Google's Open Knowledge Format: RAG sea
 - **Approvals and checks:** [FACTCHECK.md](FACTCHECK.md) (signed off by Likhith), [TYPECHECK.md](TYPECHECK.md) and [vertical/TYPECHECK.md](vertical/TYPECHECK.md) (GATE T PASS), [CHECKS-REPORT.md](CHECKS-REPORT.md), [BUILD-LOG.md](BUILD-LOG.md).
 
 ## Watch and review
-- **Landscape** — TODO Drive link (`landscape/RAGVsOpenKnowledgeFormat_LikhithR.mp4`) — 3840×2160 — 60.0 s — SHA-256 `8cabe7db2d9a3855e4fd2729294fae8893e3e83de6dddb35e7afafc9183a49b6` (final master, `.verified.json` receipt: ready)
-- **Vertical** — TODO Drive link (`vertical/RAGVsOpenKnowledgeFormat_LikhithR.mp4`) — 2160×3840 — 60.0 s — SHA-256 `0cb32c8356e86b37958240509cc2fd4d900473bc78cc78c38541e0504a43ec61` (final master, `.verified.json` receipt: ready)
+- **Landscape** — [Watch `landscape/RAGVsOpenKnowledgeFormat_LikhithR.mp4`](https://drive.google.com/file/d/1mPzopR99vEbYIjNYXwZI1j3-6LEjlm0n/view?usp=sharing) — 3840×2160 — 60.0 s — SHA-256 `8cabe7db2d9a3855e4fd2729294fae8893e3e83de6dddb35e7afafc9183a49b6` (final master, `.verified.json` receipt: ready)
+- **Vertical** — [Watch `vertical/RAGVsOpenKnowledgeFormat_LikhithR.mp4`](https://drive.google.com/file/d/1QBE2r9ztoK9QI67XpLZQWH8hIIqLN27o/view?usp=sharing) — 2160×3840 — 60.0 s — SHA-256 `0cb32c8356e86b37958240509cc2fd4d900473bc78cc78c38541e0504a43ec61` (final master, `.verified.json` receipt: ready)
 - Sources/large assets Drive link: none
 - PM review status: pending
 - YouTube 4K processing check: pending upload

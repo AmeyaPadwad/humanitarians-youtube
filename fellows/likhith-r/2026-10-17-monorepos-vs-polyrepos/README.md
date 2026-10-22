@@ -48,8 +48,8 @@ A 60-second explainer on monorepos versus polyrepos: one repository with a singl
 - **Approvals and checks:** [FACTCHECK.md](FACTCHECK.md) (signed off by Likhith), [TYPECHECK.md](TYPECHECK.md) and [vertical/TYPECHECK.md](vertical/TYPECHECK.md) (GATE T PASS), [CHECKS-REPORT.md](CHECKS-REPORT.md), [BUILD-LOG.md](BUILD-LOG.md).
 
 ## Watch and review
-- **Landscape** — TODO Drive link (`landscape/MonoreposVsPolyrepos_LikhithR.mp4`) — 3840×2160 — 69.0 s — SHA-256 `afb5f54cff560ab1512d42ae0d7f26746400c1d919cd387b0e3eec4054e70989` (final master, `.verified.json` receipt: ready)
-- **Vertical** — TODO Drive link (`vertical/MonoreposVsPolyrepos_LikhithR.mp4`) — 2160×3840 — 69.0 s — SHA-256 `364ae677d628f6ae682d8e9a69f58494d2b4bd42519dbee35e71689eb0e593b0` (final master, `.verified.json` receipt: ready)
+- **Landscape** — [Watch `landscape/MonoreposVsPolyrepos_LikhithR.mp4`](https://drive.google.com/file/d/16tJUixU1YwyD2Td6-qA0RSeTmZx3AcTd/view?usp=sharing) — 3840×2160 — 69.0 s — SHA-256 `afb5f54cff560ab1512d42ae0d7f26746400c1d919cd387b0e3eec4054e70989` (final master, `.verified.json` receipt: ready)
+- **Vertical** — [Watch `vertical/MonoreposVsPolyrepos_LikhithR.mp4`](https://drive.google.com/file/d/13Gg8e8KlvQ_1x2zRWFWQU2cIXaA5VNUo/view?usp=sharing) — 2160×3840 — 69.0 s — SHA-256 `364ae677d628f6ae682d8e9a69f58494d2b4bd42519dbee35e71689eb0e593b0` (final master, `.verified.json` receipt: ready)
 - Sources/large assets Drive link: none
 - PM review status: pending
 - YouTube 4K processing check: pending upload

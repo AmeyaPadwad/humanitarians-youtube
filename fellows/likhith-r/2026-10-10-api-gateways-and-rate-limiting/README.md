@@ -49,8 +49,8 @@ A 60-second explainer on API gateways and rate limiting: one entry point in fron
 - **Approvals and checks:** [FACTCHECK.md](FACTCHECK.md) (signed off by Likhith), [TYPECHECK.md](TYPECHECK.md) and [vertical/TYPECHECK.md](vertical/TYPECHECK.md) (GATE T PASS), [CHECKS-REPORT.md](CHECKS-REPORT.md), [BUILD-LOG.md](BUILD-LOG.md).
 
 ## Watch and review
-- **Landscape** — TODO Drive link (`landscape/APIGatewaysAndRateLimiting_LikhithR.mp4`) — 3840×2160 — 60.0 s — SHA-256 `a0b32681a5ec440d6486a1a7debef220c89969025d88bf7488f040c9b70622cb` (final master, `.verified.json` receipt: ready)
-- **Vertical** — TODO Drive link (`vertical/APIGatewaysAndRateLimiting_LikhithR.mp4`) — 2160×3840 — 60.0 s — SHA-256 `0443d30c002e58fb05b969ed22ccb1c127da0d38a703534697d64844e08218b0` (final master, `.verified.json` receipt: ready)
+- **Landscape** — [Watch `landscape/APIGatewaysAndRateLimiting_LikhithR.mp4`](https://drive.google.com/file/d/1qvLMdCVmZMtWk62elR9KDkrwJbkjMvNu/view?usp=sharing) — 3840×2160 — 60.0 s — SHA-256 `a0b32681a5ec440d6486a1a7debef220c89969025d88bf7488f040c9b70622cb` (final master, `.verified.json` receipt: ready)
+- **Vertical** — [Watch `vertical/APIGatewaysAndRateLimiting_LikhithR.mp4`](https://drive.google.com/file/d/1MWy08GnwiHBl9dcZH8hre_m9s5HbZfkw/view?usp=sharing) — 2160×3840 — 60.0 s — SHA-256 `0443d30c002e58fb05b969ed22ccb1c127da0d38a703534697d64844e08218b0` (final master, `.verified.json` receipt: ready)
 - Sources/large assets Drive link: none
 - PM review status: pending
 - YouTube 4K processing check: pending upload

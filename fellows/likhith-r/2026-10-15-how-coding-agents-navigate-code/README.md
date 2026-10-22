@@ -48,8 +48,8 @@ A 60-second explainer on how AI coding agents navigate a codebase they have neve
 - **Approvals and checks:** [FACTCHECK.md](FACTCHECK.md) (signed off by Likhith), [TYPECHECK.md](TYPECHECK.md) and [vertical/TYPECHECK.md](vertical/TYPECHECK.md) (GATE T PASS), [CHECKS-REPORT.md](CHECKS-REPORT.md), [BUILD-LOG.md](BUILD-LOG.md).
 
 ## Watch and review
-- **Landscape** — TODO Drive link (`landscape/AICodingAgents_LikhithR.mp4`) — 3840×2160 — 68.0 s — SHA-256 `d6fba0acd0ac48ef79dc9f48e2be44202b59b71b28c57ed73f71bbf548de6a42` (final master, `.verified.json` receipt: ready)
-- **Vertical** — TODO Drive link (`vertical/AICodingAgents_LikhithR.mp4`) — 2160×3840 — 68.0 s — SHA-256 `f97502c121aec05bc9ebbf0be1947d924afc9c5fe0c72d0f366fe282f8c0d30f` (final master, `.verified.json` receipt: ready)
+- **Landscape** — [Watch `landscape/AICodingAgents_LikhithR.mp4`](https://drive.google.com/file/d/1Rf-OmOW3hoj99Ar-LsFMMEgC9V5DNUrl/view?usp=sharing) — 3840×2160 — 68.0 s — SHA-256 `d6fba0acd0ac48ef79dc9f48e2be44202b59b71b28c57ed73f71bbf548de6a42` (final master, `.verified.json` receipt: ready)
+- **Vertical** — [Watch `vertical/AICodingAgents_LikhithR.mp4`](https://drive.google.com/file/d/1_8_BpXzeBqm8JzLfnpPIdl_SPbnfpsjQ/view?usp=sharing) — 2160×3840 — 68.0 s — SHA-256 `f97502c121aec05bc9ebbf0be1947d924afc9c5fe0c72d0f366fe282f8c0d30f` (final master, `.verified.json` receipt: ready)
 - Sources/large assets Drive link: none
 - PM review status: pending
 - YouTube 4K processing check: pending upload

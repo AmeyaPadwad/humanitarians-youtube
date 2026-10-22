@@ -49,8 +49,8 @@ A 60-second explainer on Microduck, Pollen Robotics and Hugging Face's $399 open
 - **Approvals and checks:** [FACTCHECK.md](FACTCHECK.md) (signed off by Likhith), [TYPECHECK.md](TYPECHECK.md) and [vertical/TYPECHECK.md](vertical/TYPECHECK.md) (GATE T PASS), [CHECKS-REPORT.md](CHECKS-REPORT.md), [BUILD-LOG.md](BUILD-LOG.md).
 
 ## Watch and review
-- **Landscape** — TODO Drive link (`landscape/MicroduckSimToRealTraining_LikhithR.mp4`) — 3840×2160 — 60.0 s — SHA-256 `c4c7a14d9ef9fb0444118fe90dabd7f2e5c0618ee2f3ca53b3c715eb5dae9259` (final master, `.verified.json` receipt: ready)
-- **Vertical** — TODO Drive link (`vertical/MicroduckSimToRealTraining_LikhithR.mp4`) — 2160×3840 — 60.0 s — SHA-256 `3058c41af48fa75f46ea617a71cea9b0a998bf23f09ecba9939237d857a3fc52` (final master, `.verified.json` receipt: ready)
+- **Landscape** — [Watch `landscape/MicroduckSimToRealTraining_LikhithR.mp4`](https://drive.google.com/file/d/1Gfiez-yE_ONzBWlehFNAOv1gmIBuzP2j/view?usp=sharing) — 3840×2160 — 60.0 s — SHA-256 `c4c7a14d9ef9fb0444118fe90dabd7f2e5c0618ee2f3ca53b3c715eb5dae9259` (final master, `.verified.json` receipt: ready)
+- **Vertical** — [Watch `vertical/MicroduckSimToRealTraining_LikhithR.mp4`](https://drive.google.com/file/d/1EPt_4CdZ7KpsNmj8V4RXvdl0h5BZN_r7/view?usp=sharing) — 2160×3840 — 60.0 s — SHA-256 `3058c41af48fa75f46ea617a71cea9b0a998bf23f09ecba9939237d857a3fc52` (final master, `.verified.json` receipt: ready)
 - Sources/large assets Drive link: none
 - PM review status: pending
 - YouTube 4K processing check: pending upload
