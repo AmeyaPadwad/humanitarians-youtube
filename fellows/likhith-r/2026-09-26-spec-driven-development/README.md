@@ -1,6 +1,6 @@
 # Spec-Driven Development
 
-**Fellow:** Likhith R. · **Week:** 2026-09-26 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
+**Fellow:** Likhith R. · **Week:** 2026-09-21 to 2026-09-27 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
 
 A 60-second explainer on why spec-driven development makes AI-assisted coding maintainable: write the spec first, treat it (not the prompt history) as the source of truth, and use it to cut guesswork, review changes, keep context, and catch scope drift.
 

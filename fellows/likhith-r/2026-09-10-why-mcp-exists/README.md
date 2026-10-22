@@ -1,6 +1,6 @@
 # Why MCP Exists
 
-**Fellow:** Likhith R. · **Week:** 2026-09-10 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
+**Fellow:** Likhith R. · **Week:** 2026-09-09 to 2026-09-13 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
 
 A 60-second explainer on why the Model Context Protocol exists when APIs already let software talk to software: each tool becomes one MCP server that any agent can discover and call the same way, on top of the real API.
 

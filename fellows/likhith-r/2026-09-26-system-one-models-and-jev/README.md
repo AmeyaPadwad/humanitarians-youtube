@@ -1,6 +1,6 @@
 # System One Models and Jev
 
-**Fellow:** Likhith R. · **Week:** 2026-09-26 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
+**Fellow:** Likhith R. · **Week:** 2026-09-21 to 2026-09-27 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
 
 A 60-second explainer on TypeSafe's Jev, the first "System One" model: instead of generating text token by token, it returns typed, structured decisions in one parallel pass, each with a calibrated confidence score, aimed at the "smart if-statements" inside automated software.
 

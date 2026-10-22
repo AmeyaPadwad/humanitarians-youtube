@@ -1,6 +1,6 @@
 # RAG Pipelines, End to End
 
-**Fellow:** Likhith R. · **Week:** 2026-09-11 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
+**Fellow:** Likhith R. · **Week:** 2026-09-09 to 2026-09-13 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
 
 A 60-second explainer on retrieval-augmented generation: instead of retraining a model on your documents, embed and store them as vectors, retrieve the closest chunks for each question, and ground the answer in them.
 

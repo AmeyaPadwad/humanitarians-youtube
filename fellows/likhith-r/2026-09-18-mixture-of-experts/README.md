@@ -1,6 +1,6 @@
 # Mixture of Experts
 
-**Fellow:** Likhith R. · **Week:** 2026-09-18 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
+**Fellow:** Likhith R. · **Week:** 2026-09-14 to 2026-09-20 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
 
 A 60-second explainer on Mixture of Experts: a router sends each token to a few small expert blocks, so a model can hold far more parameters than it runs per token, at the cost of keeping every expert in memory.
 

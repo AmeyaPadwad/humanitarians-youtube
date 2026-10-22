@@ -1,6 +1,6 @@
 # How KV Caching Speeds Up LLMs
 
-**Fellow:** Likhith R. · **Week:** 2026-09-17 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
+**Fellow:** Likhith R. · **Week:** 2026-09-14 to 2026-09-20 · **Builder:** `ai-explainer` on `claude-hai` · **Voice:** Kokoro `am_onyx` (AI narration)
 
 A 60-second explainer on the KV cache: each new token reuses the stored keys and values of earlier tokens instead of recomputing them, which is why text streams quickly after the first word, and why long contexts cost memory.
 

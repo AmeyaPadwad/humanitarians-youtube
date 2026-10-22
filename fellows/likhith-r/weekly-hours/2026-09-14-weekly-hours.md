@@ -1,4 +1,4 @@
-# Weekly Hours — 2026-09-16 to 2026-09-22
+# Weekly Hours — 2026-09-14 to 2026-09-20
 
 | Activity | Hours | Record / artifact |
 |---|---:|---|
