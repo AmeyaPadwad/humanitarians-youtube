@@ -10,7 +10,7 @@
   I expected an agent to read the whole codebase and then write a fix. I wanted the steps on screen to be real tool calls and real test output, so the loop was replayed on a small toy repo.
 
 - **Where it resisted, and what I did next:**
-  The first draft ran about 73 seconds and was trimmed three times. Beat 2's correction initially didn't fire because the component only swaps single words, so it was rewritten word by word. Several cards collided with the spark line in both formats and were moved.
+  My first draft ran about 73 seconds, and I trimmed it three times. Beat 2's correction didn't fire at first because the component only swaps single words, so I had it rewritten word by word. Several cards collided with the spark line in both formats, and I had them moved.
 
 - **What Claude or another person contributed — and what I accepted, changed, or rejected:**
   Claude Code drafted the beat sheet, wrote the scenes and the replay script, checked the claims against Anthropic's docs, and fixed the layout issues. I accepted keeping "largely on its own" rather than "on its own", and the note that the edit style shown is Claude Code's.

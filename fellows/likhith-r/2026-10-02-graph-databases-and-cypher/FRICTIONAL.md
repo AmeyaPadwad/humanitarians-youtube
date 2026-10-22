@@ -10,7 +10,7 @@
   I expected the contrast with SQL to be mostly about speed. I wanted the tables, queries and answers on screen to be real, so the same toy network was loaded into a graph engine and into SQLite and both were queried.
 
 - **Where it resisted, and what I did next:**
-  The first draft ran about 81 seconds and had to be trimmed. The fact-check pushed back on simple speed claims, so the video says "every hop adds a join" instead. The Beat 2 voice and screen read as contradicting each other, so the line was rewritten to name the misconception first.
+  My first draft ran about 81 seconds, so I trimmed it. The fact-check pushed back on my simple speed claims, so I changed the line to "every hop adds a join". When I watched Beat 2, the voice and the screen seemed to contradict each other, so I had the line rewritten to name the misconception first.
 
 - **What Claude or another person contributed — and what I accepted, changed, or rejected:**
   Claude Code drafted the beat sheet, wrote the scenes, ran both databases for the evidence, and fixed the layout issues found in frame checks. I accepted dropping the speed claim and adding the "tables still win for plain rows" limit to the verdict.

@@ -33,7 +33,7 @@ A 60-second explainer comparing RAG with Google's Open Knowledge Format: RAG sea
 
 ## Reproduce
 - **Brutalist version/commit:** nikbearbrown/brutalist.art `a187fab` (Remotion 4.0.535 / React 19).
-- **Source commit used for this export:** not committed — `a187fab` plus local changes: `scenes/RagOkf.tsx`, `scenes/JevExplainer.tsx`, `scenes/HaiOutro.tsx` under `runtime/remotion/src/`, each exported component registered in `Root.tsx` as `<Name>` (1920×1080) and `<Name>916` (1080×1920). `type_check.py` is the unmodified toolkit version.
+- **Source commit used for this export:** not committed — `a187fab` plus local changes: `scenes/RagOkf.tsx`, `scenes/JevExplainer.tsx`, `scenes/HaiOutro.tsx` under `runtime/remotion/src/`, each exported component registered in `Root.tsx` twice: under its own name at 1920×1080, and with a `916` suffix at 1080×1920. `type_check.py` is the unmodified toolkit version.
 - **Beat sheet and custom scene files:** `beat_sheet.json` (16:9), `vertical/beat_sheet.json` (9:16), `scenes/RagOkf.tsx`, `scenes/JevExplainer.tsx`, `scenes/HaiOutro.tsx`.
 - **Commands** (toolkit root, Python 3.12 venv, MacTeX on PATH; reel at `youtube/brutalist/claude-hai-rag-vs-okf/`):
   ```bash

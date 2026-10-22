@@ -10,7 +10,7 @@
   I expected containers to make a model run identically everywhere, and Kubernetes to simply run Docker at scale. I also wanted this video to land at exactly 60 seconds.
 
 - **Where it resisted, and what I did next:**
-  The docs corrected both assumptions: containers share the host kernel and GPU containers need the host's driver, and Kubernetes doesn't need the Docker Engine. Hitting exactly 60 seconds took several rounds of trimming and timing. The type-lock check also flagged outlined pills and nested boxes, which were redesigned.
+  The docs corrected both of my assumptions: containers share the host kernel and GPU containers need the host's driver, and Kubernetes doesn't need the Docker Engine. Hitting exactly 60 seconds took me several rounds of trimming and timing. The type-lock check also flagged outlined pills and nested boxes, which I had redesigned.
 
 - **What Claude or another person contributed — and what I accepted, changed, or rejected:**
   Claude Code drafted the beat sheet, wrote the scenes, checked the claims against the Docker, NVIDIA and Kubernetes docs, and fixed what the checks found. I asked for "AI" instead of "A I" after hearing how the voice said it, and accepted adding the "often overkill" limit.
