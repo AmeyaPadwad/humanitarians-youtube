@@ -7,7 +7,7 @@
 | **Supervisor** | Edward Olano |
 | **Previous agreement** | 19 June – 31 July 2026 |
 | **Current agreement** | 1 August – 31 October 2026 |
-| **Requested period** | 1 November 2026 – [CONFIRM: end date] |
+| **Requested period** | 1 November 2026 – 31 December 2026 |
 | **Folder** | [fellows/kumar-n](https://github.com/nikbearbrown/humanitarians-youtube/tree/main/fellows/kumar-n) |
 | **Paper draft** | [Google Doc](https://docs.google.com/document/d/1yMAE0CghIcEXnI67sW6jCQ1tVSY3qqnLF1kgoWTtlKo/edit) |
 
@@ -74,7 +74,7 @@ Each stage is completed before the next begins. Weeks run Sunday to Saturday.
 | 15–28 Nov | **Section 6, Conclusion.** Rewrite to reflect what Sections 2–5 now establish, including the corrected generalization claim and the scoped Tier 1 statement. | Revised Section 6 |
 | 29 Nov – 5 Dec | **Reference audit.** Verify every citation and author list against its source and DOI across the full paper. | Corrected reference list |
 | 6–12 Dec | **Overleaf conversion.** Move the manuscript to LaTeX, convert UID citations to numbered references and add the planned figures. | Overleaf manuscript |
-| [CONFIRM: date] | **Submission.** Submit the full draft to Professor Brown for review. | Complete draft |
+| 31 Dec | **Submission.** Submit the full draft to Professor Brown for review. | Complete draft |
 
 **Reporting.** Hours will be recorded weekly, in the week the work is
 performed. A frictional log will be written for each work folder during the
