@@ -6,6 +6,7 @@
 
 - **Group / PM:** Medhavy — [Clafacio L.](../clafacio-l/) (Weeks 4–15), [Jash S.](../jash-s/) (Week 16 onward)
 - **Channel:** [youtube.com/@MedhavyAI](https://www.youtube.com/@MedhavyAI)
+- **Drive (renders):** [all weeks](https://drive.google.com/drive/folders/1f7r-1Iq3WEzqcWCu6B8TVNQvqt6fBLGo)
 - **Kokoro voice:** `am_onyx` ("Onyx") — declared in every `claude-sri` beat sheet as `voice_kokoro`.
   See [voice note](#voice) below.
 - **Reporting period covered here:** 17 Aug – 18 Oct 2026
@@ -67,9 +68,10 @@ Honest exception: the Medhavy logo-reel beat sheet carries an ElevenLabs
 `voice_id`, not a Kokoro voice — the brand stings predate the Kokoro-only rule.
 Recorded as-is rather than retro-edited.
 
-## Hours
+## Hours and renewal
 
-[HOURS.md](HOURS.md) — weekly hours, reconstructed by the volunteer, not measured time.
+- [Weekly hours](HOURS.md) — reconstructed by the volunteer, not measured time
+- [Renewal request](RENEWAL.md)
 
 ## Scope and notes
 
