@@ -29,6 +29,7 @@
 - `2026-10-09-adlc/` - agentic development lifecycle (2026-10-09)
 - `2026-10-16-kv-caching/` - KV Cache (2026-10-16)
 - `2026-10-16-vendor-intel-logging-config/` - vendor intel logging config (2026-10-16)
+- `2026-10-23-mixture-of-experts/` - mixture of experts (2026-10-23)
 
 
 ## Frictional log
