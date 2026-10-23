@@ -21,6 +21,7 @@ These cover the six steps of `market-sentiment-analysis-part-1` in
 | 2026-10-09 | [`.gitattributes` and manifest drift](./2026-10-09-gitattributes-and-manifest-drift.md) | same branch |
 | 2026-10-15 | [Building the `snickerdoodle` CLI](./2026-10-15-snickerdoodle-cli.md) | `d85106b`, on `feat/snickerdoodle-cli` |
 | 2026-10-15 | [The `check` verb](./2026-10-15-check-verb.md) | same branch |
+| 2026-10-22 | [Gate records](./2026-10-22-gate-records.md) | `93485c4`, on `feat/gate-records` |
 
 ## Where the video work's logs are
 
