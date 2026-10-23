@@ -88,6 +88,14 @@ measured clock — see that episode's `BUILD-LOG.md`, "REVISION 2".
   topic explainer on energy-recycling photonics. The phrase names three different
   things; the video separates them rather than pretending there is one result.
   11 beats · ~3:39.
+- [2026-10-22 — It Looked Complete](./2026-10-22-mycroft-weekly-it-looked-complete/) —
+  weekly work report on `mycroft` @ `93485c4`, **episode 9**: three questions for
+  any record that claims something was checked, and a record that looked complete
+  while five fields were absent. 12 beats · ~3:17.
+- [2026-10-22 — Refusal Is One Direction](./2026-10-22-refusal-is-one-direction/) —
+  topic explainer on what "abliteration" actually is. Deliberately
+  non-operational: the practical guidance is defensive, about evaluating a
+  third-party edited model. 11 beats · ~4:22.
 
 The two 2026-08-27 folders carry a `short/` subfolder: a derivative 1080×1920 cut
 for YouTube Shorts, reusing the parent's audio with only the funnel outro
@@ -105,7 +113,7 @@ closes on "gate 2 cannot clear"; ep 2 resolves two rows of that list; ep 3's
 falsifiability beat lands back on ep 1's frozen corpus; ep 4 closes the ledger
 at six of six steps and finds the same ep-1 defect one level up (a gate with
 nothing to fail). Watch them in order:
-`9ef4e7f` → `bdc1bc1` → `253ee74` → `aa0c0fe` → `4157a8e` → `8c13b87` → `fbd30b6` → `d85106b`.
+`9ef4e7f` → `bdc1bc1` → `253ee74` → `aa0c0fe` → `4157a8e` → `8c13b87` → `fbd30b6` → `d85106b` → `93485c4`.
 
 **Dual-use note:** *The Gap You Can Actually Close* is a security topic handled
 defensively. It explains what the term names, reports published statistics, and
